@@ -1,0 +1,3929 @@
+[
+   {
+      "_Attachments": [
+         {
+            "name": "98416.xml",
+            "size": 13090,
+            "sizes": {
+               "v0.0.1": 13090
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "4c426c2d76ed333189cddec73d0a7fee"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/98/41/6/v0.0.1/98416.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/98/41/6/v0.0.1/98416.xml"
+            },
+            "created": "2020-03-27T11:52:36-07:00",
+            "modified": "2020-04-28T09:38:50-07:00"
+         }
+      ],
+      "_Key": "98416",
+      "abstract": "The design and creation of synthetic genomes provide a powerful approach to understanding and engineering biology. However, it is often limited by the paucity of methods for precise genome manipulation. Here, we demonstrate the programmed fission of the Escherichia coli genome into diverse pairs of synthetic chromosomes and the programmed fusion of synthetic chromosomes to generate genomes with user-defined inversions and translocations. We further combine genome fission, chromosome transplant, and chromosome fusion to assemble genomic regions from different strains into a single genome. Thus, we program the scarless assembly of new genomes with nucleotide precision, a key step in the convergent synthesis of genomes from diverse progenitors. This work provides a set of precise, rapid, large-scale (megabase) genome-engineering operations for creating diverse synthetic genomes.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "de-la-Torre-D",
+               "name": {
+                  "family": "de la Torre",
+                  "given": "Daniel"
+               },
+               "orcid": "0000-0002-9545-9388"
+            },
+            {
+               "id": "Robertson-W-E",
+               "name": {
+                  "family": "Robertson",
+                  "given": "Wesley E."
+               },
+               "orcid": "0000-0001-9812-8288"
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2019-08-30",
+      "date_type": "published",
+      "datestamp": "2019-09-04 22:19:47",
+      "dir": "disk0/00/09/84/16",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 288290,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582481,
+                  "filename": "922.full.pdf",
+                  "filesize": 1111213,
+                  "hash": "8c7c053495b4509f2dc410e40a15db6d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582481",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-09-04 21:51:42",
+                  "objectid": 288290,
+                  "url": "https://authors.library.caltech.edu/98416/1/922.full.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/288290",
+            "language": "en",
+            "license": "other",
+            "main": "922.full.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 288291,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582485,
+                  "filename": "Wang_aay0737_SM.pdf",
+                  "filesize": 1142414,
+                  "hash": "6d100ad8ce06cc25020277f19008199f",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582485",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-09-04 21:53:36",
+                  "objectid": 288291,
+                  "url": "https://authors.library.caltech.edu/98416/2/Wang_aay0737_SM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Materials and Methods; Figs. S1 to S8; Tables S3 to S5; References",
+            "id": "https://authors.library.caltech.edu/id/document/288291",
+            "language": "en",
+            "license": "other",
+            "main": "Wang_aay0737_SM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 288292,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582487,
+                  "filename": "aay0737_Wang_TableS1.xlsx",
+                  "filesize": 10363,
+                  "hash": "e5a64830fa8ef3d0394f84ac6eda613e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582487",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-09-04 21:54:00",
+                  "objectid": 288292,
+                  "url": "https://authors.library.caltech.edu/98416/3/aay0737_Wang_TableS1.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S1",
+            "id": "https://authors.library.caltech.edu/id/document/288292",
+            "language": "en",
+            "license": "other",
+            "main": "aay0737_Wang_TableS1.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 288293,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582489,
+                  "filename": "aay0737_Wang_TableS2.xlsx",
+                  "filesize": 13088,
+                  "hash": "8140d1b5e8b39474e334824d3c3666d5",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582489",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-09-04 21:54:02",
+                  "objectid": 288293,
+                  "url": "https://authors.library.caltech.edu/98416/4/aay0737_Wang_TableS2.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S2",
+            "id": "https://authors.library.caltech.edu/id/document/288293",
+            "language": "en",
+            "license": "other",
+            "main": "aay0737_Wang_TableS2.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 288294,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582491,
+                  "filename": "aay0737_Wang_TableS6.xlsx",
+                  "filesize": 11982,
+                  "hash": "2b273a46d2c66d9ab1462e161997c368",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582491",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-09-04 21:54:05",
+                  "objectid": 288294,
+                  "url": "https://authors.library.caltech.edu/98416/5/aay0737_Wang_TableS6.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S6",
+            "id": "https://authors.library.caltech.edu/id/document/288294",
+            "language": "en",
+            "license": "other",
+            "main": "aay0737_Wang_TableS6.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 288295,
+            "eprint_id": 98416,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1582493,
+                  "filename": "aay0737_Wang_Data-Files-S1-S7.zip",
+                  "filesize": 10892986,
+                  "hash": "d924fdf6f8e8ba24c99dad4b1f7798e5",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1582493",
+                  "mime_type": "application/zip",
+                  "mtime": "2019-09-04 21:54:46",
+                  "objectid": 288295,
+                  "url": "https://authors.library.caltech.edu/98416/6/aay0737_Wang_Data-Files-S1-S7.zip"
+               }
+            ],
+            "format": "application/zip",
+            "format_desc": "Data Files S1 to S7",
+            "id": "https://authors.library.caltech.edu/id/document/288295",
+            "language": "en",
+            "license": "other",
+            "main": "aay0737_Wang_Data-Files-S1-S7.zip",
+            "mime_type": "application/zip",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 98416,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_UP_A024_1008"
+            },
+            {
+               "agency": "European Research Council (ERC)",
+               "grant_number": "SGCR"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/98416",
+      "id_number": "CaltechAUTHORS:20190904-145137584",
+      "ispublished": "pub",
+      "issn": "0036-8075",
+      "lastmod": "2019-10-03 21:40:56",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2019 American Association for the Advancement of Science.\nThis is an article distributed under the terms of the Science Journals Default License. \n\nReceived 17 May 2019; accepted 2 August 2019. \n\nWe thank J. Houseley and J. Ajioka for providing equipment for pulsed-field gel electrophoresis and J.E. Sale for helpful comments on the manuscript. \n\nFunding: This work was supported by the Medical Research Council (MRC), UK (MC_U105181009 and MC_UP_A024_1008), and an ERC Advanced Grant SGCR, all to J.W.C. \n\nAuthor contributions: K.W. designed and implemented the genome manipulation processes reported. K.W., D.d.l.T., and W.E.R. demonstrated scope. D.d.l.T. implemented the de novo assembly approach. J.W.C. defined the direction of research, supervised the project, and wrote the paper with the other authors. \n\nCompeting interests: The authors declare no competing interests. \n\nData and materials availability: The sequences for de novo genome assemblies and DNA sequencing data have been deposited in NCBI\u2019s GenBank and SRA databases, and their accession numbers are listed in table S4. All other data needed to evaluate the conclusions of the study are present in the paper or the supplementary materials.",
+      "number": "6456",
+      "official_cit": "Programmed chromosome fission and fusion enable precise large-scale genome rearrangement and assembly.\nBY KAIHANG WANG, DANIEL DE LA TORRE, WESLEY E. ROBERTSON, JASON W. CHIN.\nSCIENCE 30 AUG 2019 : 922-926; https://doi.org/10.1126/science.aay0737",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20190904-145137584",
+      "pagerange": "922-926",
+      "publication": "Science",
+      "publisher": "American Association for the Advancement of Science",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "Wang_aay0737_SM.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/98416/2/Wang_aay0737_SM.pdf"
+         },
+         {
+            "basename": "aay0737_Wang_TableS1.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/98416/3/aay0737_Wang_TableS1.xlsx"
+         },
+         {
+            "basename": "aay0737_Wang_TableS2.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/98416/4/aay0737_Wang_TableS2.xlsx"
+         },
+         {
+            "basename": "aay0737_Wang_TableS6.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/98416/5/aay0737_Wang_TableS6.xlsx"
+         },
+         {
+            "basename": "aay0737_Wang_Data-Files-S1-S7.zip",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/zip",
+            "url": "https://authors.library.caltech.edu/98416/6/aay0737_Wang_Data-Files-S1-S7.zip"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1126/science.aay0737"
+            },
+            {
+               "description": "Supplementary Materials",
+               "type": "pub",
+               "url": "http://science.sciencemag.org/content/365/6456/922/suppl/DC1"
+            }
+         ]
+      },
+      "rev_number": 19,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2019-09-04 22:19:47",
+      "title": "Programmed chromosome fission and fusion enable precise large-scale genome rearrangement and assembly",
+      "type": "article",
+      "userid": 18,
+      "volume": "365"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "95595.xml",
+            "size": 28371,
+            "sizes": {
+               "v0.0.1": 28371
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "982660c0cff6fec5ccac68cd524e43bb"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/95/59/5/v0.0.1/95595.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/95/59/5/v0.0.1/95595.xml"
+            },
+            "created": "2020-03-27T11:58:57-07:00",
+            "modified": "2020-04-28T09:44:51-07:00"
+         }
+      ],
+      "_Key": "95595",
+      "abstract": "Nature uses 64 codons to encode the synthesis of proteins from the genome, and chooses 1 sense codon\u2014out of up to 6 synonyms\u2014to encode each amino acid. Synonymous codon choice has diverse and important roles, and many synonymous substitutions are detrimental. Here we demonstrate that the number of codons used to encode the canonical amino acids can be reduced, through the genome-wide substitution of target codons by defined synonyms. We create a variant of Escherichia coli with a four-megabase synthetic genome through a high-fidelity convergent total synthesis. Our synthetic genome implements a defined recoding and refactoring scheme\u2014with simple corrections at just seven positions\u2014to replace every known occurrence of two sense codons and a stop codon in the genome. Thus, we recode 18,214 codons to create an organism with a 61-codon genome; this organism uses 59 codons to encode the 20 amino acids, and enables the deletion of a previously essential transfer RNA.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Fredens-J",
+               "name": {
+                  "family": "Fredens",
+                  "given": "Julius"
+               },
+               "orcid": "0000-0002-4262-9304"
+            },
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "de-la-Torre-D",
+               "name": {
+                  "family": "de la Torre",
+                  "given": "Daniel"
+               },
+               "orcid": "0000-0002-9545-9388"
+            },
+            {
+               "id": "Funke-L-F-H",
+               "name": {
+                  "family": "Funke",
+                  "given": "Louise F. H."
+               }
+            },
+            {
+               "id": "Robertson-W-E",
+               "name": {
+                  "family": "Robertson",
+                  "given": "Wesley E."
+               },
+               "orcid": "0000-0001-9812-8288"
+            },
+            {
+               "id": "Christova-Y",
+               "name": {
+                  "family": "Christova",
+                  "given": "Yonka"
+               }
+            },
+            {
+               "id": "Chia-Tiongsun",
+               "name": {
+                  "family": "Chia",
+                  "given": "Tiongsun"
+               }
+            },
+            {
+               "id": "Schmied-W-H",
+               "name": {
+                  "family": "Schmied",
+                  "given": "Wolfgang H."
+               }
+            },
+            {
+               "id": "Dunkelmann-D-L",
+               "name": {
+                  "family": "Dunkelmann",
+                  "given": "Daniel L."
+               },
+               "orcid": "0000-0001-6447-7041"
+            },
+            {
+               "id": "Ber\u00e1nek-V",
+               "name": {
+                  "family": "Ber\u00e1nek",
+                  "given": "V\u00e1clav"
+               }
+            },
+            {
+               "id": "Uttamapinant-C",
+               "name": {
+                  "family": "Uttamapinant",
+                  "given": "Chayasith"
+               },
+               "orcid": "0000-0003-0114-0577"
+            },
+            {
+               "id": "Gonzalez-Llamazares-A",
+               "name": {
+                  "family": "Gonzalez Llamazares",
+                  "given": "Andres"
+               },
+               "orcid": "0000-0001-7545-0063"
+            },
+            {
+               "id": "Elliott-T-S",
+               "name": {
+                  "family": "Elliott",
+                  "given": "Thomas S."
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2019-05-23",
+      "date_type": "published",
+      "datestamp": "2019-05-20 17:19:17",
+      "dir": "disk0/00/09/55/95",
+      "documents": [
+         {
+            "content": "inpress",
+            "doc_id": 283531,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541001,
+                  "filename": "s41586-019-1192-5.pdf",
+                  "filesize": 2830981,
+                  "hash": "2c86cd4eb484db8ea1f6c5e80ba2d897",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541001",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-05-20 16:48:34",
+                  "objectid": 283531,
+                  "url": "https://authors.library.caltech.edu/95595/1/s41586-019-1192-5.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/283531",
+            "language": "en",
+            "license": "other",
+            "main": "s41586-019-1192-5.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283532,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541006,
+                  "filename": "41586_2019_1192_MOESM1_ESM.pdf",
+                  "filesize": 4899445,
+                  "hash": "cd40f3ab1e7f424a9b65a0081c2a9457",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541006",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-05-20 16:51:33",
+                  "objectid": 283532,
+                  "url": "https://authors.library.caltech.edu/95595/2/41586_2019_1192_MOESM1_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/283532",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_MOESM1_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283533,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541008,
+                  "filename": "41586_2019_1192_MOESM2_ESM.pdf",
+                  "filesize": 81762,
+                  "hash": "61f445572e982463cee3dce93637e9b0",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541008",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-05-20 16:51:46",
+                  "objectid": 283533,
+                  "url": "https://authors.library.caltech.edu/95595/3/41586_2019_1192_MOESM2_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Reporting Summary",
+            "id": "https://authors.library.caltech.edu/id/document/283533",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_MOESM2_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283534,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541010,
+                  "filename": "41586_2019_1192_MOESM3_ESM.zip",
+                  "filesize": 9491231,
+                  "hash": "58411cd5e9992edbc923ea02f9156df9",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541010",
+                  "mime_type": "application/zip",
+                  "mtime": "2019-05-20 16:52:04",
+                  "objectid": 283534,
+                  "url": "https://authors.library.caltech.edu/95595/4/41586_2019_1192_MOESM3_ESM.zip"
+               }
+            ],
+            "format": "application/zip",
+            "format_desc": "Supplementary Data",
+            "id": "https://authors.library.caltech.edu/id/document/283534",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_MOESM3_ESM.zip",
+            "mime_type": "application/zip",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283535,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541012,
+                  "filename": "41586_2019_1192_Fig5_ESM.jpg",
+                  "filesize": 91860,
+                  "hash": "a1d36a47d315e91d3f6bafbd2a009c23",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541012",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:52:30",
+                  "objectid": 283535,
+                  "url": "https://authors.library.caltech.edu/95595/5/41586_2019_1192_Fig5_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 1",
+            "id": "https://authors.library.caltech.edu/id/document/283535",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig5_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283536,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541014,
+                  "filename": "41586_2019_1192_Fig6_ESM.jpg",
+                  "filesize": 70449,
+                  "hash": "0fe6cfa987dc795cf551937823b785af",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541014",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:52:51",
+                  "objectid": 283536,
+                  "url": "https://authors.library.caltech.edu/95595/6/41586_2019_1192_Fig6_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 2",
+            "id": "https://authors.library.caltech.edu/id/document/283536",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig6_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283537,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541016,
+                  "filename": "41586_2019_1192_Fig7_ESM.jpg",
+                  "filesize": 66973,
+                  "hash": "a102b9cea24be89291d0ff4fa012ab17",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541016",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:53:10",
+                  "objectid": 283537,
+                  "url": "https://authors.library.caltech.edu/95595/7/41586_2019_1192_Fig7_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 3",
+            "id": "https://authors.library.caltech.edu/id/document/283537",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig7_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 7,
+            "pos": 7,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283538,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541018,
+                  "filename": "41586_2019_1192_Fig8_ESM.jpg",
+                  "filesize": 76412,
+                  "hash": "0e7ac60b784e6860692e10c9f80e2b0a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541018",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:53:32",
+                  "objectid": 283538,
+                  "url": "https://authors.library.caltech.edu/95595/8/41586_2019_1192_Fig8_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 4",
+            "id": "https://authors.library.caltech.edu/id/document/283538",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig8_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 8,
+            "pos": 8,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283539,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541020,
+                  "filename": "41586_2019_1192_Fig9_ESM.jpg",
+                  "filesize": 79130,
+                  "hash": "388fae1def5ae25ff61c664d0dcdbe4d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541020",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:53:54",
+                  "objectid": 283539,
+                  "url": "https://authors.library.caltech.edu/95595/9/41586_2019_1192_Fig9_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 5",
+            "id": "https://authors.library.caltech.edu/id/document/283539",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig9_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 9,
+            "pos": 9,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283540,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541022,
+                  "filename": "41586_2019_1192_Fig10_ESM.jpg",
+                  "filesize": 60093,
+                  "hash": "c34596d8bb5e2e7c3dcb27c7e5c02241",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541022",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:54:15",
+                  "objectid": 283540,
+                  "url": "https://authors.library.caltech.edu/95595/10/41586_2019_1192_Fig10_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 6",
+            "id": "https://authors.library.caltech.edu/id/document/283540",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig10_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 10,
+            "pos": 10,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283541,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541024,
+                  "filename": "41586_2019_1192_Fig11_ESM.jpg",
+                  "filesize": 120939,
+                  "hash": "06e3b011821607ecc54f8d597a6968b3",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541024",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:54:36",
+                  "objectid": 283541,
+                  "url": "https://authors.library.caltech.edu/95595/11/41586_2019_1192_Fig11_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 7",
+            "id": "https://authors.library.caltech.edu/id/document/283541",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig11_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 11,
+            "pos": 11,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283542,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541026,
+                  "filename": "41586_2019_1192_Fig12_ESM.jpg",
+                  "filesize": 49423,
+                  "hash": "fae6d8c77552b507f3434d28f1bbd6b5",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541026",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:54:59",
+                  "objectid": 283542,
+                  "url": "https://authors.library.caltech.edu/95595/12/41586_2019_1192_Fig12_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 8",
+            "id": "https://authors.library.caltech.edu/id/document/283542",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig12_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 12,
+            "pos": 12,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283543,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541028,
+                  "filename": "41586_2019_1192_Fig13_ESM.jpg",
+                  "filesize": 111309,
+                  "hash": "1b04106dbb30a1297edad73a68bbe35d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541028",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:55:22",
+                  "objectid": 283543,
+                  "url": "https://authors.library.caltech.edu/95595/13/41586_2019_1192_Fig13_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 9",
+            "id": "https://authors.library.caltech.edu/id/document/283543",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig13_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 13,
+            "pos": 13,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 283544,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1541030,
+                  "filename": "41586_2019_1192_Fig14_ESM.jpg",
+                  "filesize": 96000,
+                  "hash": "bdf6c199df56d1082e92e06a29f7883f",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1541030",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2019-05-20 16:55:48",
+                  "objectid": 283544,
+                  "url": "https://authors.library.caltech.edu/95595/14/41586_2019_1192_Fig14_ESM.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Fig. 10",
+            "id": "https://authors.library.caltech.edu/id/document/283544",
+            "language": "en",
+            "license": "other",
+            "main": "41586_2019_1192_Fig14_ESM.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 14,
+            "pos": 14,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "published",
+            "doc_id": 283800,
+            "eprint_id": 95595,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1542894,
+                  "filename": "s41586-019-1192-5.pdf",
+                  "filesize": 2661467,
+                  "hash": "d6e4057680d5b6e31d9b264c599197a0",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1542894",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-05-23 15:22:05",
+                  "objectid": 283800,
+                  "url": "https://authors.library.caltech.edu/95595/15/s41586-019-1192-5.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/283800",
+            "language": "en",
+            "license": "other",
+            "main": "s41586-019-1192-5.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 15,
+            "rev_number": 6,
+            "security": "internal"
+         }
+      ],
+      "eprint_id": 95595,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_UP_A024_1008"
+            },
+            {
+               "agency": "Medical Research Foundation",
+               "grant_number": "MRF-109-0003-RG-CHIN/C0741"
+            },
+            {
+               "agency": "European Research Council (ERC)",
+               "grant_number": "SGCR"
+            },
+            {
+               "agency": "Lundbeck Foundation",
+               "grant_number": "R232-2016-3474"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/95595",
+      "id_number": "CaltechAUTHORS:20190520-094828547",
+      "ispublished": "pub",
+      "issn": "0028-0836",
+      "keywords": "Biotechnology; Chromosomes; Genetic engineering; Synthetic biology; Translation",
+      "lastmod": "2020-03-09 13:19:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2019 Springer Nature Publishing AG. \n\nReceived 18 December 2018; Accepted 09 April 2019; Published 15 May 2019. \n\nData availability: The sequences and genome design details used in this study are available in the Supplementary Data. Supplementary Data 1 provides the GenBank file of the E. coli MDS42 genome (NCBI accession number AP012306.1); Supplementary Data 2 provides the GenBank file of the designed synthetic E. coli genome with codon replacements and refactorings; Supplementary Data 3 provides the table of target codons; Supplementary Data 4 provides the table of overlaps and refactoring; Supplementary Data 5 provides the table of 10-kb stretches; Supplementary Data 6 provides the GenBank file of the BAC sacB-cat-rpsL; Supplementary Data 7 provides the GenBank file of BAC-rpsL-kanR-sacB; Supplementary Data 8 provides the GenBank file of the BAC rpsL-kanR-pheS\u2217-HygR; Supplementary Data 9 provides the table of BAC construction; Supplementary Data 10 provides the table of BAC assembly; Supplementary Data 11 provides the table of REXER experiments; Supplementary Data 12 provides the GenBank file of spacer plasmids without trans-activating CRISPR RNA (tracrRNA) and annotation for linear spacers; Supplementary Data 13 provides the GenBank file of spacer plasmids with tracrRNA and annotation for linear spacers; Supplementary Data 14 provides the table of oligonucleotides used for recoding fixing experiments; Supplementary Data 15 provides the GenBank file of the gentamycin-resistance oriT cassette; Supplementary Data 16 provides the oligonucleotide primers used for conjugation; Supplementary Data 17 provides the GenBank file of the pJF146 F\u2032 plasmid that does not self-transfer; Supplementary Data 18 provides the GenBank file of the fully recoded genome of Syn61, verified by next-generation sequencing; Supplementary Data 19 provides the table of design optimizations and non-programmed mutations; Supplementary Data 20 provides a list of the proteins identified by tandem mass spectrometry; and Supplementary Data 21 provides a list of the primers used for deletion experiments. All other datasets generated and/or analysed in this study are available from the corresponding author upon reasonable request. All materials (Supplementary Data 9, 12, 13, 17, 18) from this study are available from the corresponding author upon reasonable request. \n\nCode availability: Code used for genome design is available at https://github.com/TiongSun/genome_recoding; for sequencing at https://github.com/TiongSun/iSeq; and for generating recoding landscapes at https://github.com/TiongSun/recoding_landscape. \n\nThis work was supported by the Medical Research Council (MRC), UK (MC_U105181009 and MC_UP_A024_1008), the Medical Research Foundation (MRF-109-0003-RG-CHIN/C0741) and an ERC Advanced Grant SGCR, all to J.W.C., and by the Lundbeck Foundation (R232-2016-3474) to J.F. J.W.C. thanks H. Pelham for supporting this project. We thank M. Skehel and the MRC-LMB mass spectrometry service for label-free-quantification-based proteomics; N. Barry for microscopy; A. Crisp for helping with Python scripts; and C. J. K. Wan, S. H. Kim, L. Dunsmore, N. Huguenin-Dezot and S. D. Fried for their support in experimental work. \n\nReviewer information: Nature thanks Abhishek Chatterjee, Tom Ellis and the other anonymous reviewer(s) for their contribution to the peer review of this work. \n\nThese authors contributed equally: Julius Fredens, Kaihang Wang, Daniel de la Torre, Louise F. H. Funke, Wesley E. Robertson. \n\nAuthor Contributions: K.W. and T.C. designed the target genome sequence. T.C. generated scripts for data analysis. All authors, except T.S.E., contributed to assembly of sections. J.F., L.F.H.F., K.W. and A.G.L. led the fixing of deleterious synthetic sequences. J.F., D.d.l.T., L.F.H.F., W.E.R. and Y.C. led the assembly of sections into Syn61 and characterized the strain with the assistance of T.S.E. J.W.C. supervised the project and wrote the paper with the other authors. \n\nThe authors declare no competing interests.",
+      "number": "7757",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20190520-094828547",
+      "pagerange": "514-518",
+      "publication": "Nature",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "41586_2019_1192_MOESM1_ESM.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/95595/2/41586_2019_1192_MOESM1_ESM.pdf"
+         },
+         {
+            "basename": "41586_2019_1192_MOESM2_ESM.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/95595/3/41586_2019_1192_MOESM2_ESM.pdf"
+         },
+         {
+            "basename": "41586_2019_1192_MOESM3_ESM.zip",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/zip",
+            "url": "https://authors.library.caltech.edu/95595/4/41586_2019_1192_MOESM3_ESM.zip"
+         },
+         {
+            "basename": "41586_2019_1192_Fig5_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/5/41586_2019_1192_Fig5_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig6_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/6/41586_2019_1192_Fig6_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig7_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/7/41586_2019_1192_Fig7_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig8_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/8/41586_2019_1192_Fig8_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig9_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/9/41586_2019_1192_Fig9_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig10_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/10/41586_2019_1192_Fig10_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig11_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/11/41586_2019_1192_Fig11_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig12_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/12/41586_2019_1192_Fig12_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig13_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/13/41586_2019_1192_Fig13_ESM.jpg"
+         },
+         {
+            "basename": "41586_2019_1192_Fig14_ESM.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/95595/14/41586_2019_1192_Fig14_ESM.jpg"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/s41586-019-1192-5"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/bDpEc"
+            }
+         ]
+      },
+      "rev_number": 34,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2019-05-23 17:13:55",
+      "title": "Total synthesis of Escherichia coli with a recoded genome",
+      "type": "article",
+      "userid": 18,
+      "volume": "569"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87368.xml",
+            "size": 28693,
+            "sizes": {
+               "v0.0.1": 28693
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "f30a7d77d80015bc7c2efbc38b1f66fa"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/36/8/v0.0.1/87368.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/36/8/v0.0.1/87368.xml"
+            },
+            "created": "2020-03-27T12:16:58-07:00",
+            "modified": "2020-04-28T10:02:13-07:00"
+         }
+      ],
+      "_Key": "87368",
+      "abstract": "Synthetic recoding of genomes, to remove targeted sense codons, may facilitate the encoded cellular synthesis of unnatural polymers by orthogonal translation systems. However, our limited understanding of allowed synonymous codon substitutions, and the absence of methods that enable the stepwise replacement of the Escherichia coli genome with long synthetic DNA and provide feedback on allowed and disallowed design features in synthetic genomes, have restricted progress towards this goal. Here we endow E. coli with a system for efficient, programmable replacement of genomic DNA with long (>100-kb) synthetic DNA, through the in vivo excision of double-stranded DNA from an episomal replicon by CRISPR/Cas9, coupled to lambda-red-mediated recombination and simultaneous positive and negative selection. We iterate the approach, providing a basis for stepwise whole-genome replacement. We attempt systematic recoding in an essential operon using eight synonymous recoding schemes. Each scheme systematically replaces target codons with defined synonyms and is compatible with codon reassignment. Our results define allowed and disallowed synonymous recoding schemes, and enable the identification and repair of recoding at idiosyncratic positions in the genome.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Fredens-J",
+               "name": {
+                  "family": "Fredens",
+                  "given": "Julius"
+               },
+               "orcid": "0000-0002-4262-9304"
+            },
+            {
+               "id": "Brunner-S-F",
+               "name": {
+                  "family": "Brunner",
+                  "given": "Simon F."
+               }
+            },
+            {
+               "id": "Kim-Samuel-H",
+               "name": {
+                  "family": "Kim",
+                  "given": "Samuel H."
+               }
+            },
+            {
+               "id": "Chia-Tiongsun",
+               "name": {
+                  "family": "Chia",
+                  "given": "Tiongsun"
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2016-11-03",
+      "date_type": "published",
+      "datestamp": "2018-06-27 14:34:25",
+      "dir": "disk0/00/08/73/68",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269082,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417985,
+                  "filename": "nature20124.pdf",
+                  "filesize": 9319597,
+                  "hash": "73161b896cb06fd4f243516eac107d1e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417985",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:58:04",
+                  "objectid": 269082,
+                  "url": "https://authors.library.caltech.edu/87368/1/nature20124.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269082",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 269083,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417988,
+                  "filename": "emss-71206.pdf",
+                  "filesize": 5880193,
+                  "hash": "99ddf36eda97442a1b914dd8d9499a16",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417988",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:58:24",
+                  "objectid": 269083,
+                  "url": "https://authors.library.caltech.edu/87368/2/emss-71206.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269083",
+            "language": "en",
+            "license": "other",
+            "main": "emss-71206.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 2,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269084,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417991,
+                  "filename": "nature20124-sf1.jpg",
+                  "filesize": 58499,
+                  "hash": "565797a8e6e9cdfa9474f4f7ad1171d0",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417991",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-26 23:58:36",
+                  "objectid": 269084,
+                  "url": "https://authors.library.caltech.edu/87368/3/nature20124-sf1.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 1 : Simultaneous double selection and recombination enhances integration at a target locus",
+            "id": "https://authors.library.caltech.edu/id/document/269084",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf1.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269085,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417994,
+                  "filename": "nature20124-sf2.jpg",
+                  "filesize": 113536,
+                  "hash": "5e5405a296e4f19286753a89da2c08b1",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417994",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-26 23:58:50",
+                  "objectid": 269085,
+                  "url": "https://authors.library.caltech.edu/87368/4/nature20124-sf2.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 2 : REXER enables site-specific integration of large DNA fragments into the genome",
+            "id": "https://authors.library.caltech.edu/id/document/269085",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf2.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269086,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417997,
+                  "filename": "nature20124-sf3.jpg",
+                  "filesize": 109307,
+                  "hash": "b632182d21fc23de8e4dbc798dd086fb",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417997",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-26 23:59:16",
+                  "objectid": 269086,
+                  "url": "https://authors.library.caltech.edu/87368/5/nature20124-sf3.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 3 : Replacement of 100\u2009kb of genomic DNA via REXER",
+            "id": "https://authors.library.caltech.edu/id/document/269086",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf3.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269087,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418000,
+                  "filename": "nature20124-sf4.jpg",
+                  "filesize": 60375,
+                  "hash": "d39a207ce4d380faf849ad3e47760f93",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418000",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-26 23:59:30",
+                  "objectid": 269087,
+                  "url": "https://authors.library.caltech.edu/87368/6/nature20124-sf4.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 4 : Iterative REXER",
+            "id": "https://authors.library.caltech.edu/id/document/269087",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf4.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269088,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418003,
+                  "filename": "nature20124-sf5.jpg",
+                  "filesize": 147128,
+                  "hash": "113645f5add881673009645f2c7998cf",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418003",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-26 23:59:47",
+                  "objectid": 269088,
+                  "url": "https://authors.library.caltech.edu/87368/7/nature20124-sf5.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 5 : Synonymous codon compression strategies",
+            "id": "https://authors.library.caltech.edu/id/document/269088",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf5.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 7,
+            "pos": 7,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269089,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418006,
+                  "filename": "nature20124-sf6.jpg",
+                  "filesize": 127269,
+                  "hash": "3e9e226ee0f6100152b465a098dc557e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418006",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-27 00:00:01",
+                  "objectid": 269089,
+                  "url": "https://authors.library.caltech.edu/87368/8/nature20124-sf6.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 6 : Recoding landscapes for compression of serine codons by REXER",
+            "id": "https://authors.library.caltech.edu/id/document/269089",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf6.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 8,
+            "pos": 8,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269090,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418009,
+                  "filename": "nature20124-sf7.jpg",
+                  "filesize": 174809,
+                  "hash": "46aa498ff9b84af3c8d2dcd80b270ca2",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418009",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-27 00:00:14",
+                  "objectid": 269090,
+                  "url": "https://authors.library.caltech.edu/87368/9/nature20124-sf7.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 7 : Recoding landscapes",
+            "id": "https://authors.library.caltech.edu/id/document/269090",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf7.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 9,
+            "pos": 9,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269091,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418012,
+                  "filename": "nature20124-sf8.jpg",
+                  "filesize": 122655,
+                  "hash": "53c50c144c6c37030f657a9be198ec01",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418012",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-27 00:00:29",
+                  "objectid": 269091,
+                  "url": "https://authors.library.caltech.edu/87368/10/nature20124-sf8.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Figure 8 : Identifying and fixing a deleterious sequence in defined and systematic synonymous recoding",
+            "id": "https://authors.library.caltech.edu/id/document/269091",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-sf8.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 10,
+            "pos": 10,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269092,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418015,
+                  "filename": "nature20124-st1.jpg",
+                  "filesize": 146156,
+                  "hash": "8c6365c1d1a635c5cb2ad4fdb304ef61",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418015",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-27 00:00:47",
+                  "objectid": 269092,
+                  "url": "https://authors.library.caltech.edu/87368/11/nature20124-st1.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Table 1: Defining recoding rules by codon adaptation index (cAi), tRNA adaptation index (tAi), and translation efficiency (tE)",
+            "id": "https://authors.library.caltech.edu/id/document/269092",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-st1.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 11,
+            "pos": 11,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269093,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418018,
+                  "filename": "nature20124-st2.jpg",
+                  "filesize": 365787,
+                  "hash": "638cad989a5d638efbf2cbf810187177",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418018",
+                  "mime_type": "image/jpeg",
+                  "mtime": "2018-06-27 00:01:03",
+                  "objectid": 269093,
+                  "url": "https://authors.library.caltech.edu/87368/12/nature20124-st2.jpg"
+               }
+            ],
+            "format": "image/jpeg",
+            "format_desc": "Extended Data Table 2: Properties of genes targeted for recoding",
+            "id": "https://authors.library.caltech.edu/id/document/269093",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-st2.jpg",
+            "mime_type": "image/jpeg",
+            "placement": 12,
+            "pos": 12,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269094,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418024,
+                  "filename": "nature20124-s1.pdf",
+                  "filesize": 5916084,
+                  "hash": "08cdccb7d69ec09198fa035073b3090c",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418024",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 14:35:07",
+                  "objectid": 269094,
+                  "url": "https://authors.library.caltech.edu/87368/13/nature20124-s1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Original DNA gel images",
+            "id": "https://authors.library.caltech.edu/id/document/269094",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 13,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269095,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418030,
+                  "filename": "nature20124-s2.txt",
+                  "filesize": 5628,
+                  "hash": "d03bdd858129e96d2593380f126f0b1c",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418030",
+                  "mime_type": "text/x-c++",
+                  "mtime": "2018-06-27 14:35:50",
+                  "objectid": 269095,
+                  "url": "https://authors.library.caltech.edu/87368/14/nature20124-s2.txt"
+               }
+            ],
+            "format": "text/plain",
+            "format_desc": "Supplementary Data 1 - Genomic locus for selection marker -1/+1",
+            "id": "https://authors.library.caltech.edu/id/document/269095",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s2.txt",
+            "mime_type": "text/x-c++",
+            "placement": 14,
+            "pos": 14,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269096,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418032,
+                  "filename": "nature20124-s3.txt",
+                  "filesize": 16421,
+                  "hash": "669356523b6293d9352ebeb5a3f0eca9",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418032",
+                  "mime_type": "text/x-c++",
+                  "mtime": "2018-06-27 14:35:52",
+                  "objectid": 269096,
+                  "url": "https://authors.library.caltech.edu/87368/15/nature20124-s3.txt"
+               }
+            ],
+            "format": "text/plain",
+            "format_desc": "Supplementary Data 2 - Plasmid containing lambda red, Cas9, and tracrRNA",
+            "id": "https://authors.library.caltech.edu/id/document/269096",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s3.txt",
+            "mime_type": "text/x-c++",
+            "placement": 15,
+            "pos": 15,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269097,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418034,
+                  "filename": "nature20124-s4.txt",
+                  "filesize": 21622,
+                  "hash": "3cb7e3e8514448c89ca934dfcd0cd062",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418034",
+                  "mime_type": "text/x-c++",
+                  "mtime": "2018-06-27 14:36:00",
+                  "objectid": 269097,
+                  "url": "https://authors.library.caltech.edu/87368/16/nature20124-s4.txt"
+               }
+            ],
+            "format": "text/plain",
+            "format_desc": "Supplementary Data 3 - BAC containing lux operon and -2/+2 for integration",
+            "id": "https://authors.library.caltech.edu/id/document/269097",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s4.txt",
+            "mime_type": "text/x-c++",
+            "placement": 16,
+            "pos": 16,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269098,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418036,
+                  "filename": "nature20124-s5.txt",
+                  "filesize": 5149,
+                  "hash": "474bafac91d1c8e33c3972b04292ab45",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418036",
+                  "mime_type": "text/x-c++",
+                  "mtime": "2018-06-27 14:36:05",
+                  "objectid": 269098,
+                  "url": "https://authors.library.caltech.edu/87368/17/nature20124-s5.txt"
+               }
+            ],
+            "format": "text/plain",
+            "format_desc": "Supplementary Data 4 - Plasmid containing spacers for REXER 2",
+            "id": "https://authors.library.caltech.edu/id/document/269098",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s5.txt",
+            "mime_type": "text/x-c++",
+            "placement": 17,
+            "pos": 17,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269099,
+            "eprint_id": 87368,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418038,
+                  "filename": "nature20124-s6.txt",
+                  "filesize": 5812,
+                  "hash": "3b3bae386cb968b6c3a14f8f3becc844",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418038",
+                  "mime_type": "text/x-c++",
+                  "mtime": "2018-06-27 14:36:12",
+                  "objectid": 269099,
+                  "url": "https://authors.library.caltech.edu/87368/18/nature20124-s6.txt"
+               }
+            ],
+            "format": "text/plain",
+            "format_desc": "Supplementary Data 5 - Plasmid containing spacers for REXER 4",
+            "id": "https://authors.library.caltech.edu/id/document/269099",
+            "language": "en",
+            "license": "other",
+            "main": "nature20124-s6.txt",
+            "mime_type": "text/x-c++",
+            "placement": 18,
+            "pos": 18,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87368,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "MC_UP_A024_1008"
+            },
+            {
+               "agency": "Danish Council for Independent Research",
+               "grant_number": "DFF \u2013 4090-00289"
+            },
+            {
+               "agency": "Boehringer Ingelheim Fonds"
+            },
+            {
+               "agency": "Gates-Cambridge Scholarship"
+            },
+            {
+               "agency": "European Research Council (ERC)"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87368",
+      "id_number": "CaltechAUTHORS:20180626-165021917",
+      "ispublished": "pub",
+      "issn": "0028-0836",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2016 Macmillan Publishers Limited. \n\nReceived 11 February; accepted 26 September 2016. Published online 24 October 2016. \n\nWork was supported by the Medical Research Council, UK (MC_U105181009 and MC_UP_A024_1008, J.W.C.), the Danish Council for Independent Research (DFF \u2013 4090-00289, to J.F.), a Boehringer Ingelheim Fonds PhD fellowship (to S.F.B.), The Gates-Cambridge Scholarship (to S.H.K), and an ERC Advanced Grant (SGCR to J.W.C.). We thank Neil Grant MRC-LMB Visual Aids for photography. \n\nJulius Fredens & Simon F. Brunner: These authors contributed equally to this work. \n\nAuthor Contributions\nJ.W.C. defined the direction of research. K.W. designed and constructed the REXER and GENESIS systems. J.F. implemented DNA assembly methods in S. cerevisiae. K.W. and S.F.B. identified target codons, developed tE and designed recoding schemes. K.W., J.F., S.F.B., S.H.K., and T.C. performed experiments. All authors analysed the data. K.W. and J.W.C. wrote the paper with input from all authors. \n\nThe authors declare no competing financial interests. \n\nData availability: The sequences used in this study are available in Supplementary Data 1\u20135. Supplementary Data 1: Genomic locus for selection marker \u22121/+1; Supplementary Data 2: Plasmid containing lambda red, Cas9, and tracrRNA; Supplementary Data 3: BAC containing lux operon and \u22122/+2 for integration; Supplementary Data 4: Plasmid containing spacers for REXER 2; Supplementary Data 5: Plasmid containing spacers for REXER 4. All other datasets generated and/or analysed during the current study are available from the corresponding author on reasonable request.",
+      "number": "7627",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180626-165021917",
+      "pagerange": "59-64",
+      "pmcid": "PMC5321499",
+      "primary_object": {
+         "basename": "emss-71206.pdf",
+         "content": "accepted",
+         "license": "other",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/87368/2/emss-71206.pdf"
+      },
+      "publication": "Nature",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "nature20124-sf1.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/3/nature20124-sf1.jpg"
+         },
+         {
+            "basename": "nature20124-sf2.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/4/nature20124-sf2.jpg"
+         },
+         {
+            "basename": "nature20124-sf3.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/5/nature20124-sf3.jpg"
+         },
+         {
+            "basename": "nature20124-sf4.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/6/nature20124-sf4.jpg"
+         },
+         {
+            "basename": "nature20124-sf5.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/7/nature20124-sf5.jpg"
+         },
+         {
+            "basename": "nature20124-sf6.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/8/nature20124-sf6.jpg"
+         },
+         {
+            "basename": "nature20124-sf7.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/9/nature20124-sf7.jpg"
+         },
+         {
+            "basename": "nature20124-sf8.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/10/nature20124-sf8.jpg"
+         },
+         {
+            "basename": "nature20124-st1.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/11/nature20124-st1.jpg"
+         },
+         {
+            "basename": "nature20124-st2.jpg",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "image/jpeg",
+            "url": "https://authors.library.caltech.edu/87368/12/nature20124-st2.jpg"
+         },
+         {
+            "basename": "nature20124-s1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87368/13/nature20124-s1.pdf"
+         },
+         {
+            "basename": "nature20124-s2.txt",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/x-c++",
+            "url": "https://authors.library.caltech.edu/87368/14/nature20124-s2.txt"
+         },
+         {
+            "basename": "nature20124-s3.txt",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/x-c++",
+            "url": "https://authors.library.caltech.edu/87368/15/nature20124-s3.txt"
+         },
+         {
+            "basename": "nature20124-s4.txt",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/x-c++",
+            "url": "https://authors.library.caltech.edu/87368/16/nature20124-s4.txt"
+         },
+         {
+            "basename": "nature20124-s5.txt",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/x-c++",
+            "url": "https://authors.library.caltech.edu/87368/17/nature20124-s5.txt"
+         },
+         {
+            "basename": "nature20124-s6.txt",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/x-c++",
+            "url": "https://authors.library.caltech.edu/87368/18/nature20124-s6.txt"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nature20124"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5321499/"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/1XSM"
+            }
+         ]
+      },
+      "rev_number": 43,
+      "reviewer": "Tony Diaz",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 14:34:25",
+      "title": "Defining synonymous codon compression schemes by genome recoding",
+      "type": "article",
+      "userid": 6,
+      "volume": "539"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87366.xml",
+            "size": 10827,
+            "sizes": {
+               "v0.0.1": 10827
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "53b96b429e062b2bd9d72c31cfbaae51"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/36/6/v0.0.1/87366.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/36/6/v0.0.1/87366.xml"
+            },
+            "created": "2020-03-27T12:16:59-07:00",
+            "modified": "2020-04-28T10:02:13-07:00"
+         }
+      ],
+      "_Key": "87366",
+      "abstract": "Serine phosphorylation is a key post-translational modification that regulates diverse biological processes. Powerful analytical methods have identified thousands of phosphorylation sites, but many of their functions remain to be deciphered. A key to understanding the function of protein phosphorylation is access to phosphorylated proteins, but this is often challenging or impossible. Here we evolve an orthogonal aminoacyl-tRNA synthetase/tRNACUA pair that directs the efficient incorporation of phosphoserine (pSer (1)) into recombinant proteins in Escherichia coli. Moreover, combining the orthogonal pair with a metabolically engineered E. coli enables the site-specific incorporation of a nonhydrolyzable analog of pSer. Our approach enables quantitative decoding of the amber stop codon as pSer, and we purify, with yields of several milligrams per liter of culture, proteins bearing biologically relevant phosphorylations that were previously challenging or impossible to access--including phosphorylated ubiquitin and the kinase Nek7, which is synthetically activated by a genetically encoded phosphorylation in its activation loop.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Rogerson-D-T",
+               "name": {
+                  "family": "Rogerson",
+                  "given": "Daniel T."
+               }
+            },
+            {
+               "id": "Sachdeva-A",
+               "name": {
+                  "family": "Sachdeva",
+                  "given": "Amit"
+               }
+            },
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Haq-T",
+               "name": {
+                  "family": "Haq",
+                  "given": "Tamanna"
+               }
+            },
+            {
+               "id": "Kazlauskaite-A",
+               "name": {
+                  "family": "Kazlauskaite",
+                  "given": "Agne"
+               }
+            },
+            {
+               "id": "Hancock-S-M",
+               "name": {
+                  "family": "Hancock",
+                  "given": "Susan M."
+               }
+            },
+            {
+               "id": "Huguenin-Dezot-N",
+               "name": {
+                  "family": "Huguenin-Dezot",
+                  "given": "Nicolas"
+               }
+            },
+            {
+               "id": "Muqit-M-M-K",
+               "name": {
+                  "family": "Muqit",
+                  "given": "Miratul M. K."
+               }
+            },
+            {
+               "id": "Fry-A-M",
+               "name": {
+                  "family": "Fry",
+                  "given": "Andrew M."
+               }
+            },
+            {
+               "id": "Bayliss-R",
+               "name": {
+                  "family": "Bayliss",
+                  "given": "Richard"
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2015-07",
+      "date_type": "published",
+      "datestamp": "2018-06-27 14:43:09",
+      "dir": "disk0/00/08/73/66",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269077,
+            "eprint_id": 87366,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417958,
+                  "filename": "nchembio.1823.pdf",
+                  "filesize": 2295170,
+                  "hash": "4532bb79d970372c21b25582fb716474",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417958",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:43:59",
+                  "objectid": 269077,
+                  "url": "https://authors.library.caltech.edu/87366/1/nchembio.1823.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269077",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio.1823.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 269078,
+            "eprint_id": 87366,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417961,
+                  "filename": "emss-63029.pdf",
+                  "filesize": 2079710,
+                  "hash": "3563ba010f6eaecd030b40c9c468012e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417961",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:44:14",
+                  "objectid": 269078,
+                  "url": "https://authors.library.caltech.edu/87366/2/emss-63029.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269078",
+            "language": "en",
+            "license": "other",
+            "main": "emss-63029.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269081,
+            "eprint_id": 87366,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417977,
+                  "filename": "nchembio.1823-S1.pdf",
+                  "filesize": 13172529,
+                  "hash": "40207d8f4ebbaf9afee130d55b979717",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417977",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:53:09",
+                  "objectid": 269081,
+                  "url": "https://authors.library.caltech.edu/87366/3/nchembio.1823-S1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Results, Supplementary Tables 1\u20134 and Supplementary Figures 1\u201311",
+            "id": "https://authors.library.caltech.edu/id/document/269081",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio.1823-S1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87366,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "UD99999908"
+            },
+            {
+               "agency": "European Research Council (ERC)"
+            },
+            {
+               "agency": "Wellcome Trust",
+               "grant_number": "101022/Z/13/Z"
+            },
+            {
+               "agency": "J. Macdonald Menzies Charitable Trust"
+            },
+            {
+               "agency": "Tenovus"
+            },
+            {
+               "agency": "Worldwide Cancer Research",
+               "grant_number": "13-0042"
+            },
+            {
+               "agency": "Cancer Research UK",
+               "grant_number": "C24461/A12772"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87366",
+      "id_number": "CaltechAUTHORS:20180626-163750955",
+      "ispublished": "pub",
+      "issn": "1552-4450",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2015 Macmillan Publishers Limited. \n\nReceived 14 February 2015; accepted 15 April 2015; published online 1 June 2015. \n\nWe are grateful to the UK Medical Research Council Laboratory of Molecular Biology (MRC-LMB) Mass Spectrometry for extensive assistance. M. Richards (University of Leicester) for the Nek7 plasmid, T. Elliott (MRC-LMB), J. Madrzak (MRC-LMB) and M. Mahesh (MRC-LMB) for assistance. This work was supported by grants to J.W.C. from the UK Medical Research Council (U105181009 and UD99999908) and the European Research Council. M.M.K.M. is supported by the Wellcome Trust (101022/Z/13/Z), J. Macdonald Menzies Charitable Trust and Tenovus (Scotland). A.F.M. is supported by a Worldwide Cancer Research grant (13-0042) and R.B. by a Cancer Research UK Programme Award (C24461/A12772). \n\nAuthor Contributions: D.T.R. and J.W.C. conceived the experimental strategy, analyzed the data and wrote the paper with input from other authors. D.T.R. performed all the selections, system characterization and most phosphoprotein expressions and purifications. S.M.H. and D.T.R. characterized the starting system. K.W., A.S., D.T.R. and N.H.-D. developed and characterized the expression system. T.H. and D.T.R. performed and analyzed the Nek7 experiments with guidance from A.M.F. and R.B. A.K. performed and analyzed the ubiquitin assays with guidance from M.M.K.M. \n\nThe authors declare no competing financial interests.",
+      "number": "7",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180626-163750955",
+      "pagerange": "496-503",
+      "pmcid": "PMC4830402",
+      "publication": "Nature Chemical Biology",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "emss-63029.pdf",
+            "content": "accepted",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87366/2/emss-63029.pdf"
+         },
+         {
+            "basename": "nchembio.1823-S1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87366/3/nchembio.1823-S1.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nchembio.1823"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830402/"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/1XQR"
+            }
+         ]
+      },
+      "rev_number": 17,
+      "reviewer": "Tony Diaz",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 14:43:09",
+      "title": "Efficient genetic encoding of phosphoserine and its nonhydrolyzable analog",
+      "type": "article",
+      "userid": 6,
+      "volume": "11"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87367.xml",
+            "size": 7219,
+            "sizes": {
+               "v0.0.1": 7219
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "d1619e338f6aa2f5351d80a783b82919"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/36/7/v0.0.1/87367.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/36/7/v0.0.1/87367.xml"
+            },
+            "created": "2020-03-27T12:16:58-07:00",
+            "modified": "2020-04-28T10:02:13-07:00"
+         }
+      ],
+      "_Key": "87367",
+      "abstract": "Rapid, one-pot, concerted, site-specific labeling of proteins at genetically encoded unnatural amino acids with distinct small molecules at physiological pH, temperature, and pressure is an important challenge. Current approaches require sequential labeling, low pH, and typically days to reach completion, limiting their utility. We report the efficient, genetically encoded incorporation of alkyne- and cyclopropene-containing amino acids at distinct sites in a protein using an optimized orthogonal translation system in E. coli. and quantitative, site-specific, one-pot, concerted protein labeling with fluorophores bearing azide and tetrazine groups, respectively. Protein double labeling in aqueous buffer at physiological pH, temperature, and pressure is quantitative in 30 min.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Sachdeva-A",
+               "name": {
+                  "family": "Sachdeva",
+                  "given": "Amit"
+               }
+            },
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Elliott-T",
+               "name": {
+                  "family": "Elliott",
+                  "given": "Thomas"
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2014-06-04",
+      "date_type": "published",
+      "datestamp": "2018-06-27 14:45:50",
+      "dir": "disk0/00/08/73/67",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269079,
+            "eprint_id": 87367,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417968,
+                  "filename": "ja4129789.pdf",
+                  "filesize": 908473,
+                  "hash": "50935528e781cfe2f04e8e79706de14f",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417968",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:49:00",
+                  "objectid": 269079,
+                  "url": "https://authors.library.caltech.edu/87367/1/ja4129789.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269079",
+            "language": "en",
+            "license": "cc_by",
+            "main": "ja4129789.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269080,
+            "eprint_id": 87367,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1417971,
+                  "filename": "ja4129789_si_001.pdf",
+                  "filesize": 4345153,
+                  "hash": "74287e8fc5febd2165930c6baa8e4ae9",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1417971",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-26 23:49:26",
+                  "objectid": 269080,
+                  "url": "https://authors.library.caltech.edu/87367/2/ja4129789_si_001.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary methods and details, including additional figures",
+            "id": "https://authors.library.caltech.edu/id/document/269080",
+            "language": "en",
+            "license": "cc_by",
+            "main": "ja4129789_si_001.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87367,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "UD99999908"
+            },
+            {
+               "agency": "European Research Council (ERC)",
+               "grant_number": "MC-A024-5PG0A"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87367",
+      "id_number": "CaltechAUTHORS:20180626-164508438",
+      "ispublished": "pub",
+      "issn": "0002-7863",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2014 American Chemical Society. ACS AuthorChoice - This is an open access article published under a Creative Commons Attribution (CC-BY) License, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited. \n\nReceived: December 20, 2013. Published: May 23, 2014. \n\nWe are grateful to Medical Research Council (U105181009, UD99999908) and European Research Council (MC-A024-5PG0A) for funding this work. \n\nAuthor Contributions: A.S. and K.W. contributed equally. \n\nThe authors declare no competing financial interest.",
+      "number": "22",
+      "official_cit": "Concerted, Rapid, Quantitative, and Site-Specific Dual Labeling of Proteins\nAmit Sachdeva, Kaihang Wang, Thomas Elliott, and Jason W. Chin\nJournal of the American Chemical Society 2014 136 (22), 7785-7788\nDOI: 10.1021/ja4129789",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180626-164508438",
+      "pagerange": "7785-7788",
+      "pmcid": "PMC4333588",
+      "primary_object": {
+         "basename": "ja4129789.pdf",
+         "content": "published",
+         "license": "cc_by",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/87367/1/ja4129789.pdf"
+      },
+      "publication": "Journal of the American Chemical Society",
+      "publisher": "American Chemical Society",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "ja4129789_si_001.pdf",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87367/2/ja4129789_si_001.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1021/ja4129789"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333588/"
+            },
+            {
+               "description": "Supporting Information",
+               "type": "pub",
+               "url": "https://pubs.acs.org/doi/suppl/10.1021/ja4129789"
+            }
+         ]
+      },
+      "rev_number": 11,
+      "reviewer": "Tony Diaz",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 14:45:50",
+      "title": "Concerted, rapid, quantitative, and site-specific dual labeling of proteins",
+      "type": "article",
+      "userid": 6,
+      "volume": "136"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87375.xml",
+            "size": 11115,
+            "sizes": {
+               "v0.0.1": 11115
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "4b8d77196b730a955e7dce8c57fefc30"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/37/5/v0.0.1/87375.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/37/5/v0.0.1/87375.xml"
+            },
+            "created": "2020-03-27T12:16:57-07:00",
+            "modified": "2020-04-28T10:02:12-07:00"
+         }
+      ],
+      "_Key": "87375",
+      "abstract": "The ability to introduce different biophysical probes into defined positions in target proteins will provide powerful approaches for interrogating protein structure, function and dynamics. However, methods for site-specifically incorporating multiple distinct unnatural amino acids are hampered by their low efficiency. Here we provide a general solution to this challenge by developing an optimized orthogonal translation system that uses amber and evolved quadruplet-decoding transfer RNAs to encode numerous pairs of distinct unnatural amino acids into a single protein expressed in Escherichia coli with a substantial increase in efficiency over previous methods. We also provide a general strategy for labelling pairs of encoded unnatural amino acids with different probes via rapid and spontaneous reactions under physiological conditions. We demonstrate the utility of our approach by genetically directing the labelling of several pairs of sites in calmodulin with fluorophores and probing protein structure and dynamics by F\u00f6rster resonance energy transfer.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Sachdeva-A",
+               "name": {
+                  "family": "Sachdeva",
+                  "given": "Amit"
+               }
+            },
+            {
+               "id": "Cox-D-J",
+               "name": {
+                  "family": "Cox",
+                  "given": "Daniel J."
+               }
+            },
+            {
+               "id": "Wilf-N-M",
+               "name": {
+                  "family": "Wilf",
+                  "given": "Nabil M."
+               }
+            },
+            {
+               "id": "Lang-Kathrin",
+               "name": {
+                  "family": "Lang",
+                  "given": "Kathrin"
+               }
+            },
+            {
+               "id": "Wallace-S",
+               "name": {
+                  "family": "Wallace",
+                  "given": "Stephen"
+               },
+               "orcid": "0000-0002-1091-4688"
+            },
+            {
+               "id": "Mehl-R-A",
+               "name": {
+                  "family": "Mehl",
+                  "given": "Ryan A."
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2014-05",
+      "date_type": "published",
+      "datestamp": "2018-06-27 16:14:06",
+      "dir": "disk0/00/08/73/75",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269116,
+            "eprint_id": 87375,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418110,
+                  "filename": "nchem.1919.pdf",
+                  "filesize": 3579010,
+                  "hash": "4c723a9a8adce3131f98dcd2e8cd934d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418110",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:51:05",
+                  "objectid": 269116,
+                  "url": "https://authors.library.caltech.edu/87375/1/nchem.1919.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269116",
+            "language": "en",
+            "license": "other",
+            "main": "nchem.1919.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "erratum",
+            "doc_id": 269117,
+            "eprint_id": 87375,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418112,
+                  "filename": "nchem.2175_corr.pdf",
+                  "filesize": 56474,
+                  "hash": "15660e925f22b9e231eec979fbbaca27",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418112",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:51:12",
+                  "objectid": 269117,
+                  "url": "https://authors.library.caltech.edu/87375/2/nchem.2175_corr.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Corrigendum",
+            "id": "https://authors.library.caltech.edu/id/document/269117",
+            "language": "en",
+            "license": "other",
+            "main": "nchem.2175_corr.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 269118,
+            "eprint_id": 87375,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418114,
+                  "filename": "emss-63246.pdf",
+                  "filesize": 1632310,
+                  "hash": "4d9652159243f8a2f754c41a1991560a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418114",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:51:35",
+                  "objectid": 269118,
+                  "url": "https://authors.library.caltech.edu/87375/3/emss-63246.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269118",
+            "language": "en",
+            "license": "other",
+            "main": "emss-63246.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269119,
+            "eprint_id": 87375,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418123,
+                  "filename": "nchem.1919-s1.pdf",
+                  "filesize": 19363097,
+                  "hash": "fe7b3fbcb80bd2c84f30ad70e77861a9",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418123",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:58:18",
+                  "objectid": 269119,
+                  "url": "https://authors.library.caltech.edu/87375/4/nchem.1919-s1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269119",
+            "language": "en",
+            "license": "other",
+            "main": "nchem.1919-s1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87375,
+      "eprint_status": "archive",
+      "errata": {},
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "UD99999908"
+            },
+            {
+               "agency": "European Research Council (ERC)",
+               "grant_number": "MC-A024-5PG0A"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87375",
+      "id_number": "CaltechAUTHORS:20180627-085059698",
+      "ispublished": "pub",
+      "issn": "1755-4330",
+      "lastmod": "2020-03-09 13:19:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2014 Macmillan Publishers Limited. \n\nReceived 26 July 2013; Accepted 12 March 2014; Published 20 April 2014. \n\nWe thank the Medical Research Council (U105181009, UD99999908) and the European Research Council (MC-A024-5PG0A) for financial support. We thank S-P. Chew (MRC-LMB Mass Spectrometry) for obtaining MALDI data. \n\nAuthor Contributions: J.W.C. and K.W. conceived the project. J.W.C., K.W. and A.S. planned and designed experiments and wrote the manuscript, with input from the other authors. R.A.M. provided MjTetPheRS and compound 5 for pilot experiments. All other authors performed experiments or provided reagents. K.W. and A.S. contributed equally to this work. \n\nThe authors declare no competing financial interests.",
+      "number": "5",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180627-085059698",
+      "pagerange": "393-403",
+      "pmcid": "PMC4430801",
+      "publication": "Nature Chemistry",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "emss-63246.pdf",
+            "content": "accepted",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87375/3/emss-63246.pdf"
+         },
+         {
+            "basename": "nchem.1919-s1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87375/4/nchem.1919-s1.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/NCHEM.1919"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/11mg"
+            },
+            {
+               "description": "Errata",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nchem.2175"
+            },
+            {
+               "description": "Free ReadCube access - Errata",
+               "type": "pub",
+               "url": "https://rdcu.be/11mk"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4430801"
+            }
+         ]
+      },
+      "rev_number": 18,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 16:14:06",
+      "title": "Optimized orthogonal translation of unnatural amino acids enables spontaneous protein double-labelling and FRET",
+      "type": "article",
+      "userid": 18,
+      "volume": "6"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87377.xml",
+            "size": 5785,
+            "sizes": {
+               "v0.0.1": 5785
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "7a97abeb70adfa475d2b85d3b77cdbb0"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/37/7/v0.0.1/87377.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/37/7/v0.0.1/87377.xml"
+            },
+            "created": "2020-03-27T12:16:57-07:00",
+            "modified": "2020-04-28T10:02:11-07:00"
+         }
+      ],
+      "_Key": "87377",
+      "abstract": "The genetic code of cells is near\u2010universally triplet, and since many ribosomal mutations are lethal, changing the cellular ribosome to read nontriplet codes is challenging. Herein we review work on the incorporation of unnatural amino acids into proteins in response to quadruplet codons, and the creation of an orthogonal translation system in the cell that uses an evolved orthogonal ribosome to efficiently direct the incorporation of unnatural amino acids in response to quadruplet codons. Using this system multiple distinct unnatural amino acids have been incorporated and used to genetically program emergent properties into recombinant proteins. Extension of approaches to incorporate multiple unnatural amino acids may allow the combinatorial biosynthesis of materials and therapeutics, and drive investigations into whether life with additional genetically encoded polymers can evolve to perform functions that natural biological systems cannot.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Schmied-W-H",
+               "name": {
+                  "family": "Schmied",
+                  "given": "Wolfgang H."
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2012-03-05",
+      "date_type": "published",
+      "datestamp": "2018-06-27 16:16:55",
+      "dir": "disk0/00/08/73/77",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269129,
+            "eprint_id": 87377,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418150,
+                  "filename": "Wang_et_al-2012-Angewandte_Chemie_International_Edition.pdf",
+                  "filesize": 1517210,
+                  "hash": "db5231e9602e998a1fdd36ec6450fd03",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418150",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:11:40",
+                  "objectid": 269129,
+                  "url": "https://authors.library.caltech.edu/87377/1/Wang_et_al-2012-Angewandte_Chemie_International_Edition.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269129",
+            "language": "en",
+            "license": "other",
+            "main": "Wang_et_al-2012-Angewandte_Chemie_International_Edition.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         }
+      ],
+      "eprint_id": 87377,
+      "eprint_status": "archive",
+      "full_text_status": "none",
+      "funders": {
+         "items": [
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "U105181009"
+            },
+            {
+               "agency": "Medical Research Council (UK)",
+               "grant_number": "UD99999908"
+            },
+            {
+               "agency": "European Research Council (ERC)"
+            },
+            {
+               "agency": "Human Frontier Science Program"
+            },
+            {
+               "agency": "Louis Jenatet Foundation"
+            },
+            {
+               "agency": "Trinity College"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87377",
+      "id_number": "CaltechAUTHORS:20180627-091134449",
+      "ispublished": "pub",
+      "issn": "1433-7851",
+      "keywords": "amino acids; codons; gene expression; protein design; ribosome",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2012 WILEY\u2010VCH Verlag GmbH & Co. KGaA, Weinheim. \n\nReceived: July 18, 2011; Published online: January 19, 2012. \n\nWork in our laboratory is supported by The Medical Research Council (U105181009, UD99999908), The European Research Council, The Human Frontiers of Science Program, and the Louis Jenatet Foundation (LJ\u2010YICA). K.W. was funded by a Research Fellowship from Trinity College, Cambridge.",
+      "number": "10",
+      "official_cit": "Wang, K. , Schmied, W. H. and Chin, J. W. (2012), Reprogramming the Genetic Code: From Triplet to Quadruplet Codes. Angew. Chem. Int. Ed., 51: 2288-2297. doi:10.1002/anie.201105016",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180627-091134449",
+      "pagerange": "2288-2297",
+      "publication": "Angewandte Chemie International Edition",
+      "publisher": "Wiley",
+      "refereed": "TRUE",
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1002/anie.201105016"
+            }
+         ]
+      },
+      "rev_number": 10,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 16:16:55",
+      "title": "Reprogramming the Genetic Code: From Triplet to Quadruplet Codes",
+      "type": "article",
+      "userid": 18,
+      "volume": "51"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87371.xml",
+            "size": 8314,
+            "sizes": {
+               "v0.0.1": 8314
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "643875a7ea140544f911ecbd89f9559f"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/37/1/v0.0.1/87371.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/37/1/v0.0.1/87371.xml"
+            },
+            "created": "2020-03-27T12:16:58-07:00",
+            "modified": "2020-04-28T10:02:12-07:00"
+         }
+      ],
+      "_Key": "87371",
+      "abstract": "The in vivo, genetically programmed incorporation of designer amino acids allows the properties of proteins to be tailored with molecular precision. The Methanococcus jannaschii tyrosyl-transfer-RNA synthetase\u2013tRNA_(CUA) (MjTyrRS\u2013tRNA_(CUA)) and the Methanosarcina barkeri pyrrolysyl-tRNA synthetase\u2013tRNA_(CUA) (MbPylRS\u2013tRNA_(CUA)) orthogonal pairs have been evolved to incorporate a range of unnatural amino acids in response to the amber codon in Escherichia coli. However, the potential of synthetic genetic code expansion is generally limited to the low efficiency incorporation of a single type of unnatural amino acid at a time, because every triplet codon in the universal genetic code is used in encoding the synthesis of the proteome. To encode efficiently many distinct unnatural amino acids into proteins we require blank codons and mutually orthogonal aminoacyl-tRNA synthetase\u2013tRNA pairs that recognize unnatural amino acids and decode the new codons. Here we synthetically evolve an orthogonal ribosome (ribo-Q1) that efficiently decodes a series of quadruplet codons and the amber codon, providing several blank codons on an orthogonal messenger RNA, which it specifically translates. By creating mutually orthogonal aminoacyl-tRNA synthetase\u2013tRNA pairs and combining them with ribo-Q1 we direct the incorporation of distinct unnatural amino acids in response to two of the new blank codons on the orthogonal mRNA. Using this code, we genetically direct the formation of a specific, redox-insensitive, nanoscale protein cross-link by the bio-orthogonal cycloaddition of encoded azide- and alkyne-containing amino acids10. Because the synthetase\u2013tRNA pairs used have been evolved to incorporate numerous unnatural amino acids, it will be possible to encode more than 200 unnatural amino acid combinations using this approach. As ribo-Q1 independently decodes a series of quadruplet codons, this work provides foundational technologies for the encoded synthesis and synthetic evolution of unnatural polymers in cells.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Neumann-H",
+               "name": {
+                  "family": "Neumann",
+                  "given": "Heinz"
+               }
+            },
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Davis-L",
+               "name": {
+                  "family": "Davis",
+                  "given": "Lloyd"
+               }
+            },
+            {
+               "id": "Garcia-Alai-M",
+               "name": {
+                  "family": "Garcia-Alai",
+                  "given": "Maria"
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2010-03-18",
+      "date_type": "published",
+      "datestamp": "2018-06-27 16:22:58",
+      "dir": "disk0/00/08/73/71",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269103,
+            "eprint_id": 87371,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418065,
+                  "filename": "nature08817.pdf",
+                  "filesize": 575598,
+                  "hash": "99e7f0823c54088223699b740433ee7b",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418065",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:10:45",
+                  "objectid": 269103,
+                  "url": "https://authors.library.caltech.edu/87371/1/nature08817.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269103",
+            "language": "en",
+            "license": "other",
+            "main": "nature08817.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269104,
+            "eprint_id": 87371,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418069,
+                  "filename": "nature08817-s1.pdf",
+                  "filesize": 5688672,
+                  "hash": "8c2a5988c3958c9697a8c694a28f962b",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418069",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:15:02",
+                  "objectid": 269104,
+                  "url": "https://authors.library.caltech.edu/87371/2/nature08817-s1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Methods, Supplementary Figures 1-13 with Legends, Supplementary Table 1 and Supplementary References",
+            "id": "https://authors.library.caltech.edu/id/document/269104",
+            "language": "en",
+            "license": "other",
+            "main": "nature08817-s1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87371,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "European Research Council (ERC)"
+            },
+            {
+               "agency": "Medical Research Council (UK)"
+            },
+            {
+               "agency": "Trinity College"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87371",
+      "id_number": "CaltechAUTHORS:20180627-081039639",
+      "ispublished": "pub",
+      "issn": "0028-0836",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2010 Macmillan Publishers Limited. \n\nReceived 26 June 2009; Accepted 07 January 2010; Published 14 February 2010. \n\nWe are grateful to P. B. Kapadnis for synthesizing CAK and to W. An for assistance with some experiments. J.W.C. is grateful to the ERC and the MRC for funding. K.W. is grateful to Trinity College, Cambridge for a fellowship. \n\nAuthor Contributions K.W., H.N., L.D. and J.W.C. planned the experiments. K.W. selected and characterized ribo-Q, with help from L.D. K.W. and L.D. characterized amber and quadruplet incorporation by protein expression and mass spectrometry. L.D. and M.G.-A. performed protein expression experiments. H.N. demonstrated the mutual orthogonality of synthetase tRNA pairs, evolved synthetases, and characterized the double incorporation and protein cyclization, with help from M.G.-A. H.N., K.W., L.D. and J.W.C. analysed the data and wrote the paper.",
+      "number": "7287",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180627-081039639",
+      "pagerange": "441-444",
+      "publication": "Nature",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "nature08817-s1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87371/2/nature08817-s1.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nature08817"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/11fx"
+            }
+         ]
+      },
+      "rev_number": 11,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 16:22:58",
+      "title": "Encoding multiple unnatural amino acids via evolution of a quadruplet-decoding ribosome",
+      "type": "article",
+      "userid": 18,
+      "volume": "464"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87376.xml",
+            "size": 15688,
+            "sizes": {
+               "v0.0.1": 15688
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "621133a60b3a02fcd468fc7cfe0a07a7"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/37/6/v0.0.1/87376.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/37/6/v0.0.1/87376.xml"
+            },
+            "created": "2020-03-27T12:16:57-07:00",
+            "modified": "2020-04-28T10:02:11-07:00"
+         }
+      ],
+      "_Key": "87376",
+      "abstract": "In vivo incorporation of unnatural amino acids by amber codon suppression is limited by release factor-1\u2013mediated peptide chain termination. Orthogonal ribosome-mRNA pairs function in parallel with, but independent of, natural ribosomes and mRNAs. Here we show that an evolved orthogonal ribosome (ribo-X) improves tRNA_(CUA)-dependent decoding of amber codons placed in orthogonal mRNA. By combining ribo-X, orthogonal mRNAs and orthogonal aminoacyl-tRNA synthetase/tRNA pairs in Escherichia coli, we increase the efficiency of site-specific unnatural amino acid incorporation from \u223c 20% to >60% on a single amber codon and from <1% to >20% on two amber codons. We hypothesize that these increases result from a decreased functional interaction of the orthogonal ribosome with release factor-1. This technology should minimize the functional and phenotypic effects of truncated proteins in experiments that use unnatural amino acid incorporation to probe protein function in vivo.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Neumann-H",
+               "name": {
+                  "family": "Neumann",
+                  "given": "Heinz"
+               }
+            },
+            {
+               "id": "Peak-Chew-Sew-Y",
+               "name": {
+                  "family": "Peak-Chew",
+                  "given": "Sew Y."
+               }
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2007-07",
+      "date_type": "published",
+      "datestamp": "2018-06-27 16:15:14",
+      "dir": "disk0/00/08/73/76",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269120,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418128,
+                  "filename": "nbt1314.pdf",
+                  "filesize": 538003,
+                  "hash": "51a768ed5855fc2ad24092ce8b9e5ccb",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418128",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:01:15",
+                  "objectid": 269120,
+                  "url": "https://authors.library.caltech.edu/87376/1/nbt1314.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269120",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269121,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418131,
+                  "filename": "nbt1314-S1.pdf",
+                  "filesize": 41393,
+                  "hash": "1dbb30c8000c3ec0d19fc8b44a49e99b",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418131",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:23",
+                  "objectid": 269121,
+                  "url": "https://authors.library.caltech.edu/87376/2/nbt1314-S1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 1 - The anticodon stem loops of the tRNAs used",
+            "id": "https://authors.library.caltech.edu/id/document/269121",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269122,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418133,
+                  "filename": "nbt1314-S2.pdf",
+                  "filesize": 44303,
+                  "hash": "cb52ef487de35576cafa0c12b05a5452",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418133",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:25",
+                  "objectid": 269122,
+                  "url": "https://authors.library.caltech.edu/87376/3/nbt1314-S2.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 2 - The context of UAGA and UAG selector codons in cat reporter genes",
+            "id": "https://authors.library.caltech.edu/id/document/269122",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S2.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269123,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418135,
+                  "filename": "nbt1314-S3.pdf",
+                  "filesize": 26573,
+                  "hash": "6b9c8d086192a6e96b7248605930a987",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418135",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:32",
+                  "objectid": 269123,
+                  "url": "https://authors.library.caltech.edu/87376/4/nbt1314-S3.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 3 - The linker region of the gst-malE expression construct",
+            "id": "https://authors.library.caltech.edu/id/document/269123",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S3.pdf",
+            "mime_type": "application/pdf",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269124,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418137,
+                  "filename": "nbt1314-S4.pdf",
+                  "filesize": 815575,
+                  "hash": "76a8231f5adcba5b62d37e2d1491e328",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418137",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:34",
+                  "objectid": 269124,
+                  "url": "https://authors.library.caltech.edu/87376/5/nbt1314-S4.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 4 - 35S misincorporation in GST-MBP",
+            "id": "https://authors.library.caltech.edu/id/document/269124",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S4.pdf",
+            "mime_type": "application/pdf",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269125,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418139,
+                  "filename": "nbt1314-S5.pdf",
+                  "filesize": 111239,
+                  "hash": "582d5eefd0503ea2b74261b8d06fc5c4",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418139",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:40",
+                  "objectid": 269125,
+                  "url": "https://authors.library.caltech.edu/87376/6/nbt1314-S5.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 5 - The ribosome dependence of O-DLR derived Renilla luciferase (O-R-luc) activity",
+            "id": "https://authors.library.caltech.edu/id/document/269125",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S5.pdf",
+            "mime_type": "application/pdf",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269126,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418141,
+                  "filename": "nbt1314-S6.pdf",
+                  "filesize": 304745,
+                  "hash": "2eca2413de8e8763a0d0dee3f7769af8",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418141",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:04:41",
+                  "objectid": 269126,
+                  "url": "https://authors.library.caltech.edu/87376/7/nbt1314-S6.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Fig. 6 - The Ribo-X mediated enhanced unnatural amino acid incorporation efficiency is robust in minimal medium",
+            "id": "https://authors.library.caltech.edu/id/document/269126",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S6.pdf",
+            "mime_type": "application/pdf",
+            "placement": 7,
+            "pos": 7,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269127,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418143,
+                  "filename": "nbt1314-S7.pdf",
+                  "filesize": 33480,
+                  "hash": "4654b64761d59669d32e095901becd0c",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418143",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:05:25",
+                  "objectid": 269127,
+                  "url": "https://authors.library.caltech.edu/87376/8/nbt1314-S7.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 1 - 528/36 16S rDNA Libraries Construction",
+            "id": "https://authors.library.caltech.edu/id/document/269127",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S7.pdf",
+            "mime_type": "application/pdf",
+            "placement": 8,
+            "pos": 8,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269128,
+            "eprint_id": 87376,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418145,
+                  "filename": "nbt1314-S8.pdf",
+                  "filesize": 49263,
+                  "hash": "60f19b1e7845321675c8ba8787987366",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418145",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 16:05:27",
+                  "objectid": 269128,
+                  "url": "https://authors.library.caltech.edu/87376/9/nbt1314-S8.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 2 - Primers Used",
+            "id": "https://authors.library.caltech.edu/id/document/269128",
+            "language": "en",
+            "license": "other",
+            "main": "nbt1314-S8.pdf",
+            "mime_type": "application/pdf",
+            "placement": 9,
+            "pos": 9,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87376,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "European Molecular Biology Organization (EMBO)"
+            },
+            {
+               "agency": "Medical Research Council (UK)"
+            },
+            {
+               "agency": "Trinity College"
+            },
+            {
+               "agency": "Overseas Research Studentship Award"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87376",
+      "id_number": "CaltechAUTHORS:20180627-090110712",
+      "ispublished": "pub",
+      "issn": "1087-0156",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2007 Macmillan Publishers Limited. \n\nReceived 20 February; accepted 23 May; published online 24 June 2007. \n\nJ.W.C. is an EMBO Young Investigator. K.W. is grateful for a Medical Research Council-Laboratory of Molecular Biology (MRC-LMB) Cambridge Scholarship, an Honorary External Research Studentship from Trinity College, Cambridge, and an Overseas Research Studentship Award. H.N. is an MRC Career Development Fellow. We are grateful to O. Barrett and W. An for sharing unpublished materials and assisting in early stages of this project. We are grateful to M. Babu for extracting E. coli amber codon usage, P.G. Schultz (TSRI) for the pSUP Bpa vector. This work was funded by The Medical Research Council. \n\nThe authors declare no competing financial interests.",
+      "number": "7",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180627-090110712",
+      "pagerange": "770-777",
+      "publication": "Nature Biotechnology",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "nbt1314-S1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/2/nbt1314-S1.pdf"
+         },
+         {
+            "basename": "nbt1314-S2.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/3/nbt1314-S2.pdf"
+         },
+         {
+            "basename": "nbt1314-S3.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/4/nbt1314-S3.pdf"
+         },
+         {
+            "basename": "nbt1314-S4.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/5/nbt1314-S4.pdf"
+         },
+         {
+            "basename": "nbt1314-S5.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/6/nbt1314-S5.pdf"
+         },
+         {
+            "basename": "nbt1314-S6.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/7/nbt1314-S6.pdf"
+         },
+         {
+            "basename": "nbt1314-S7.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/8/nbt1314-S7.pdf"
+         },
+         {
+            "basename": "nbt1314-S8.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87376/9/nbt1314-S8.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nbt1314"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/11pn"
+            }
+         ]
+      },
+      "rev_number": 17,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 16:15:14",
+      "title": "Evolved orthogonal ribosomes enhance the efficiency of synthetic genetic code expansion",
+      "type": "article",
+      "userid": 18,
+      "volume": "25"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87373.xml",
+            "size": 14225,
+            "sizes": {
+               "v0.0.1": 14225
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "1ab0f12dfe1d446bcc2150c1bb061e61"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/37/3/v0.0.1/87373.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/37/3/v0.0.1/87373.xml"
+            },
+            "created": "2020-03-27T12:16:57-07:00",
+            "modified": "2020-04-28T10:02:12-07:00"
+         }
+      ],
+      "_Key": "87373",
+      "abstract": "The ribosome is a 2.5-MDa molecular machine that synthesizes cellular proteins encoded in mRNAs. The 30S and 50S subunits of the ribosome associate through structurally defined intersubunit bridges burying 6,000 \u00c5^2, 80% of which is buried in conserved RNA-RNA interactions. Intersubunit bridges bind translation factors, may coordinate peptide bond formation and translocation and may be actively remodeled in the post-termination complex, but the functional importance of numerous 30S bridge nucleotides had been unknown. We carried out large-scale combinatorial mutagenesis and in vivo selections on 30S nucleotides that form RNA-RNA intersubunit bridges in the Escherichia coli ribosome. We determined the covariation and functional importance of bridge nucleotides, allowing comparison of the structural interface and phylogenetic data to the functional epitope. Our results reveal how information for ribosome function is partitioned across bridges, and suggest a subset of nucleotides that may have measurable effects on individual steps of the translational cycle.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Rackham-O",
+               "name": {
+                  "family": "Rackham",
+                  "given": "Oliver"
+               }
+            },
+            {
+               "id": "Wang-Kaihang",
+               "name": {
+                  "family": "Wang",
+                  "given": "Kaihang"
+               },
+               "orcid": "0000-0001-7657-8755"
+            },
+            {
+               "id": "Chin-Jason-W",
+               "name": {
+                  "family": "Chin",
+                  "given": "Jason W."
+               },
+               "orcid": "0000-0003-1219-4757"
+            }
+         ]
+      },
+      "date": "2006-05",
+      "date_type": "published",
+      "datestamp": "2018-06-27 16:17:40",
+      "dir": "disk0/00/08/73/73",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 269106,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418080,
+                  "filename": "nchembio783.pdf",
+                  "filesize": 572058,
+                  "hash": "57d6a948dd8700e218e19c976f5de01a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418080",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:33:00",
+                  "objectid": 269106,
+                  "url": "https://authors.library.caltech.edu/87373/1/nchembio783.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/269106",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269107,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418084,
+                  "filename": "nchembio783-S1.pdf",
+                  "filesize": 10611,
+                  "hash": "cce3cc294dfa5f9d5347d2217d5d0dff",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418084",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:17",
+                  "objectid": 269107,
+                  "url": "https://authors.library.caltech.edu/87373/2/nchembio783-S1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 1 - Library design",
+            "id": "https://authors.library.caltech.edu/id/document/269107",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269108,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418086,
+                  "filename": "nchembio783-S2.pdf",
+                  "filesize": 12007,
+                  "hash": "3df97a5bc0c21947950a1e2e3e9356c7",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418086",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:20",
+                  "objectid": 269108,
+                  "url": "https://authors.library.caltech.edu/87373/3/nchembio783-S2.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 2 - Mutagenic oligonucleotides for multiposition libraries",
+            "id": "https://authors.library.caltech.edu/id/document/269108",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S2.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269109,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418088,
+                  "filename": "nchembio783-S3.pdf",
+                  "filesize": 12495,
+                  "hash": "e66122bc4139b13d4267f7c93f79d728",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418088",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:26",
+                  "objectid": 269109,
+                  "url": "https://authors.library.caltech.edu/87373/4/nchembio783-S3.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 3 - Library constructed statistics",
+            "id": "https://authors.library.caltech.edu/id/document/269109",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S3.pdf",
+            "mime_type": "application/pdf",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269110,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418090,
+                  "filename": "nchembio783-S4.pdf",
+                  "filesize": 36598,
+                  "hash": "8849ed5cbb073b61c7d6f67e762fdc54",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418090",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:34",
+                  "objectid": 269110,
+                  "url": "https://authors.library.caltech.edu/87373/5/nchembio783-S4.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 4 - Selected sequences",
+            "id": "https://authors.library.caltech.edu/id/document/269110",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S4.pdf",
+            "mime_type": "application/pdf",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269111,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418092,
+                  "filename": "nchembio783-S5.pdf",
+                  "filesize": 16720,
+                  "hash": "b262b8e3bf65a80823485181cc60806d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418092",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:36",
+                  "objectid": 269111,
+                  "url": "https://authors.library.caltech.edu/87373/6/nchembio783-S5.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 5 - Covariation analysis",
+            "id": "https://authors.library.caltech.edu/id/document/269111",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S5.pdf",
+            "mime_type": "application/pdf",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269112,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418094,
+                  "filename": "nchembio783-S6.pdf",
+                  "filesize": 18504,
+                  "hash": "221d45ddc663b8d78aca23182e516789",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418094",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:43",
+                  "objectid": 269112,
+                  "url": "https://authors.library.caltech.edu/87373/7/nchembio783-S6.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Table 6 - Intersubunit bridge selection data and phylogenetic data",
+            "id": "https://authors.library.caltech.edu/id/document/269112",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S6.pdf",
+            "mime_type": "application/pdf",
+            "placement": 7,
+            "pos": 7,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 269113,
+            "eprint_id": 87373,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1418096,
+                  "filename": "nchembio783-S7.pdf",
+                  "filesize": 50337,
+                  "hash": "eb15ffd76c49a7f06db0e9b0099d741a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1418096",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-27 15:38:45",
+                  "objectid": 269113,
+                  "url": "https://authors.library.caltech.edu/87373/8/nchembio783-S7.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Supplementary Methods",
+            "id": "https://authors.library.caltech.edu/id/document/269113",
+            "language": "en",
+            "license": "other",
+            "main": "nchembio783-S7.pdf",
+            "mime_type": "application/pdf",
+            "placement": 8,
+            "pos": 8,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87373,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "European Molecular Biology Organization (EMBO)"
+            },
+            {
+               "agency": "Medical Research Council (UK)"
+            },
+            {
+               "agency": "Trinity College"
+            },
+            {
+               "agency": "Overseas Research Studentship Award"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87373",
+      "id_number": "CaltechAUTHORS:20180627-083255769",
+      "ispublished": "pub",
+      "issn": "1552-4450",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2006 Macmillan Publishers Limited. \n\nReceived 2 November 2005; accepted 14 March 2006; published online 2 April 2006. \n\nJ.W.C. is an EMBO Young Investigator. K.W. is grateful for a Medical Research Council\u2013Laboratory of Molecular Biology (MRC-LMB) Cambridge Scholarship, an Honorary External Research Studentship from Trinity College, Cambridge and an Overseas Research Studentship Award. We thank M.E. Hurles (Sanger Institute) for discussions on quantifying sequence polymorphisms, P.H. Dear (LMB) and G. Mitchison (Cambridge) for discussions on statistical methods, and T.M. Schmeing (LMB) and other members of LMB for critically reading versions of the manuscript. \n\nThe authors declare no competing financial interests.",
+      "number": "5",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180627-083255769",
+      "pagerange": "254-258",
+      "publication": "Nature Chemical Biology",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "nchembio783-S1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/2/nchembio783-S1.pdf"
+         },
+         {
+            "basename": "nchembio783-S2.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/3/nchembio783-S2.pdf"
+         },
+         {
+            "basename": "nchembio783-S3.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/4/nchembio783-S3.pdf"
+         },
+         {
+            "basename": "nchembio783-S4.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/5/nchembio783-S4.pdf"
+         },
+         {
+            "basename": "nchembio783-S5.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/6/nchembio783-S5.pdf"
+         },
+         {
+            "basename": "nchembio783-S6.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/7/nchembio783-S6.pdf"
+         },
+         {
+            "basename": "nchembio783-S7.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87373/8/nchembio783-S7.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/nchembio783"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/11i2"
+            }
+         ]
+      },
+      "rev_number": 18,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-27 16:17:40",
+      "title": "Functional epitopes at the ribosome subunit interface",
+      "type": "article",
+      "userid": 18,
+      "volume": "2"
+   }
+]

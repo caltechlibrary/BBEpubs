@@ -1,0 +1,3901 @@
+[
+   {
+      "_Attachments": [
+         {
+            "name": "95814.xml",
+            "size": 7969,
+            "sizes": {
+               "v0.0.1": 7969
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "cf41de9bf6e4ba4cba8138b553364ebb"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/95/81/4/v0.0.1/95814.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/95/81/4/v0.0.1/95814.xml"
+            },
+            "created": "2020-03-27T11:58:27-07:00",
+            "modified": "2020-04-28T09:44:22-07:00"
+         }
+      ],
+      "_Key": "95814",
+      "abstract": "Recent advances in computer vision and machine learning underpin a collection of algorithms with an impressive ability to decipher the content of images. These deep learning algorithms are being applied to biological images and are transforming the analysis and interpretation of imaging data. These advances are positioned to render difficult analyses routine and to enable researchers to carry out new, previously impossible experiments. Here we review the intersection between deep learning and cellular image analysis and provide an overview of both the mathematical mechanics and the programming frameworks of deep learning that are pertinent to life scientists. We survey the field\u2019s progress in four key applications: image classification, image segmentation, object tracking, and augmented microscopy. Last, we relay our labs\u2019 experience with three key aspects of implementing deep learning in the laboratory: annotating training data, selecting and training a range of neural network architectures, and deploying solutions. We also highlight existing datasets and implementations for each surveyed application.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Moen-E",
+               "name": {
+                  "family": "Moen",
+                  "given": "Erick"
+               },
+               "orcid": "0000-0002-5947-7044"
+            },
+            {
+               "id": "Bannon-D",
+               "name": {
+                  "family": "Bannon",
+                  "given": "Dylan"
+               }
+            },
+            {
+               "id": "Kudo-Takamasa",
+               "name": {
+                  "family": "Kudo",
+                  "given": "Takamasa"
+               },
+               "orcid": "0000-0002-9709-5549"
+            },
+            {
+               "id": "Graf-W",
+               "name": {
+                  "family": "Graf",
+                  "given": "William"
+               }
+            },
+            {
+               "id": "Covert-M-W",
+               "name": {
+                  "family": "Covert",
+                  "given": "Markus"
+               },
+               "orcid": "0000-0002-5993-8912"
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            }
+         ]
+      },
+      "date": "2019-12",
+      "date_type": "published",
+      "datestamp": "2019-05-28 20:11:05",
+      "dir": "disk0/00/09/58/14",
+      "documents": [
+         {
+            "content": "inpress",
+            "doc_id": 284028,
+            "eprint_id": 95814,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1544463,
+                  "filename": "s41592-019-0403-1.pdf",
+                  "filesize": 11619144,
+                  "hash": "9687d3f5dcf7fbc5217ccc40498cc359",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1544463",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-05-28 18:07:32",
+                  "objectid": 284028,
+                  "url": "https://authors.library.caltech.edu/95814/1/s41592-019-0403-1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/284028",
+            "language": "en",
+            "license": "other",
+            "main": "s41592-019-0403-1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "published",
+            "doc_id": 291475,
+            "eprint_id": 95814,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1705089,
+                  "filename": "s41592-019-0403-1.pdf",
+                  "filesize": 9755356,
+                  "hash": "fdcf6427c27b4898a7d8c78da6aac6a2",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1705089",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-12-04 15:36:55",
+                  "objectid": 291475,
+                  "url": "https://authors.library.caltech.edu/95814/2/s41592-019-0403-1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/291475",
+            "language": "en",
+            "license": "other",
+            "main": "s41592-019-0403-1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "internal"
+         }
+      ],
+      "eprint_id": 95814,
+      "eprint_status": "archive",
+      "full_text_status": "none",
+      "funders": {
+         "items": [
+            {
+               "agency": "Allen Discovery Center"
+            },
+            {
+               "agency": "Burroughs Wellcome Fund"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "U24CA224309-01"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/95814",
+      "id_number": "CaltechAUTHORS:20190528-110726386",
+      "ispublished": "pub",
+      "issn": "1548-7091",
+      "keywords": "Image processing; Software",
+      "lastmod": "2019-12-04 15:45:30",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2019 Springer Nature Publishing AG. \n\nReceived 24 October 2018; Accepted 03 April 2019; Published 27 May 2019. \n\nData availability: Links to the data referred to in this Review can be found in Table 2. \n\nWe thank A. Anandkumar, M. Angelo, L. Cai, S. Cooper, M. Elowitz, K.C. Huang, G. Johnson, A. Karpathy, L. Keren, A. Raj, T. Vora, and R. Wollman for helpful discussions and comments. This work was supported by several funding sources, including the Allen Discovery Center (award supporting W.G.; award supporting T.K., M.C., and D.V.V.), the Burroughs Wellcome Fund Postdoctoral Enrichment Program, a Figure Eight AI for Everyone award, and the NIH (subaward U24CA224309-01 to D.V.V.). \n\nAuthor Contributions: E.M., D.B., T.K., W.G., M.C., and D.V.V. wrote the paper. \n\nThe authors declare no competing interests.",
+      "number": "12",
+      "official_cit": "Moen, E., Bannon, D., Kudo, T. et al. Deep learning for cellular image analysis. Nat Methods 16, 1233\u20131246 (2019) doi:10.1038/s41592-019-0403-1",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20190528-110726386",
+      "pagerange": "1233-1246",
+      "publication": "Nature Methods",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/s41592-019-0403-1"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/bEG8B"
+            },
+            {
+               "description": "Table 2 - Available datasets",
+               "type": "pub",
+               "url": "https://www.nature.com/articles/s41592-019-0403-1/tables/2"
+            }
+         ]
+      },
+      "rev_number": 15,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2019-12-04 15:45:30",
+      "title": "Deep learning for cellular image analysis",
+      "type": "article",
+      "userid": 18,
+      "volume": "16"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "100205.xml",
+            "size": 8085,
+            "sizes": {
+               "v0.0.1": 8085
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "0f60286307741f702949c789007c2c3b"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/10/02/05/v0.0.1/100205.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/02/05/v0.0.1/100205.xml"
+            },
+            "created": "2020-03-27T11:48:39-07:00",
+            "modified": "2020-04-28T09:34:58-07:00"
+         }
+      ],
+      "_Key": "100205",
+      "abstract": "Background: Multiplexed imaging is a rapidly growing field that promises to substantially increase the number of proteins that can be imaged simultaneously.\nWe have developed Multiplexed Ion Beam Imaging by Time of Flight\n(MIBI-TOF), which uses elemental reporters conjugated to primary antibodies\nthat are then quantified using a time of flight mass-spectrometer.\nThis technique allows for more than 40 distinct proteins to visualized at\nonce in the same clinical samples. This has already yielded significant insights\ninto the interactions and relationships between the many different\nimmune cell populations present in the tumor microenvironment. However,\none of the remaining challenges in analyzing such data is accurately\ndetermining target protein expression values for each cell in the image.\nThis requires the precise delineation of boundaries between cells that are\noften tightly packed next to one another. Current methods to address\nthis challenge largely rely on DNA intensity to make these splits, and are\nthus mostly limited to nuclear segmentation.\nMethods:\nWe have developed a novel convolutional neural network to perform\nwhole-cell segmentation from multiplexed imaging data. Rather than\nrelying only on DNA signal, we use a panel of morphological\nmarkers. Our method integrates the information from these distinct\nproteins, allowing it to segment large cancer cells, small lymphocytes,\nand normal epithelium at the same time without requiring\nfine-tuning or manual adjustment.\nResults:\nBy combining our novel imaging platform with new computational\ntools, we are able to achieve extremely accurate segmentation of\nwhole cells in tissue. Our approach compares favorably with many of\nthe currently used tools for segmentation. We show that our improvements\nin accuracy come both from our novel imaging approach as well\nas algorithmic advances. We perform significantly better than traditional\nmachine learning algorithms trained on the same dataset. Additionally,\nwe show that our algorithm can be trained to identify cells\nacross a range of cancer histologies and disease grades.\nConclusions:\nWe have developed a robust and accurate approach to whole-cell\nsegmentation in human tissues. We show the superiority over this\nmethod over current state of the art algorithms. The accurate segmentation\ngenerated by our approach will enable the analysis of\ncomplex tissue architectures with highly overlapping cell types, and\nwill help to advance our understanding of the interactions between\ncell types in the diseased state.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Greenwald-N",
+               "name": {
+                  "family": "Greenwald",
+                  "given": "Noah"
+               }
+            },
+            {
+               "id": "Keren-L",
+               "name": {
+                  "family": "Keren",
+                  "given": "Leeat"
+               },
+               "orcid": "0000-0002-6799-6303"
+            },
+            {
+               "id": "Greenbaum-S",
+               "name": {
+                  "family": "Greenbaum",
+                  "given": "Shirley"
+               }
+            },
+            {
+               "id": "Fong-Mara",
+               "name": {
+                  "family": "Fong",
+                  "given": "Mara"
+               }
+            },
+            {
+               "id": "Chaudhry-G",
+               "name": {
+                  "family": "Chaudhry",
+                  "given": "Gautam"
+               }
+            },
+            {
+               "id": "Abraham-Z",
+               "name": {
+                  "family": "Abraham",
+                  "given": "Zion"
+               }
+            },
+            {
+               "id": "Moseley-J",
+               "name": {
+                  "family": "Moseley",
+                  "given": "Jackson"
+               }
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Angelo-M",
+               "name": {
+                  "family": "Angelo",
+                  "given": "Michael"
+               }
+            }
+         ]
+      },
+      "date": "2019-11-06",
+      "date_type": "published",
+      "datestamp": "2019-12-05 18:32:48",
+      "dir": "disk0/00/10/02/05",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 291534,
+            "eprint_id": 100205,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1705799,
+                  "filename": "Greenwald_2019p736.pdf",
+                  "filesize": 97309,
+                  "hash": "6ae2401725c55f452431f7d1a2ef784f",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1705799",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-12-05 18:17:53",
+                  "objectid": 291534,
+                  "url": "https://authors.library.caltech.edu/100205/1/Greenwald_2019p736.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/291534",
+            "language": "en",
+            "license": "cc_by",
+            "main": "Greenwald_2019p736.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 100205,
+      "eprint_status": "archive",
+      "event_dates": "6-10 November 2019",
+      "event_location": "National Harbor, MD",
+      "event_title": "34th Annual Meeting & Pre-Conference Programs of the Society for Immunotherapy of Cancer (SITC 2019)",
+      "full_text_status": "public",
+      "id": "https://authors.library.caltech.edu/id/eprint/100205",
+      "id_number": "CaltechAUTHORS:20191205-101747645",
+      "ispublished": "pub",
+      "issn": "2051-1426",
+      "lastmod": "2019-12-05 18:32:48",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2019 BioMed Central Ltd. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. \n\nPublished 06 November 2019.",
+      "number": "S1",
+      "official_cit": "34th Annual Meeting & Pre-Conference Programs of the Society for Immunotherapy of Cancer (SITC 2019): part 2. j. immunotherapy cancer 7, 283 (2019) doi:10.1186/s40425-019-0764-0",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20191205-101747645",
+      "pagerange": "Art. No. P736",
+      "primary_object": {
+         "basename": "Greenwald_2019p736.pdf",
+         "content": "published",
+         "license": "cc_by",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/100205/1/Greenwald_2019p736.pdf"
+      },
+      "publication": "Journal for ImmunoTherapy of Cancer",
+      "publisher": "BioMed Central",
+      "refereed": "TRUE",
+      "related_url": {
+         "items": [
+            {
+               "description": "Abstracts",
+               "type": "doi",
+               "url": "https://doi.org/10.1186/s40425-019-0764-0"
+            }
+         ]
+      },
+      "rev_number": 10,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2019-12-05 18:32:48",
+      "title": "Combining Multiplexed Ion Beam Imaging (MIBI) with Convolutional Neural Networks to accurately segment cells in human tissue",
+      "type": "article",
+      "userid": 18,
+      "volume": "7"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "99337.xml",
+            "size": 5613,
+            "sizes": {
+               "v0.0.1": 5613
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "bfe1a279f690b4dfd6b6e14c0e92216c"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/99/33/7/v0.0.1/99337.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/99/33/7/v0.0.1/99337.xml"
+            },
+            "created": "2020-03-27T11:50:35-07:00",
+            "modified": "2020-04-28T09:36:50-07:00"
+         }
+      ],
+      "_Key": "99337",
+      "abstract": "To mark the 15th anniversary of Nature Methods, we asked scientists from across diverse fields of basic biology research for their views on the most exciting and essential methodological challenges that their communities are poised to tackle in the near future.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Anikeeva-P",
+               "name": {
+                  "family": "Anikeeva",
+                  "given": "Polina"
+               }
+            },
+            {
+               "id": "Jensen-G-J",
+               "name": {
+                  "family": "Jensen",
+                  "given": "Grant Jay"
+               },
+               "orcid": "0000-0003-1556-4864"
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Zernicka-Goetz-M",
+               "name": {
+                  "family": "Zernicka-Goetz",
+                  "given": "Magdalena"
+               },
+               "orcid": "0000-0002-7004-2471"
+            }
+         ]
+      },
+      "date": "2019-10",
+      "date_type": "published",
+      "datestamp": "2019-10-19 04:41:10",
+      "dir": "disk0/00/09/93/37",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 289866,
+            "eprint_id": 99337,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1688269,
+                  "filename": "s41592-019-0585-6.pdf",
+                  "filesize": 3057218,
+                  "hash": "8f8a0e5d73647a9ef4361de56388a1fe",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1688269",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-10-17 21:44:45",
+                  "objectid": 289866,
+                  "url": "https://authors.library.caltech.edu/99337/1/s41592-019-0585-6.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/289866",
+            "language": "en",
+            "license": "other",
+            "main": "s41592-019-0585-6.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 296008,
+            "eprint_id": 99337,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1744280,
+                  "filename": "nihms-1552528.pdf",
+                  "filesize": 1352880,
+                  "hash": "8f6b9eb81e6981b7ebc012bc09033ea6",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1744280",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-04-08 17:34:58",
+                  "objectid": 296008,
+                  "url": "https://authors.library.caltech.edu/99337/2/nihms-1552528.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/296008",
+            "language": "en",
+            "license": "other",
+            "main": "nihms-1552528.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 99337,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "id": "https://authors.library.caltech.edu/id/eprint/99337",
+      "id_number": "CaltechAUTHORS:20191017-144439188",
+      "ispublished": "pub",
+      "issn": "1548-7091",
+      "lastmod": "2020-04-08 17:43:51",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2019 Springer Nature Limited. \n\nPublished online: 27 September 2019.",
+      "number": "10",
+      "official_cit": "Anikeeva, P., Boyden, E., Brangwynne, C. et al. Voices in methods development. Nat Methods 16, 945\u2013951 (2019). https://doi.org/10.1038/s41592-019-0585-6",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20191017-144439188",
+      "pagerange": "945-951",
+      "pmcid": "PMC7075469",
+      "publication": "Nature Methods",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "nihms-1552528.pdf",
+            "content": "accepted",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/99337/2/nihms-1552528.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/s41592-019-0585-6"
+            },
+            {
+               "description": "Free ReadCube access",
+               "type": "pub",
+               "url": "https://rdcu.be/bUDri"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075469"
+            }
+         ]
+      },
+      "rev_number": 14,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2020-04-08 17:43:51",
+      "title": "Voices in methods development",
+      "type": "article",
+      "userid": 18,
+      "volume": "16"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "89413.xml",
+            "size": 15903,
+            "sizes": {
+               "v0.0.1": 15903
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "968f6cf3edc3f18d073ddac88dfa3f85"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/89/41/3/v0.0.1/89413.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/89/41/3/v0.0.1/89413.xml"
+            },
+            "created": "2020-03-27T12:12:25-07:00",
+            "modified": "2020-04-28T09:57:52-07:00"
+         }
+      ],
+      "_Key": "89413",
+      "abstract": "The immune system is critical in modulating cancer progression, but knowledge of immune composition, phenotype, and interactions with tumor is limited. We used multiplexed ion beam imaging by time-of-flight (MIBI-TOF) to simultaneously quantify in situ expression of 36 proteins covering identity, function, and immune regulation at sub-cellular resolution in 41 triple-negative breast cancer patients. Multi-step processing, including deep-learning-based segmentation, revealed variability in the composition of tumor-immune populations across individuals, reconciled by overall immune infiltration and enriched co-occurrence of immune subpopulations and checkpoint expression. Spatial enrichment analysis showed immune mixed and compartmentalized tumors, coinciding with expression of PD1, PD-L1, and IDO in a cell-type- and location-specific manner. Ordered immune structures along the tumor-immune border were associated with compartmentalization and linked to survival. These data demonstrate organization in the tumor-immune microenvironment that is structured in cellular composition, spatial arrangement, and regulatory-protein expression and provide a framework to apply multiplexed imaging to immune oncology.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Keren-L",
+               "name": {
+                  "family": "Keren",
+                  "given": "Leeat"
+               },
+               "orcid": "0000-0002-6799-6303"
+            },
+            {
+               "id": "Bosse-M",
+               "name": {
+                  "family": "Bosse",
+                  "given": "Marc"
+               }
+            },
+            {
+               "id": "Marquez-Diana",
+               "name": {
+                  "family": "Marquez",
+                  "given": "Diana"
+               }
+            },
+            {
+               "id": "Angoshtari-R",
+               "name": {
+                  "family": "Angoshtari",
+                  "given": "Roshan"
+               }
+            },
+            {
+               "id": "Jain-Samir",
+               "name": {
+                  "family": "Jain",
+                  "given": "Samir"
+               }
+            },
+            {
+               "id": "Varma-Sushama",
+               "name": {
+                  "family": "Varma",
+                  "given": "Sushama"
+               }
+            },
+            {
+               "id": "Yang-Soo-Ryum",
+               "name": {
+                  "family": "Yang",
+                  "given": "Soo-Ryum"
+               },
+               "orcid": "0000-0002-1051-502X"
+            },
+            {
+               "id": "Kurian-A",
+               "name": {
+                  "family": "Kurian",
+                  "given": "Allison"
+               }
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "West-Robert",
+               "name": {
+                  "family": "West",
+                  "given": "Robert"
+               }
+            },
+            {
+               "id": "Bendall-S-C",
+               "name": {
+                  "family": "Bendall",
+                  "given": "Sean C."
+               },
+               "orcid": "0000-0003-1341-2453"
+            },
+            {
+               "id": "Angelo-M",
+               "name": {
+                  "family": "Angelo",
+                  "given": "Michael"
+               }
+            }
+         ]
+      },
+      "date": "2018-09-06",
+      "date_type": "published",
+      "datestamp": "2018-09-07 00:08:45",
+      "dir": "disk0/00/08/94/13",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 272003,
+            "eprint_id": 89413,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1444989,
+                  "filename": "1-s2.0-S0092867418311000-main.pdf",
+                  "filesize": 19491527,
+                  "hash": "b138cff3c2a776478040a31cb65504ad",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1444989",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-09-06 19:40:48",
+                  "objectid": 272003,
+                  "url": "https://authors.library.caltech.edu/89413/1/1-s2.0-S0092867418311000-main.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/272003",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0092867418311000-main.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 272004,
+            "eprint_id": 89413,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1444992,
+                  "filename": "1-s2.0-S0092867418311000-mmc1.xlsx",
+                  "filesize": 12772,
+                  "hash": "b7cba1db9c5e376fd35430000bb63a36",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1444992",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2018-09-06 19:43:45",
+                  "objectid": 272004,
+                  "url": "https://authors.library.caltech.edu/89413/2/1-s2.0-S0092867418311000-mmc1.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S1. Targets, Related to Figure 1 and STAR Methods",
+            "id": "https://authors.library.caltech.edu/id/document/272004",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0092867418311000-mmc1.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 272005,
+            "eprint_id": 89413,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1444994,
+                  "filename": "1-s2.0-S0092867418311000-mmc2.xlsx",
+                  "filesize": 15035,
+                  "hash": "5f9f0f49ec0ff49da42632c13ab023b4",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1444994",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2018-09-06 19:44:04",
+                  "objectid": 272005,
+                  "url": "https://authors.library.caltech.edu/89413/3/1-s2.0-S0092867418311000-mmc2.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S2. Cohort, Related to STAR Methods",
+            "id": "https://authors.library.caltech.edu/id/document/272005",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0092867418311000-mmc2.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 272006,
+            "eprint_id": 89413,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1444996,
+                  "filename": "1-s2.0-S0092867418311000-mmc3.xlsx",
+                  "filesize": 471199,
+                  "hash": "6e95cd431d6c14921423b520e9c8debf",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1444996",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2018-09-06 19:44:25",
+                  "objectid": 272006,
+                  "url": "https://authors.library.caltech.edu/89413/4/1-s2.0-S0092867418311000-mmc3.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S3. Distances between Markers, Related to Figure 3",
+            "id": "https://authors.library.caltech.edu/id/document/272006",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0092867418311000-mmc3.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 288690,
+            "eprint_id": 89413,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1588912,
+                  "filename": "nihms-1504863.pdf",
+                  "filesize": 1797705,
+                  "hash": "d3808a6d2e44b1f52e1bbe04665682e9",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1588912",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-09-16 18:09:00",
+                  "objectid": 288690,
+                  "url": "https://authors.library.caltech.edu/89413/5/nihms-1504863.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/288690",
+            "language": "en",
+            "license": "other",
+            "main": "nihms-1504863.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 5,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 89413,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Damon Runyon Cancer Research Foundation",
+               "grant_number": "DRG-2292-17"
+            },
+            {
+               "agency": "European Molecular Biology Organization (EMBO)",
+               "grant_number": "ALTF 1128-2016"
+            },
+            {
+               "agency": "Burroughs Wellcome Fund"
+            },
+            {
+               "agency": "Stanford University"
+            },
+            {
+               "agency": "Crowdflower A.I."
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "5R01CA18390402"
+            },
+            {
+               "agency": "Christy and Bill Neidig"
+            },
+            {
+               "agency": "Damon Runyon Cancer Research Foundation",
+               "grant_number": "DRG-2017-09"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1DP2OD022550-01"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1-R00-GM104148-01"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "5U19AI116484-02"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "U19 AI104209"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1R01AG056287-01"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1R01AG057915-01"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1U24CA224309-01"
+            },
+            {
+               "agency": "Bill and Melinda Gates Foundation"
+            },
+            {
+               "agency": "Stanford Cancer Institute"
+            },
+            {
+               "agency": "NSF",
+               "grant_number": "ECCS-1542152"
+            },
+            {
+               "agency": "NIH Postdoctoral Fellowship"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/89413",
+      "id_number": "CaltechAUTHORS:20180906-124040516",
+      "ispublished": "pub",
+      "issn": "0092-8674",
+      "keywords": "Tumor Microenvironment; Tumor Immunology; Imaging; Breast Cancer; Checkpoint; MIBI; Multiplexed Ion Beam Imaging; Mass spectrometry; Proteomics; Systems Biology",
+      "lastmod": "2019-10-03 20:16:01",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2018 Elsevier Inc. \n\nReceived 16 April 2018, Revised 13 June 2018, Accepted 17 August 2018, Available online 6 September 2018. \n\nThe authors thank Tom Carver, Dana Pe\u2019er, Tyler Risom, David Glass, Erin McCaffrey, and Felix Hartmann for discussions and comments. L.K. is supported by the Damon Runyon Cancer Research Foundation (DRG-2292-17) and EMBO Long-Term fellowship (ALTF 1128-2016). D.V.V. is supported by an NIH F32 Postdoctoral Fellowship, a Burroughs Wellcome PDEP award, The Allen Discovery Center at Stanford University, and a Crowdflower A.I. for everyone award. R.W. is supported by NIH5R01CA18390402. S.C.B. is supported by a gift from Christy and Bill Neidig, the Damon Runyon Cancer Research Foundation (DRG-2017-09), NIH1DP2OD022550-01, 1-R00-GM104148-01, 5U19AI116484-02, and U19 AI104209. M.A. is supported by NIH1-DP5-OD019822. S.C.B. and M.A. are supported by NIH1R01AG056287-01, 1R01AG057915-01, and 1U24CA224309-01, the Bill and Melinda Gates Foundation, and a Translational Research Award from the Stanford Cancer Institute. The Stanford Nano Shared Facility is supported by NSF ECCS-1542152. \n\nAuthor Contributions: L.K. acquired and analyzed the data and wrote the manuscript. M.B., D.M., and R.A. performed experiments. S.J. performed manual segmentation. S.V., A.K., and R.W. provided the samples. S.-R.Y. performed TIL scoring. D.V.V. developed DeepCell. S.C.B. and M.A. supervised the work. \n\nDeclaration of Interests: M.A. and S.C.B. have patents relating to MIBI technology and are board members, shareholders, and consultants in Ionpath Inc.",
+      "number": "6",
+      "official_cit": "Leeat Keren, Marc Bosse, Diana Marquez, Roshan Angoshtari, Samir Jain, Sushama Varma, Soo-Ryum Yang, Allison Kurian, David Van Valen, Robert West, Sean C. Bendall, Michael Angelo,\nA Structured Tumor-Immune Microenvironment in Triple Negative Breast Cancer Revealed by Multiplexed Ion Beam Imaging, Cell, Volume 174, Issue 6, 2018, Pages 1373-1387.e19, ISSN 0092-8674,\nhttps://doi.org/10.1016/j.cell.2018.08.039.\n(http://www.sciencedirect.com/science/article/pii/S0092867418311000)",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180906-124040516",
+      "pagerange": "1373-1387",
+      "pmcid": "PMC6132072",
+      "primary_object": {
+         "basename": "nihms-1504863.pdf",
+         "content": "accepted",
+         "license": "other",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/89413/5/nihms-1504863.pdf"
+      },
+      "publication": "Cell",
+      "publisher": "Elsevier",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "1-s2.0-S0092867418311000-mmc1.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/89413/2/1-s2.0-S0092867418311000-mmc1.xlsx"
+         },
+         {
+            "basename": "1-s2.0-S0092867418311000-mmc2.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/89413/3/1-s2.0-S0092867418311000-mmc2.xlsx"
+         },
+         {
+            "basename": "1-s2.0-S0092867418311000-mmc3.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/89413/4/1-s2.0-S0092867418311000-mmc3.xlsx"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1016/j.cell.2018.08.039"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6132072"
+            }
+         ]
+      },
+      "rev_number": 31,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2019-09-16 18:20:47",
+      "title": "A Structured Tumor-Immune Microenvironment in Triple Negative Breast Cancer Revealed by Multiplexed Ion Beam Imaging",
+      "type": "article",
+      "userid": 18,
+      "volume": "174"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "85409.xml",
+            "size": 5603,
+            "sizes": {
+               "v0.0.1": 5603
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "e11fbf1936a791efcab9b57495e047bd"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/85/40/9/v0.0.1/85409.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/85/40/9/v0.0.1/85409.xml"
+            },
+            "created": "2020-03-27T12:21:26-07:00",
+            "modified": "2020-04-28T10:06:29-07:00"
+         }
+      ],
+      "_Key": "85409",
+      "abstract": "The lysis\u2010lysogeny decision made by bacteriophage lambda is one of the classic problems of molecular biology. Shortly after infecting a cell, the virus can either go down the lytic pathway and make more viruses, or go down the lysogenic pathway and integrate itself into the host genome. While much is known about how this decision takes place, the extent to which host physiology influences this decision and the mechanisms by which this influence takes place has remained mysterious. To answer this question, we performed a forward genetic screen to systematically identify all of the genes in E. coli that influence the lysis\u2010lysogeny decision. Our results demonstrate previously unknown links between host physiology and viral decision making and shed new light on this classic system.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Quach-N-T",
+               "name": {
+                  "family": "Quach",
+                  "given": "N. T."
+               }
+            },
+            {
+               "id": "Bodner-K",
+               "name": {
+                  "family": "Bodner",
+                  "given": "K."
+               }
+            },
+            {
+               "id": "Miguel-A",
+               "name": {
+                  "family": "Miguel",
+                  "given": "A."
+               }
+            },
+            {
+               "id": "Tanouchi-Yu",
+               "name": {
+                  "family": "Tanouchi",
+                  "given": "Y."
+               }
+            },
+            {
+               "id": "Silvis-M-R",
+               "name": {
+                  "family": "Silvis",
+                  "given": "M. R."
+               }
+            },
+            {
+               "id": "Gross-C-A",
+               "name": {
+                  "family": "Gross",
+                  "given": "C. A."
+               }
+            },
+            {
+               "id": "Huang-K-C",
+               "name": {
+                  "family": "Huang",
+                  "given": "K. C."
+               }
+            },
+            {
+               "id": "Covert-M-W",
+               "name": {
+                  "family": "Covert",
+                  "given": "M. W."
+               },
+               "orcid": "0000-0002-5993-8912"
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "D. A."
+               },
+               "orcid": "0000-0001-7534-7621"
+            }
+         ]
+      },
+      "date": "2017-12-15",
+      "date_type": "published",
+      "datestamp": "2018-03-26 21:27:29",
+      "dir": "disk0/00/08/54/09",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 265576,
+            "eprint_id": 85409,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1388798,
+                  "filename": "Quach_2017pP1721.pdf",
+                  "filesize": 159810,
+                  "hash": "5a304b4119b0359bf8e61bac47700f49",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1388798",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-03-21 22:32:00",
+                  "objectid": 265576,
+                  "url": "https://authors.library.caltech.edu/85409/1/Quach_2017pP1721.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/265576",
+            "language": "en",
+            "license": "cc_by",
+            "main": "Quach_2017pP1721.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 85409,
+      "eprint_status": "archive",
+      "event_dates": "December 2-6, 2017",
+      "event_location": "Philadelphia, PA",
+      "event_title": "2017 ASCB Annual Meeting Abstracts",
+      "full_text_status": "public",
+      "id": "https://authors.library.caltech.edu/id/eprint/85409",
+      "id_number": "CaltechAUTHORS:20180321-153149226",
+      "ispublished": "pub",
+      "issn": "1059-1524",
+      "lastmod": "2020-03-09 13:18:00",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2017 American Society for Cell Biology. Free via Creative Commons 2 months after publication.",
+      "number": "26",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180321-153149226",
+      "pagerange": "Art. No. P1721",
+      "primary_object": {
+         "basename": "Quach_2017pP1721.pdf",
+         "content": "published",
+         "license": "cc_by",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/85409/1/Quach_2017pP1721.pdf"
+      },
+      "publication": "Molecular Biology of the Cell",
+      "publisher": "American Society for Cell Biology",
+      "refereed": "TRUE",
+      "related_url": {
+         "items": [
+            {
+               "description": "Abstracts",
+               "type": "doi",
+               "url": "https://doi.org/10.1091/mbc.E17-10-0618"
+            },
+            {
+               "description": "Abstracts",
+               "type": "pub",
+               "url": "http://www.molbiolcell.org/content/28/26/3727"
+            }
+         ]
+      },
+      "rev_number": 11,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-03-26 21:27:29",
+      "title": "A forward genetic screen identifies host factors that influence the lysis-lysogeny decision in phage lambda",
+      "type": "article",
+      "userid": 18,
+      "volume": "28"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87063.xml",
+            "size": 14341,
+            "sizes": {
+               "v0.0.1": 14341
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "3d18d9f353bfa3063a7911d8a9b2222e"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/06/3/v0.0.1/87063.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/06/3/v0.0.1/87063.xml"
+            },
+            "created": "2020-03-27T12:17:40-07:00",
+            "modified": "2020-04-28T10:02:52-07:00"
+         }
+      ],
+      "_Key": "87063",
+      "abstract": "Signaling proteins display remarkable cell-to-cell heterogeneity in their dynamic responses to stimuli, but the consequences of this heterogeneity remain largely unknown. For instance, the contribution of the dynamics of the innate immune transcription factor nuclear factor \u03baB (NF-\u03baB) to gene expression output is disputed. Here we explore these questions by integrating live-cell imaging approaches with single-cell sequencing technologies. We used this approach to measure both the dynamics of lipopolysaccharide-induced NF-\u03baB activation and the global transcriptional response in the same individual cell.\u00a0Our results identify multiple, distinct cytokine expression patterns that are correlated with NF-\u03baB activation dynamics, establishing a functional role for NF-\u03baB dynamics in determining cellular phenotypes. Applications of this approach to other model systems and single-cell sequencing technologies have significant potential for discovery, as it is now possible to trace cellular behavior from the initial stimulus, through the signaling pathways, down to genome-wide changes in gene expression, all inside of a single cell.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Lane-K",
+               "name": {
+                  "family": "Lane",
+                  "given": "Keara"
+               }
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "DeFelice-M-M",
+               "name": {
+                  "family": "DeFelice",
+                  "given": "Mialy M."
+               },
+               "orcid": "0000-0002-7197-6292"
+            },
+            {
+               "id": "Macklin-D-N",
+               "name": {
+                  "family": "Macklin",
+                  "given": "Derek N."
+               }
+            },
+            {
+               "id": "Kudo-Takamasa",
+               "name": {
+                  "family": "Kudo",
+                  "given": "Takamasa"
+               },
+               "orcid": "0000-0002-9709-5549"
+            },
+            {
+               "id": "Jaimovich-A",
+               "name": {
+                  "family": "Jaimovich",
+                  "given": "Ariel"
+               }
+            },
+            {
+               "id": "Carr-A",
+               "name": {
+                  "family": "Carr",
+                  "given": "Ambrose"
+               }
+            },
+            {
+               "id": "Meyer-T",
+               "name": {
+                  "family": "Meyer",
+                  "given": "Tobias"
+               }
+            },
+            {
+               "id": "Pe'er-D",
+               "name": {
+                  "family": "Pe'er",
+                  "given": "Dana"
+               }
+            },
+            {
+               "id": "Boutet-S-C",
+               "name": {
+                  "family": "Boutet",
+                  "given": "St\u00e9phane C."
+               }
+            },
+            {
+               "id": "Covert-M-W",
+               "name": {
+                  "family": "Covert",
+                  "given": "Markus W."
+               },
+               "orcid": "0000-0002-5993-8912"
+            }
+         ]
+      },
+      "date": "2017-04-26",
+      "date_type": "published",
+      "datestamp": "2018-06-13 18:38:49",
+      "dir": "disk0/00/08/70/63",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 268570,
+            "eprint_id": 87063,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413478,
+                  "filename": "S2405-4712(17)30132-1.pdf",
+                  "filesize": 3391595,
+                  "hash": "54241ce9ac30c9660f05f6373080c99e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413478",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-13 18:09:27",
+                  "objectid": 268570,
+                  "url": "https://authors.library.caltech.edu/87063/1/S2405-4712%2817%2930132-1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/268570",
+            "language": "en",
+            "license": "other",
+            "main": "S2405-4712(17)30132-1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 6,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268571,
+            "eprint_id": 87063,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413481,
+                  "filename": "1-s2.0-S2405471217301321-mmc1.pdf",
+                  "filesize": 10253012,
+                  "hash": "3a54a5798d939da022a1c5b73ddb64e2",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413481",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-13 18:10:01",
+                  "objectid": 268571,
+                  "url": "https://authors.library.caltech.edu/87063/2/1-s2.0-S2405471217301321-mmc1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Document S1. Figures S1\u2013S11 and Table S3",
+            "id": "https://authors.library.caltech.edu/id/document/268571",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S2405471217301321-mmc1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268572,
+            "eprint_id": 87063,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413484,
+                  "filename": "1-s2.0-S2405471217301321-mmc2.csv",
+                  "filesize": 338862,
+                  "hash": "8be1e148d47762fd148584469a6179a6",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413484",
+                  "mime_type": "text/plain",
+                  "mtime": "2018-06-13 18:10:16",
+                  "objectid": 268572,
+                  "url": "https://authors.library.caltech.edu/87063/3/1-s2.0-S2405471217301321-mmc2.csv"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Download Comma Separated Value file",
+            "id": "https://authors.library.caltech.edu/id/document/268572",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S2405471217301321-mmc2.csv",
+            "mime_type": "text/plain",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268573,
+            "eprint_id": 87063,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413488,
+                  "filename": "1-s2.0-S2405471217301321-mmc3.csv",
+                  "filesize": 978025,
+                  "hash": "60a8bc62e5c49692fce8c79fdf0bf530",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413488",
+                  "mime_type": "text/plain",
+                  "mtime": "2018-06-13 18:10:53",
+                  "objectid": 268573,
+                  "url": "https://authors.library.caltech.edu/87063/4/1-s2.0-S2405471217301321-mmc3.csv"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S2. Estimates of Transcript Abundance for the 113 Genes Considered in this Study for All of the Cells Measured on the C1 Platform, Related to Figure 2",
+            "id": "https://authors.library.caltech.edu/id/document/268573",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S2405471217301321-mmc3.csv",
+            "mime_type": "text/plain",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268574,
+            "eprint_id": 87063,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413492,
+                  "filename": "1-s2.0-S2405471217301321-mmc4.zip",
+                  "filesize": 5546,
+                  "hash": "ec31de4fcc4fe9c5910c8b41ac54894a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413492",
+                  "mime_type": "application/zip",
+                  "mtime": "2018-06-13 18:11:19",
+                  "objectid": 268574,
+                  "url": "https://authors.library.caltech.edu/87063/5/1-s2.0-S2405471217301321-mmc4.zip"
+               }
+            ],
+            "format": "application/zip",
+            "format_desc": "Data S1. Custom Fluidigm C1 Scripts for Cell Loading and Cell Stimulation, Related to STAR Methods",
+            "id": "https://authors.library.caltech.edu/id/document/268574",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S2405471217301321-mmc4.zip",
+            "mime_type": "application/zip",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87063,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Paul G. Allen Family Foundation"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "5DP1LM01150-05"
+            },
+            {
+               "agency": "Department of Energy (DOE)",
+               "grant_number": "DE-FG02-97ER25308"
+            },
+            {
+               "agency": "Siebel Scholars Foundation"
+            },
+            {
+               "agency": "Stanford Medical School"
+            },
+            {
+               "agency": "NIH Postdoctoral Fellowship",
+               "grant_number": "1F32GM119319-01"
+            },
+            {
+               "agency": "Burroughs Wellcome Fund"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "P50 GM107615"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87063",
+      "id_number": "CaltechAUTHORS:20180613-110240953",
+      "ispublished": "pub",
+      "issn": "2405-4712",
+      "keywords": "NF-\u03baB; RNA-seq; gene expression; live-cell imaging; signaling dynamics; single-cell heterogeneity",
+      "lastmod": "2019-10-03 19:51:53",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2017 Elsevier. Under an Elsevier user license. \n\nReceived 17 August 2016, Revised 16 December 2016, Accepted 15 March 2017, Available online 5 April 2017. \n\nWe thank Brandon Dekosky, Daechan Park, Euan Ashley, Eliezer Calo, the Stefan Heller laboratory, the Stanford FACS facility, Fluidigm's Tech Support and R&D groups, and members of the M.W.C. laboratory for technical assistance and critical commentary on the manuscript. We gratefully acknowledge funding from several sources, including a Distinguished Investigator award and a Discovery Center grant from the Paul Allen Family Foundation, as well as an NIH Pioneer Award (5DP1LM01150-05) to M.W.C.; a DOE Computational Science Graduate Fellowship (DE-FG02-97ER25308) and a Siebel Scholarship to D.N.M.; a Stanford Biomedical Big Data Science Postdoctoral Fellowship, NIH F32 Postdoctoral Fellowship (1F32GM119319-01), as well as the Burroughs Wellcome Fund's Postdoctoral Enrichment Program to D.V.V.; and a Systems Biology Center grant (P50 GM107615). S.C. Boutet was an employee at Fluidigm when the work described here was performed. \n\nAuthor Contributions: K.L., S.C.B., and M.W.C. conceived the study. K.L. performed experiments and image analysis. D.V.V. designed and conducted the bioinformatics and image analysis. M.M.D. performed experiments. T.K. contributed image analysis software. D.N.M., A.C., and D.P. consulted on the bioinformatics analysis. A.J. and T.M. supplied RNA FISH analysis scripts. S.C.B. consulted on Fluidigm C1 experiments. K.L., D.V.V., and M.W.C. wrote the paper with input from all authors. \n\nData and Software Availability: The accession number for the scRNA-seq data reported in this paper is GEO: GSE94383. \n\nCustom scripts for the Fluidigm C1 are included in Data S1.",
+      "number": "4",
+      "official_cit": "Keara Lane, David Van Valen, Mialy M. DeFelice, Derek N. Macklin, Takamasa Kudo, Ariel Jaimovich, Ambrose Carr, Tobias Meyer, Dana Pe'er, St\u00e9phane C. Boutet, Markus W. Covert,\nMeasuring Signaling and RNA-Seq in the Same Cell Links Gene Expression to Dynamic Patterns of NF-\u03baB Activation,\nCell Systems,\nVolume 4, Issue 4,\n2017,\nPages 458-469.e5,\nISSN 2405-4712,\nhttps://doi.org/10.1016/j.cels.2017.03.010.\n(http://www.sciencedirect.com/science/article/pii/S2405471217301321)",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180613-110240953",
+      "pagerange": "458-469.e5",
+      "publication": "Cell Systems",
+      "publisher": "Elsevier",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "1-s2.0-S2405471217301321-mmc1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/87063/2/1-s2.0-S2405471217301321-mmc1.pdf"
+         },
+         {
+            "basename": "1-s2.0-S2405471217301321-mmc2.csv",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/plain",
+            "url": "https://authors.library.caltech.edu/87063/3/1-s2.0-S2405471217301321-mmc2.csv"
+         },
+         {
+            "basename": "1-s2.0-S2405471217301321-mmc3.csv",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "text/plain",
+            "url": "https://authors.library.caltech.edu/87063/4/1-s2.0-S2405471217301321-mmc3.csv"
+         },
+         {
+            "basename": "1-s2.0-S2405471217301321-mmc4.zip",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/zip",
+            "url": "https://authors.library.caltech.edu/87063/5/1-s2.0-S2405471217301321-mmc4.zip"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1016/j.cels.2017.03.010"
+            }
+         ]
+      },
+      "rev_number": 28,
+      "reviewer": "Tony Diaz",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-13 18:38:49",
+      "title": "Measuring Signaling and RNA-Seq in the Same Cell Links Gene Expression to Dynamic Patterns of NF-\u03baB Activation",
+      "type": "article",
+      "userid": 6,
+      "volume": "4"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "87066.xml",
+            "size": 43278,
+            "sizes": {
+               "v0.0.1": 43278
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "38bcea4a2fc8c7e9e523598baf22d40e"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/87/06/6/v0.0.1/87066.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/87/06/6/v0.0.1/87066.xml"
+            },
+            "created": "2020-03-27T12:17:39-07:00",
+            "modified": "2020-04-28T10:02:52-07:00"
+         }
+      ],
+      "_Key": "87066",
+      "abstract": "Live-cell imaging has opened an exciting window into the role cellular heterogeneity plays in dynamic, living systems. A major critical challenge for this class of experiments is the problem of image segmentation, or determining which parts of a microscope image correspond to which individual cells. Current approaches require many hours of manual curation and depend on approaches that are difficult to share between labs. They are also unable to robustly segment the cytoplasms of mammalian cells. Here, we show that deep convolutional neural networks, a supervised machine learning method, can solve this challenge for multiple cell types across the domains of life. We demonstrate that this approach can robustly segment fluorescent images of cell nuclei as well as phase images of the cytoplasms of individual bacterial and mammalian cells from phase contrast images without the need for a fluorescent cytoplasmic marker. These networks also enable the simultaneous segmentation and identification of different mammalian cell types grown in co-culture. A quantitative comparison with prior methods demonstrates that convolutional neural networks have improved accuracy and lead to a significant reduction in curation time. We relay our experience in designing and optimizing deep convolutional neural networks for this task and outline several design rules that we found led to robust performance. We conclude that deep convolutional neural networks are an accurate method that require less curation time, are generalizable to a multiplicity of cell types, from bacteria to mammalian cells, and expand live-cell imaging capabilities to include multi-cell type systems.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David A."
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Kudo-Takamasa",
+               "name": {
+                  "family": "Kudo",
+                  "given": "Takamasa"
+               },
+               "orcid": "0000-0002-9709-5549"
+            },
+            {
+               "id": "Lane-K-M",
+               "name": {
+                  "family": "Lane",
+                  "given": "Keara M."
+               }
+            },
+            {
+               "id": "Macklin-D-N",
+               "name": {
+                  "family": "Macklin",
+                  "given": "Derek N."
+               }
+            },
+            {
+               "id": "Quach-N-T",
+               "name": {
+                  "family": "Quach",
+                  "given": "Nicolas T."
+               }
+            },
+            {
+               "id": "DeFelice-M-M",
+               "name": {
+                  "family": "DeFelice",
+                  "given": "Mialy M."
+               },
+               "orcid": "0000-0002-7197-6292"
+            },
+            {
+               "id": "Maayan-I",
+               "name": {
+                  "family": "Maayan",
+                  "given": "Inbal"
+               },
+               "orcid": "0000-0003-4907-0723"
+            },
+            {
+               "id": "Tanouchi-Yu",
+               "name": {
+                  "family": "Tanouchi",
+                  "given": "Yu"
+               }
+            },
+            {
+               "id": "Ashley-E-A",
+               "name": {
+                  "family": "Ashley",
+                  "given": "Euan A."
+               }
+            },
+            {
+               "id": "Covert-M-W",
+               "name": {
+                  "family": "Covert",
+                  "given": "Markus W."
+               },
+               "orcid": "0000-0002-5993-8912"
+            }
+         ]
+      },
+      "date": "2016-11",
+      "date_type": "published",
+      "datestamp": "2018-06-13 22:15:02",
+      "dir": "disk0/00/08/70/66",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 268575,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413514,
+                  "filename": "journal.pcbi.1005177.PDF",
+                  "filesize": 2584992,
+                  "hash": "58a0b5556d7521a5b68f95edc6cd4969",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413514",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-13 18:26:12",
+                  "objectid": 268575,
+                  "url": "https://authors.library.caltech.edu/87066/1/journal.pcbi.1005177.PDF"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/268575",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.PDF",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 1,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268581,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413551,
+                  "filename": "journal.pcbi.1005177.s001.DOCX",
+                  "filesize": 30181,
+                  "hash": "4f32ce2879ff00442d233cf14ea31f66",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413551",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "mtime": "2018-06-13 18:36:59",
+                  "objectid": 268581,
+                  "url": "https://authors.library.caltech.edu/87066/2/journal.pcbi.1005177.s001.DOCX"
+               }
+            ],
+            "format": "application/msword",
+            "format_desc": "S1 Text. Supplemental text",
+            "id": "https://authors.library.caltech.edu/id/document/268581",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s001.DOCX",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "placement": 2,
+            "pos": 2,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268582,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413553,
+                  "filename": "journal.pcbi.1005177.s002.TIF",
+                  "filesize": 3064392,
+                  "hash": "156d42b476590712dd6147c64f823ae4",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413553",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:37:22",
+                  "objectid": 268582,
+                  "url": "https://authors.library.caltech.edu/87066/3/journal.pcbi.1005177.s002.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S1 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for E. coli",
+            "id": "https://authors.library.caltech.edu/id/document/268582",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s002.TIF",
+            "mime_type": "image/tiff",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268583,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413558,
+                  "filename": "journal.pcbi.1005177.s003.TIF",
+                  "filesize": 4439728,
+                  "hash": "c175f930fae0e071907d3c934274cf3a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413558",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:37:49",
+                  "objectid": 268583,
+                  "url": "https://authors.library.caltech.edu/87066/4/journal.pcbi.1005177.s003.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S2 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for MCF10A cells",
+            "id": "https://authors.library.caltech.edu/id/document/268583",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s003.TIF",
+            "mime_type": "image/tiff",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268584,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413563,
+                  "filename": "journal.pcbi.1005177.s004.TIF",
+                  "filesize": 4251684,
+                  "hash": "fb82b5e8e5c9605a3772530f8b4f5f85",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413563",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:38:54",
+                  "objectid": 268584,
+                  "url": "https://authors.library.caltech.edu/87066/5/journal.pcbi.1005177.s004.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S3 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for NIH-3T3 cells",
+            "id": "https://authors.library.caltech.edu/id/document/268584",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s004.TIF",
+            "mime_type": "image/tiff",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268585,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413566,
+                  "filename": "journal.pcbi.1005177.s005.TIF",
+                  "filesize": 3433142,
+                  "hash": "337c07a153d2f62d71234a663228500a",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413566",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:39:30",
+                  "objectid": 268585,
+                  "url": "https://authors.library.caltech.edu/87066/6/journal.pcbi.1005177.s005.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S4 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for HeLa-S3 cells",
+            "id": "https://authors.library.caltech.edu/id/document/268585",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s005.TIF",
+            "mime_type": "image/tiff",
+            "placement": 6,
+            "pos": 6,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268586,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413572,
+                  "filename": "journal.pcbi.1005177.s006.TIF",
+                  "filesize": 3141242,
+                  "hash": "72cc1441579ffc92c5fb085c10c87595",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413572",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:23",
+                  "objectid": 268586,
+                  "url": "https://authors.library.caltech.edu/87066/7/journal.pcbi.1005177.s006.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S5 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for RAW 264.7 cells",
+            "id": "https://authors.library.caltech.edu/id/document/268586",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s006.TIF",
+            "mime_type": "image/tiff",
+            "placement": 7,
+            "pos": 7,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268587,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413575,
+                  "filename": "journal.pcbi.1005177.s007.TIF",
+                  "filesize": 3408826,
+                  "hash": "8ba38455cfd219d3f939b55ef41397be",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413575",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:27",
+                  "objectid": 268587,
+                  "url": "https://authors.library.caltech.edu/87066/8/journal.pcbi.1005177.s007.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S6 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for bone marrow derived macrophages",
+            "id": "https://authors.library.caltech.edu/id/document/268587",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s007.TIF",
+            "mime_type": "image/tiff",
+            "placement": 8,
+            "pos": 8,
+            "rev_number": 4,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268588,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413578,
+                  "filename": "journal.pcbi.1005177.s008.TIF",
+                  "filesize": 2282256,
+                  "hash": "0db454dfd6a92276e0972bd477c18483",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413578",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:30",
+                  "objectid": 268588,
+                  "url": "https://authors.library.caltech.edu/87066/9/journal.pcbi.1005177.s008.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S7 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for H2B-iRFP labeled and DAPI stained nuclei.",
+            "id": "https://authors.library.caltech.edu/id/document/268588",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s008.TIF",
+            "mime_type": "image/tiff",
+            "placement": 9,
+            "pos": 9,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268589,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413581,
+                  "filename": "journal.pcbi.1005177.s009.TIF",
+                  "filesize": 8482228,
+                  "hash": "cea4fdc983adee5bb42be2851f4aba57",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413581",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:33",
+                  "objectid": 268589,
+                  "url": "https://authors.library.caltech.edu/87066/10/journal.pcbi.1005177.s009.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S8 Fig. Sample image, conv-net interior prediction map, segmentation mask, and training/validation error curves for semantic segmentation of MCF10A cells and NIH-3T3 cells",
+            "id": "https://authors.library.caltech.edu/id/document/268589",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s009.TIF",
+            "mime_type": "image/tiff",
+            "placement": 10,
+            "pos": 10,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268590,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413584,
+                  "filename": "journal.pcbi.1005177.s010.TIF",
+                  "filesize": 11048554,
+                  "hash": "97f0a84f3342a8b8d5d956b05021f14b",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413584",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:37",
+                  "objectid": 268590,
+                  "url": "https://authors.library.caltech.edu/87066/11/journal.pcbi.1005177.s010.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S9 Fig. Additional semantic segmentation of NIH-3T3 and MCF10A cells. 286 cells were analyzed, including 93 3T3 cells and 192 MCF 10A cells. The classification accuracy was 89% for NIH-3T3 cells and 98% for MCF10A cells",
+            "id": "https://authors.library.caltech.edu/id/document/268590",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s010.TIF",
+            "mime_type": "image/tiff",
+            "placement": 11,
+            "pos": 11,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268591,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413587,
+                  "filename": "journal.pcbi.1005177.s011.TIF",
+                  "filesize": 1534550,
+                  "hash": "ae90f1852db0f5257abea89c694f215e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413587",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:41",
+                  "objectid": 268591,
+                  "url": "https://authors.library.caltech.edu/87066/12/journal.pcbi.1005177.s011.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S10 Fig. Sensitivity analysis of the influence of the cytoring size on the dynamics of the JNK-KTR",
+            "id": "https://authors.library.caltech.edu/id/document/268591",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s011.TIF",
+            "mime_type": "image/tiff",
+            "placement": 12,
+            "pos": 12,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268592,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413590,
+                  "filename": "journal.pcbi.1005177.s012.TIF",
+                  "filesize": 4666010,
+                  "hash": "c25b2b573de5a40c81c6b01ca5141e12",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413590",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:45",
+                  "objectid": 268592,
+                  "url": "https://authors.library.caltech.edu/87066/13/journal.pcbi.1005177.s012.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S11 Fig. Areas of the different cytorings used in S10 Fig",
+            "id": "https://authors.library.caltech.edu/id/document/268592",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s012.TIF",
+            "mime_type": "image/tiff",
+            "placement": 13,
+            "pos": 13,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268593,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413593,
+                  "filename": "journal.pcbi.1005177.s013.TIF",
+                  "filesize": 425218,
+                  "hash": "761b13cf4e0e52db2fd8680a289e3e41",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413593",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:49",
+                  "objectid": 268593,
+                  "url": "https://authors.library.caltech.edu/87066/14/journal.pcbi.1005177.s013.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S12 Fig. Histogram of the instantaneous growth rate for a bacterial micro-colony. This histogram is identical to the histogram showed in Fig 3, with the axes expanded to show the negative growth rates corresponding to cell division",
+            "id": "https://authors.library.caltech.edu/id/document/268593",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s013.TIF",
+            "mime_type": "image/tiff",
+            "placement": 14,
+            "pos": 14,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268594,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413596,
+                  "filename": "journal.pcbi.1005177.s014.TIF",
+                  "filesize": 12290512,
+                  "hash": "7603d0259871c4f5e19b4e52ef766a52",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413596",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:41:51",
+                  "objectid": 268594,
+                  "url": "https://authors.library.caltech.edu/87066/15/journal.pcbi.1005177.s014.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S13 Fig. Poorly performing conv-nets",
+            "id": "https://authors.library.caltech.edu/id/document/268594",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s014.TIF",
+            "mime_type": "image/tiff",
+            "placement": 15,
+            "pos": 15,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268595,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413599,
+                  "filename": "journal.pcbi.1005177.s015.TIF",
+                  "filesize": 652804,
+                  "hash": "a2cf27f45dd9c4a75a0fbbb9adc4b4d1",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413599",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:42:28",
+                  "objectid": 268595,
+                  "url": "https://authors.library.caltech.edu/87066/16/journal.pcbi.1005177.s015.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S14 Fig. Training and validation error for conv-nets to assess the performance improvements provided by dropout, batch normalization, shearing for data augmentation, and multi-resolution fully connected layers.",
+            "id": "https://authors.library.caltech.edu/id/document/268595",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s015.TIF",
+            "mime_type": "image/tiff",
+            "placement": 16,
+            "pos": 16,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268596,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413602,
+                  "filename": "journal.pcbi.1005177.s016.TIF",
+                  "filesize": 851264,
+                  "hash": "fca8e60ca93085b22a36d1d480e4728d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413602",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:42:33",
+                  "objectid": 268596,
+                  "url": "https://authors.library.caltech.edu/87066/17/journal.pcbi.1005177.s016.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S15 Fig. Regularization optimization",
+            "id": "https://authors.library.caltech.edu/id/document/268596",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s016.TIF",
+            "mime_type": "image/tiff",
+            "placement": 17,
+            "pos": 17,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268597,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413605,
+                  "filename": "journal.pcbi.1005177.s017.TIF",
+                  "filesize": 373302,
+                  "hash": "cd53cdc03591a60293a098aebc793805",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413605",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:42:36",
+                  "objectid": 268597,
+                  "url": "https://authors.library.caltech.edu/87066/18/journal.pcbi.1005177.s017.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S16 Fig. Segmentation accuracy vs. cell density for HeLa-S3 cells",
+            "id": "https://authors.library.caltech.edu/id/document/268597",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s017.TIF",
+            "mime_type": "image/tiff",
+            "placement": 18,
+            "pos": 18,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268598,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413608,
+                  "filename": "journal.pcbi.1005177.s018.TIF",
+                  "filesize": 913454,
+                  "hash": "14a4510a1d8cca0ec26063f7da80ec6d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413608",
+                  "mime_type": "image/tiff",
+                  "mtime": "2018-06-13 18:42:39",
+                  "objectid": 268598,
+                  "url": "https://authors.library.caltech.edu/87066/19/journal.pcbi.1005177.s018.TIF"
+               }
+            ],
+            "format": "image/tiff",
+            "format_desc": "S17 Fig. Comparison of segmentation performance of conv-nets and Ilastik on a HeLa cell validation data set",
+            "id": "https://authors.library.caltech.edu/id/document/268598",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s018.TIF",
+            "mime_type": "image/tiff",
+            "placement": 19,
+            "pos": 19,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268599,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413611,
+                  "filename": "journal.pcbi.1005177.s019.AVI",
+                  "filesize": 1472570,
+                  "hash": "f7e89280f9aa5f38d7999630e32aabf4",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413611",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:42:42",
+                  "objectid": 268599,
+                  "url": "https://authors.library.caltech.edu/87066/20/journal.pcbi.1005177.s019.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S1 Movie. Phase images of a growing E. coli micro colony",
+            "id": "https://authors.library.caltech.edu/id/document/268599",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s019.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 20,
+            "pos": 20,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268600,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413614,
+                  "filename": "journal.pcbi.1005177.s020.AVI",
+                  "filesize": 2357954,
+                  "hash": "f3215ac66373463ced7e5a2233f933de",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413614",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:42:45",
+                  "objectid": 268600,
+                  "url": "https://authors.library.caltech.edu/87066/21/journal.pcbi.1005177.s020.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S2 Movie. Bacteria-net output when used to process S1 Movie",
+            "id": "https://authors.library.caltech.edu/id/document/268600",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s020.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 21,
+            "pos": 21,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268601,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413617,
+                  "filename": "journal.pcbi.1005177.s021.AVI",
+                  "filesize": 3902036,
+                  "hash": "94b4d7e26263dffdac122c8c47a0dc6b",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413617",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:42:49",
+                  "objectid": 268601,
+                  "url": "https://authors.library.caltech.edu/87066/22/journal.pcbi.1005177.s021.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S3 Movie. Phase images of HeLa-S3 cells expressing the JNK-KTR",
+            "id": "https://authors.library.caltech.edu/id/document/268601",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s021.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 22,
+            "pos": 22,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268602,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413620,
+                  "filename": "journal.pcbi.1005177.s022.AVI",
+                  "filesize": 6409908,
+                  "hash": "c9f61cd85e17ca23949d4d699810ac26",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413620",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:43:04",
+                  "objectid": 268602,
+                  "url": "https://authors.library.caltech.edu/87066/23/journal.pcbi.1005177.s022.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S4 Movie. Segmentation of S3 Movie",
+            "id": "https://authors.library.caltech.edu/id/document/268602",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s022.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 23,
+            "pos": 23,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268603,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413623,
+                  "filename": "journal.pcbi.1005177.s023.AVI",
+                  "filesize": 4457020,
+                  "hash": "3bfc600ab74a89650a6e5c4730a008af",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413623",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:43:08",
+                  "objectid": 268603,
+                  "url": "https://authors.library.caltech.edu/87066/24/journal.pcbi.1005177.s023.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S5 Movie. Nuclear marker channel for S3 Movie",
+            "id": "https://authors.library.caltech.edu/id/document/268603",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s023.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 24,
+            "pos": 24,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268604,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413626,
+                  "filename": "journal.pcbi.1005177.s024.AVI",
+                  "filesize": 2596950,
+                  "hash": "65e6f686ecfd59af0ebabbb73c5c7503",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413626",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:43:11",
+                  "objectid": 268604,
+                  "url": "https://authors.library.caltech.edu/87066/25/journal.pcbi.1005177.s024.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S6 Movie. JNK-KTR channel for S3 Movie.",
+            "id": "https://authors.library.caltech.edu/id/document/268604",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s024.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 25,
+            "pos": 25,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 268605,
+            "eprint_id": 87066,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413629,
+                  "filename": "journal.pcbi.1005177.s025.AVI",
+                  "filesize": 11477820,
+                  "hash": "6e6077b038958c43c29a22f2c7a748e0",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413629",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2018-06-13 18:43:14",
+                  "objectid": 268605,
+                  "url": "https://authors.library.caltech.edu/87066/26/journal.pcbi.1005177.s025.AVI"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "S7 Movie. Representative movie of HeLa-S3 with overlaying nuclear marker and segmentation boundaries",
+            "id": "https://authors.library.caltech.edu/id/document/268605",
+            "language": "en",
+            "license": "cc_by",
+            "main": "journal.pcbi.1005177.s025.AVI",
+            "mime_type": "video/x-msvideo",
+            "placement": 26,
+            "pos": 26,
+            "rev_number": 3,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 87066,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "Paul G. Allen Family Foundation"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "5DP1LM01150-05"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "P50 GM107615"
+            },
+            {
+               "agency": "Department of Energy (DOE)",
+               "grant_number": "DE-FG02-97ER25308"
+            },
+            {
+               "agency": "Siebel Scholars Foundation"
+            },
+            {
+               "agency": "Stanford Medical School"
+            },
+            {
+               "agency": "Burroughs Wellcome Fund"
+            },
+            {
+               "agency": "NIH Postdoctoral Fellowship",
+               "grant_number": "1F32GM119319-01"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/87066",
+      "id_number": "CaltechAUTHORS:20180613-111613718",
+      "ispublished": "pub",
+      "issn": "1553-7358",
+      "lastmod": "2019-10-03 19:51:56",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2016 Van Valen et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. \n\nReceived: May 18, 2016; Accepted: October 3, 2016; Published: November 4, 2016. \n\nEditor: Martin Meier-Schellersheim, National Institutes of Health, UNITED STATES \n\nWe gratefully acknowledge funding from several sources, including a Paul Allen Family Foundation Allen Distinguished Investigator award, a Paul Allen Family Foundation Allen Discovery Center Award and an NIH Pioneer Award (5DP1LM01150-05) to MWC, a Systems Biology Center grant (P50 GM107615), a DOE Computational Science Graduate Fellowship (DE-FG02-97ER25308) and a Siebel Scholarship to DNM, and a Stanford Biomedical Big Data Science Postdoctoral Fellowship as well as the Burroughs Wellcome Fund\u2019s Postdoctoral Enrichment Program and an NIH F32 Postdoctoral Fellowship (1F32GM119319-01) to DVV. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. \n\nWe gratefully acknowledge funding from several sources, including a Paul Allen Family Foundation Allen Distinguished Investigator award, a Paul Allen Family Foundation Allen Discovery Center Award and an NIH Pioneer Award (5DP1LM01150-05) to MWC, a Systems Biology Center grant (P50 GM107615), a DOE Computational Science Graduate Fellowship (DE-FG02-97ER25308) and a Siebel Scholarship to DNM, and a Stanford Biomedical Big Data Science Postdoctoral Fellowship as well as the Burroughs Wellcome Fund\u2019s Postdoctoral Enrichment Program and an NIH F32 Postdoctoral Fellowship (1F32GM119319-01) to DVV. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. \n\nWe are deeply grateful to a number of people for advice, assistance with experiments, and critical commentary on the manuscript, including Zev Bryant, Joe Levine, Fei Fei Li, Andrej Karpathy, Henrietta Lacks, Amanda Miguel, K.C. Huang, Robert Brewster, Rob Phillips, John Phillips, Jan Liphardt, Andy Spakowitz, and members of the Covert lab. \n\nAuthor Contributions\nConceptualization: DAVV MWC.\nData curation: DAVV KML NTQ MMD IM.\nFormal analysis: DAVV.\nFunding acquisition: DAVV TK KML DNM NTQ MMD IM YT EAA MWC.\nInvestigation: DAVV TK KML DNM NTQ MMD IM YT EAA MWC.\nMethodology: DAVV.\nProject administration: DAVV MWC.\nResources: DAVV TK KML DNM NTQ MMD IM YT.\nSoftware: DAVV TK DNM NTQ.\nSupervision: EAA MWC.\nValidation: DAVV MMD KML IM YT NTQ.\nVisualization: DAVV.\nWriting \u2013 original draft: DAVV MWC.\nWriting \u2013 review & editing: DAVV TK KML DNM NTQ MMD IM YT EAA MWC. \n\nData Availability: All data and software are available at the NIH-funded repository SIMTK (https://simtk.org/projects/deepcell). \n\nThe authors have declared that no competing interests exist.",
+      "number": "11",
+      "official_cit": "Van Valen DA, Kudo T, Lane KM, Macklin DN, Quach NT, DeFelice MM, et al. (2016) Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments. PLoS Comput Biol 12(11): e1005177. https://doi.org/10.1371/journal.pcbi.1005177",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20180613-111613718",
+      "pagerange": "Art. No. e1005177",
+      "pmcid": "PMC5096676",
+      "primary_object": {
+         "basename": "journal.pcbi.1005177.PDF",
+         "content": "published",
+         "license": "cc_by",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/87066/1/journal.pcbi.1005177.PDF"
+      },
+      "publication": "PLOS Computational Biology",
+      "publisher": "Public Library of Science",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "journal.pcbi.1005177.s001.DOCX",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "url": "https://authors.library.caltech.edu/87066/2/journal.pcbi.1005177.s001.DOCX"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s002.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/3/journal.pcbi.1005177.s002.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s003.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/4/journal.pcbi.1005177.s003.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s004.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/5/journal.pcbi.1005177.s004.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s005.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/6/journal.pcbi.1005177.s005.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s006.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/7/journal.pcbi.1005177.s006.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s007.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/8/journal.pcbi.1005177.s007.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s008.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/9/journal.pcbi.1005177.s008.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s009.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/10/journal.pcbi.1005177.s009.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s010.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/11/journal.pcbi.1005177.s010.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s011.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/12/journal.pcbi.1005177.s011.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s012.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/13/journal.pcbi.1005177.s012.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s013.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/14/journal.pcbi.1005177.s013.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s014.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/15/journal.pcbi.1005177.s014.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s015.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/16/journal.pcbi.1005177.s015.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s016.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/17/journal.pcbi.1005177.s016.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s017.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/18/journal.pcbi.1005177.s017.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s018.TIF",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "image/tiff",
+            "url": "https://authors.library.caltech.edu/87066/19/journal.pcbi.1005177.s018.TIF"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s019.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/20/journal.pcbi.1005177.s019.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s020.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/21/journal.pcbi.1005177.s020.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s021.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/22/journal.pcbi.1005177.s021.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s022.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/23/journal.pcbi.1005177.s022.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s023.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/24/journal.pcbi.1005177.s023.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s024.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/25/journal.pcbi.1005177.s024.AVI"
+         },
+         {
+            "basename": "journal.pcbi.1005177.s025.AVI",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/87066/26/journal.pcbi.1005177.s025.AVI"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1371/journal.pcbi.1005177"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5096676/"
+            }
+         ]
+      },
+      "rev_number": 81,
+      "reviewer": "Tony Diaz",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2018-06-13 22:15:02",
+      "title": "Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments",
+      "type": "article",
+      "userid": 6,
+      "volume": "12"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "32451.xml",
+            "size": 29601,
+            "sizes": {
+               "v0.0.1": 29601
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "f6f5d19c5c33e9b3a926375e92d5e324"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/32/45/1/v0.0.1/32451.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/32/45/1/v0.0.1/32451.xml"
+            },
+            "created": "2020-03-27T14:32:55-07:00",
+            "modified": "2020-04-28T12:03:43-07:00"
+         }
+      ],
+      "_Key": "32451",
+      "abstract": "Ever since Hershey and Chase used phages to establish DNA as the carrier of genetic information in 1952, the precise mechanisms of phage DNA translocation have been a mystery. While bulk measurements have set a time scale for in vivo DNA translocation during bacteriophage infection, measurements of DNA ejection by single bacteriophages have only been made in vitro. Here, we present direct visualization of single bacteriophages infecting individual Escherichia coli cells. For bacteriophage lambda, we establish a mean ejection time of roughly 5 minutes with significant cell-to-cell variability, including pausing events. In contrast, corresponding in vitro single-molecule ejections take only 10 seconds to reach completion and do not exhibit significant variability. Our data reveal that the velocity of ejection for two different genome lengths collapses onto a single curve. This suggests that in vivo ejections are controlled by the amount of DNA ejected, in contrast with in vitro DNA ejections, which are governed by the amount of DNA left inside the capsid. This analysis provides evidence against a purely intrastrand repulsion based mechanism, and suggests that cell-internal processes dominate. This provides a picture of the early stages of phage infection and sheds light on the problem of polymer translocation. ",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Wu-David",
+               "name": {
+                  "family": "Wu",
+                  "given": "David"
+               }
+            },
+            {
+               "id": "Chen-Yi-Ju",
+               "name": {
+                  "family": "Chen",
+                  "given": "Yi-Ju"
+               }
+            },
+            {
+               "id": "Tuson-H",
+               "name": {
+                  "family": "Tuson",
+                  "given": "Hannah"
+               }
+            },
+            {
+               "id": "Wiggins-P",
+               "name": {
+                  "family": "Wiggins",
+                  "given": "Paul"
+               }
+            },
+            {
+               "id": "Phillips-R",
+               "name": {
+                  "family": "Phillips",
+                  "given": "Rob"
+               },
+               "orcid": "0000-0003-3082-2809"
+            }
+         ]
+      },
+      "date": "2012-07-24",
+      "date_type": "published",
+      "datestamp": "2012-07-30 18:34:35",
+      "dir": "disk0/00/03/24/51",
+      "documents": [
+         {
+            "content": "submitted",
+            "doc_id": 38215,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146540,
+                  "filename": "1207.0026.pdf",
+                  "filesize": 1851666,
+                  "id": "https://authors.library.caltech.edu/id/file/1146540",
+                  "mime_type": "application/pdf",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 38215,
+                  "url": "https://authors.library.caltech.edu/32451/1/1207.0026.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/38215",
+            "language": "en",
+            "license": "other",
+            "main": "1207.0026.pdf",
+            "mime_type": "",
+            "pos": 1,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238547"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238547"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238547"
+               }
+            ],
+            "rev_number": 5,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 38348,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146543,
+                  "filename": "1-s2.0-S0960982212005763-main.pdf",
+                  "filesize": 625905,
+                  "id": "https://authors.library.caltech.edu/id/file/1146543",
+                  "mime_type": "application/pdf",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 38348,
+                  "url": "https://authors.library.caltech.edu/32451/2/1-s2.0-S0960982212005763-main.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/38348",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0960982212005763-main.pdf",
+            "mime_type": "",
+            "pos": 2,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238548"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238548"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238548"
+               }
+            ],
+            "rev_number": 10,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 38349,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 442029,
+                  "filename": "MovieS1.avi",
+                  "filesize": 1674396,
+                  "id": "https://authors.library.caltech.edu/id/file/442029",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2012-12-26 15:32:38",
+                  "objectid": 38349,
+                  "url": "https://authors.library.caltech.edu/32451/3/MovieS1.avi"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "Movie S1. In Vivo Ejection Highlighted in Figure 3",
+            "id": "https://authors.library.caltech.edu/id/document/38349",
+            "language": "en",
+            "license": "other",
+            "main": "MovieS1.avi",
+            "mime_type": "video/x-msvideo",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 6,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 38350,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 442030,
+                  "filename": "MovieS2.avi",
+                  "filesize": 329316,
+                  "id": "https://authors.library.caltech.edu/id/file/442030",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2012-12-26 15:32:39",
+                  "objectid": 38350,
+                  "url": "https://authors.library.caltech.edu/32451/4/MovieS2.avi"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "Movie S2. A Single-Step Ejection",
+            "id": "https://authors.library.caltech.edu/id/document/38350",
+            "language": "en",
+            "license": "other",
+            "main": "MovieS2.avi",
+            "mime_type": "video/x-msvideo",
+            "placement": 4,
+            "pos": 4,
+            "rev_number": 6,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 38351,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 442031,
+                  "filename": "MovieS3.avi",
+                  "filesize": 8877396,
+                  "id": "https://authors.library.caltech.edu/id/file/442031",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2012-12-26 15:32:39",
+                  "objectid": 38351,
+                  "url": "https://authors.library.caltech.edu/32451/5/MovieS3.avi"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "Movie S3. A Paused Ejection",
+            "id": "https://authors.library.caltech.edu/id/document/38351",
+            "language": "en",
+            "license": "other",
+            "main": "MovieS3.avi",
+            "mime_type": "video/x-msvideo",
+            "placement": 5,
+            "pos": 5,
+            "rev_number": 6,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 38352,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 442035,
+                  "filename": "DocumentS1.pdf",
+                  "filesize": 1055915,
+                  "id": "https://authors.library.caltech.edu/id/file/442035",
+                  "mime_type": "application/pdf",
+                  "mtime": "2012-12-26 15:32:42",
+                  "objectid": 38352,
+                  "url": "https://authors.library.caltech.edu/32451/6/DocumentS1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Document S1. Figures S1\u2013S4, Tables S1 and S2, and Supplemental Experimental Procedures",
+            "id": "https://authors.library.caltech.edu/id/document/38352",
+            "language": "en",
+            "license": "other",
+            "main": "DocumentS1.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 6,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/70616"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/70616"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/70616"
+               }
+            ],
+            "rev_number": 8,
+            "security": "public"
+         },
+         {
+            "content": "published",
+            "doc_id": 38625,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146546,
+                  "filename": "1-s2.0-S0960982212005763-main.pdf",
+                  "filesize": 1218801,
+                  "id": "https://authors.library.caltech.edu/id/file/1146546",
+                  "mime_type": "application/pdf",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 38625,
+                  "url": "https://authors.library.caltech.edu/32451/7/1-s2.0-S0960982212005763-main.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/38625",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0960982212005763-main.pdf",
+            "mime_type": "",
+            "pos": 7,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238549"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238549"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238549"
+               }
+            ],
+            "rev_number": 5,
+            "security": "internal"
+         },
+         {
+            "doc_id": 70616,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 442033,
+                  "filename": "preview.png",
+                  "filesize": 30980,
+                  "hash": "5077514214f65216c3c2d9f4127186fd",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/442033",
+                  "mime_type": "image/png",
+                  "mtime": "2012-12-26 15:32:41",
+                  "objectid": 70616,
+                  "url": "https://authors.library.caltech.edu/32451/8/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/70616",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "image/png",
+            "placement": 8,
+            "pos": 8,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38352"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38352"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38352"
+               }
+            ],
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "doc_id": 238547,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146539,
+                  "filename": "preview.png",
+                  "filesize": 100246,
+                  "hash": "1ac5c4e30ff8bdbe53a3bf5cd0917638",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1146539",
+                  "mime_type": "image/png",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 238547,
+                  "url": "https://authors.library.caltech.edu/32451/9/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/238547",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "",
+            "placement": 9,
+            "pos": 9,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38215"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38215"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38215"
+               }
+            ],
+            "rev_number": 2,
+            "security": "internal"
+         },
+         {
+            "doc_id": 238548,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146542,
+                  "filename": "preview.png",
+                  "filesize": 220311,
+                  "hash": "33f61d52f96ebb5a4f1cb3e5491fa963",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1146542",
+                  "mime_type": "image/png",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 238548,
+                  "url": "https://authors.library.caltech.edu/32451/10/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/238548",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "",
+            "placement": 10,
+            "pos": 10,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38348"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38348"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38348"
+               }
+            ],
+            "rev_number": 2,
+            "security": "internal"
+         },
+         {
+            "doc_id": 238549,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1146545,
+                  "filename": "preview.png",
+                  "filesize": 212842,
+                  "hash": "95e682955554bc8703d739d397c1b3bb",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1146545",
+                  "mime_type": "image/png",
+                  "mtime": "2016-08-23 10:14:28",
+                  "objectid": 238549,
+                  "url": "https://authors.library.caltech.edu/32451/11/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/238549",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "",
+            "placement": 11,
+            "pos": 11,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38625"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38625"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/38625"
+               }
+            ],
+            "rev_number": 2,
+            "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 268549,
+            "eprint_id": 32451,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1413352,
+                  "filename": "nihms-388521.pdf",
+                  "filesize": 1059263,
+                  "hash": "2ba30c216f50c1286500f335e61ec313",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1413352",
+                  "mime_type": "application/pdf",
+                  "mtime": "2018-06-13 16:56:12",
+                  "objectid": 268549,
+                  "url": "https://authors.library.caltech.edu/32451/12/nihms-388521.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/268549",
+            "language": "en",
+            "license": "other",
+            "main": "nihms-388521.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 12,
+            "rev_number": 5,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 32451,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "NIH Predoctoral Fellowship"
+            },
+            {
+               "agency": "Yaser Abu-Mostafa Hertz Fellowship"
+            },
+            {
+               "agency": "NSF",
+               "grant_number": "CMMI-0758343"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/32451",
+      "id_number": "CaltechAUTHORS:20120716-083157294",
+      "ispublished": "pub",
+      "issn": "0960-9822",
+      "lastmod": "2019-10-03 04:00:53",
+      "metadata_visibility": "show",
+      "monograph_type": "discussion_paper",
+      "note": "\u00a9 2012 Elsevier B.V. \n\nReceived 23 March 2012. Revised 18 April 2012. Accepted 10 May 2012. Available online 21 June 2012. Published online: June 21, 2012. \n\nWe are grateful to a number of people for help with experiments, advice, and critical commentary on the manuscript including: Heun Jin Lee, Maja Bialecka, Phillips lab, Talia Weiss, Vilawain Fernandes, Kari Barlan, Paul Grayson, Ido Golding, Lanying Zeng, Bill Gelbart, Chuck Knobler, Francois St. Pierre, and Drew Endy. We are also grateful to Ron Vale, Tim Mitchison, Dyche Mullins, and Clare Waterman as well as several generations of students from the MBL Physiology Course where this work has been developed over several summers. We also gratefully acknowledge financial support from several sources, including a NIH Medical Scientist Training Program Fellowship, a Yaser Abu-Mostafa Hertz Fellowship, and a NIH Director's Pioneer Award. We also acknowledge the support of NSF grant number 0758343.",
+      "number": "14",
+      "official_cit": "David Van Valen, David Wu, Yi-Ju Chen, Hannah Tuson, Paul Wiggins, Rob Phillips, A Single-Molecule Hershey-Chase Experiment, Current Biology, Available online 21 June 2012, ISSN 0960-9822, 10.1016/j.cub.2012.05.023.\n",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20120716-083157294",
+      "pagerange": "1339-1343",
+      "pmcid": "PMC3462812",
+      "primary_object": {
+         "basename": "nihms-388521.pdf",
+         "content": "accepted",
+         "license": "other",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/32451/12/nihms-388521.pdf"
+      },
+      "publication": "Current Biology",
+      "publisher": "Cell Press",
+      "refereed": "TRUE",
+      "referencetext": {
+         "items": [
+            "1. Hershey, A.D., and Chase, M.M. (1952). Independent functions of viral\nprotein and nucleic acid in growth of bacteriophage. J. Gen. Physiol.\n36, 39\u201356.\n2. Eriksson, M., Ha\u00a8 rdelin, M., Larsson, A., Bergenholtz, J., and Akerman, B.\n(2007). Binding of intercalating and groove-binding cyanine dyes to\nbacteriophage t5. J. Phys. Chem. B 111, 1139\u20131148.\n3. Mosier-Boss, P.A., Lieberman, S.H., Andrews, J.M., Rohwer, F.L.,\nWegley, L.E., and Breitbart, M. (2003). Use of fluorescently labeled\nphage in the detection and identification of bacterial species. Appl.\nSpectrosc. 57, 1138\u20131144.\n4. Brandenburg, B., Lee, L.Y., Lakadamyali, M., Rust, M.J., Zhuang, X., and\nHogle, J.M. (2007). Imaging poliovirus entry in live cells. PLoS Biol. 5,\ne183.\n5. Yan, X., Habbersett, R.C., Yoshida, T.M., Nolan, J.P., Jett, J.H., and\nMarrone, B.L. (2005). Probing the kinetics of SYTOX Orange stain\nbinding to double-stranded DNA with implications for DNA analysis.\nAnal. Chem. 77, 3554\u20133562.\n6. Wu, D., Van Valen, D., Hu, Q., and Phillips, R. (2010). Ion-dependent\ndynamics of DNA ejections for bacteriophage lambda. Biophys. J. 99,\n1101\u20131109.\n7. Grayson, P., Han, L., Winther, T., and Phillips, R. (2007). Real-time\nobservations of single bacteriophage lambda DNA ejections in vitro.\nProc. Natl. Acad. Sci. USA 104, 14652\u201314657.\n8. Grayson, P., Evilevitch, A., Inamdar, M.M., Purohit, P.K., Gelbart, W.M.,\nKnobler, C.M., and Phillips, R. (2006). The effect of genome length on\nejection forces in bacteriophage lambda. Virology 348, 430\u2013436.\n9. Inamdar, M.M., Gelbart, W.M., and Phillips, R. (2006). Dynamics of DNA\nejection from bacteriophage. Biophys. J. 91, 411\u2013420.\n10. Waldor, M.K., and Mekalanos, J.J. (1996). Lysogenic conversion by\na filamentous phage encoding cholera toxin. Science 272, 1910\u20131914.\n11. Hassan, F., Kamruzzaman, M., Mekalanos, J.J., and Faruque, S.M.\n(2010). Satellite phage TLC4 enables toxigenic conversion by CTX\nphage through dif site alteration. Nature 467, 982\u2013985.\n12. Colomer-Lluch, M., Jofre, J., and Muniesa, M. (2011). Antibiotic resistance\ngenes in the bacteriophage DNA fraction of environmental\nsamples. PLoS One 6, e17549.\n13. Go\u00b4 mez, P., and Buckling, A. (2011). Bacteria-phage antagonistic coevolution\nin soil. Science 332, 106\u2013109.\n14. Garc\u0131\u00b4a, L.R., and Molineux, I.J. (1995). Rate of translocation of bacteriophage\nT7 DNA across the membranes of Escherichia coli. J. Bacteriol.\n177, 4066\u20134076.\n15. Kemp, P., Gupta, M., and Molineux, I.J. (2004). Bacteriophage T7 DNA\nejection into cells is initiated by an enzyme-like mechanism. Mol.\nMicrobiol. 53, 1251\u20131265.\n16. Grayson, P., and Molineux, I.J. (2007). Is phage DNA \u2018injected\u2019 into\ncells\u2014biologists and physicists can agree. Curr. Opin. Microbiol. 10,\n401\u2013409.\n17. Peskin, C.S., Odell, G.M., and Oster, G.F. (1993). Cellular motions and\nthermal fluctuations: the Brownian ratchet. Biophys. J. 65, 316\u2013324.\n18. Zandi, R., Reguera, D., Rudnick, J., and Gelbart, W.M. (2003). What\ndrives the translocation of stiff chains? Proc. Natl. Acad. Sci. USA\n100, 8649\u20138653.\n19. Zeng, L., Skinner, S.O., Zong, C., Sippy, J., Feiss, M., and Golding, I.\n(2010). Decision making at a subcellular level determines the outcome\nof bacteriophage infection. Cell 141, 682\u2013691.\n20. Davenport, R.J., Wuite, G.J., Landick, R., and Bustamante, C. (2000).\nSingle-molecule study of transcriptional pausing and arrest by E. coli\nRNA polymerase. Science 287, 2497\u20132500.\n21. Fuller, D.N., Rickgauer, J.P., Jardine, P.J., Grimes, S., Anderson, D.L.,\nand Smith, D.E. (2007). Ionic effects on viral DNA packaging and portal\nmotor function in bacteriophage phi 29. Proc. Natl. Acad. Sci. USA 104,\n11245\u201311250.\n22. Mangenot, S., Hochrein, M., Ra\u00a8 dler, J., and Letellier, L. (2005). Real-time\nimaging of DNA ejection from single phage particles. Curr. Biol. 15,\n430\u2013435.\n23. Chiaruttini, N., de Frutos, M., Augarde, E., Boulanger, P., Letellier, L.,\nand Viasnoff, V. (2010). Is the in vitro ejection of bacteriophage DNA\nquasistatic? A bulk to single virus study. Biophys. J. 99, 447\u2013455.\n24. Molineux, I.J. (2001). No syringes please, ejection of phage T7 DNA from\nthe virion is enzyme driven. Mol. Microbiol. 40, 1\u20138.\n25. Katsura, I., and Hendrix, R.W. (1984). Length determination in bacteriophage\nlambda tails. Cell 39, 691\u2013698.\n26. Gopinathan, A., and Kim, Y.W. (2007). Polymer translocation in crowded\nenvironments. Phys. Rev. Lett. 99, 228106.\n27. Mackay, D.J., and Bode, V.C. (1976). Events in lambda injection\nbetween phage adsorption and DNA entry. Virology 72, 154\u2013166.\n28. Moldovan, R., Chapman-McQuiston, E., and Wu, X.L. (2007). On kinetics\nof phage adsorption. Biophys. J. 93, 303\u2013315."
+         ]
+      },
+      "related_objects": [
+         {
+            "basename": "MovieS1.avi",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/32451/3/MovieS1.avi"
+         },
+         {
+            "basename": "MovieS2.avi",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/32451/4/MovieS2.avi"
+         },
+         {
+            "basename": "MovieS3.avi",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/32451/5/MovieS3.avi"
+         },
+         {
+            "basename": "DocumentS1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/32451/6/DocumentS1.pdf"
+         },
+         {
+            "basename": "preview.png",
+            "content": "",
+            "license": "other",
+            "mime_type": "image/png",
+            "url": "https://authors.library.caltech.edu/32451/8/preview.png"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "ArXiv article",
+               "type": "arxiv",
+               "url": "http://arxiv.org/abs/1207.0026"
+            },
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "http://dx.doi.org/10.1016/j.cub.2012.05.023"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462812/"
+            },
+            {
+               "description": "Supplemental material - Document S1. Figures S1\u2013S4, Tables S1 and S2, and Supplemental Experimental Procedures",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0960982212005763/1-s2.0-S0960982212005763-mmc1.pdf/272099/FULL/S0960982212005763/4f34cb4c5a9123f40394adb05aba67e7/mmc1.pdf"
+            },
+            {
+               "description": " Supplemental material - Movie S1. In Vivo Ejection Highlighted in Figure 3",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0960982212005763/1-s2.0-S0960982212005763-mmc2.avi/272099/FULL/S0960982212005763/6f7f1902a8c3eed4169e7b28033b71f7/mmc2.avi"
+            },
+            {
+               "description": " Supplemental material - Movie S2. A Single-Step Ejection",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0960982212005763/1-s2.0-S0960982212005763-mmc3.avi/272099/FULL/S0960982212005763/b7c5e97fad48ca2acf5fecffdc1b9caa/mmc3.avi"
+            },
+            {
+               "description": " Supplemental material - Movie S3. A Paused Ejection",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0960982212005763/1-s2.0-S0960982212005763-mmc4.avi/272099/FULL/S0960982212005763/d8ac9ef71c761f1ad77e48c11e914ccf/mmc4.avi"
+            }
+         ]
+      },
+      "rev_number": 61,
+      "reviewer": "kb",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2012-07-30 18:34:35",
+      "title": "A Single-Molecule Hershey-Chase Experiment",
+      "type": "article",
+      "userid": 18,
+      "volume": "22"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "19796.xml",
+            "size": 21489,
+            "sizes": {
+               "v0.0.1": 21489
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "c4b1396ca0cec542dbf5aa42d83bb6e9"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/19/79/6/v0.0.1/19796.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/19/79/6/v0.0.1/19796.xml"
+            },
+            "created": "2020-03-27T15:06:52-07:00",
+            "modified": "2020-04-28T12:28:40-07:00"
+         }
+      ],
+      "_Key": "19796",
+      "abstract": "We studied the control parameters that govern the dynamics of in vitro DNA ejection in bacteriophage \u03bb. Previous work demonstrated that bacteriophage DNA is highly pressurized, and this pressure has been hypothesized to help drive DNA ejection. Ions influence this process by screening charges on DNA; however, a systematic variation of salt concentrations to explore these effects has not been undertaken. To study the nature of the forces driving DNA ejection, we performed in vitro measurements of DNA ejection in bulk and at the single-phage level. We present measurements on the dynamics of ejection and on the self-repulsion force driving ejection. We examine the role of ion concentration and identity in both measurements, and show that the charge of counterions is an important control parameter. These measurements show that the mobility of ejecting DNA is independent of ionic concentrations for a given amount of DNA in the capsid. We also present evidence that phage DNA forms loops during ejection, and confirm that this effect occurs using optical tweezers.\n\n",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Wu-David",
+               "name": {
+                  "family": "Wu",
+                  "given": "David"
+               }
+            },
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Hu-Qicong",
+               "name": {
+                  "family": "Hu",
+                  "given": "Qicong"
+               }
+            },
+            {
+               "id": "Phillips-R",
+               "name": {
+                  "family": "Phillips",
+                  "given": "Rob"
+               },
+               "orcid": "0000-0003-3082-2809"
+            }
+         ]
+      },
+      "date": "2010-08-18",
+      "date_type": "published",
+      "datestamp": "2010-09-08 17:08:51",
+      "dir": "disk0/00/01/97/96",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 22632,
+            "eprint_id": 19796,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 259131,
+                  "filename": "Wu2010p11280Biophys_J.pdf",
+                  "filesize": 692198,
+                  "id": "https://authors.library.caltech.edu/id/file/259131",
+                  "mime_type": "application/pdf",
+                  "mtime": "2012-12-26 12:23:46",
+                  "objectid": 22632,
+                  "url": "https://authors.library.caltech.edu/19796/1/Wu2010p11280Biophys_J.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/22632",
+            "language": "en",
+            "license": "other",
+            "main": "Wu2010p11280Biophys_J.pdf",
+            "mime_type": "application/pdf",
+            "pos": 1,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62071"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62071"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62071"
+               }
+            ],
+            "rev_number": 6,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 22633,
+            "eprint_id": 19796,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 259135,
+                  "filename": "mmc1.pdf",
+                  "filesize": 935027,
+                  "id": "https://authors.library.caltech.edu/id/file/259135",
+                  "mime_type": "application/pdf",
+                  "mtime": "2012-12-26 12:23:47",
+                  "objectid": 22633,
+                  "url": "https://authors.library.caltech.edu/19796/2/mmc1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Document S1. Figures.  ",
+            "id": "https://authors.library.caltech.edu/id/document/22633",
+            "language": "en",
+            "license": "other",
+            "main": "mmc1.pdf",
+            "mime_type": "application/pdf",
+            "pos": 2,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62072"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62072"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/62072"
+               }
+            ],
+            "rev_number": 6,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 22634,
+            "eprint_id": 19796,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 259136,
+                  "filename": "mmc2.avi",
+                  "filesize": 1219120,
+                  "id": "https://authors.library.caltech.edu/id/file/259136",
+                  "mime_type": "video/x-msvideo",
+                  "mtime": "2012-12-26 12:23:47",
+                  "objectid": 22634,
+                  "url": "https://authors.library.caltech.edu/19796/3/mmc2.avi"
+               }
+            ],
+            "format": "video/x-msvideo",
+            "format_desc": "Movie S1: An optically trapped looped ejection",
+            "id": "https://authors.library.caltech.edu/id/document/22634",
+            "language": "en",
+            "license": "other",
+            "main": "mmc2.avi",
+            "mime_type": "video/x-msvideo",
+            "pos": 3,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "doc_id": 62071,
+            "eprint_id": 19796,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 259129,
+                  "filename": "preview.png",
+                  "filesize": 205455,
+                  "hash": "c3e97bacb9d50acf701eedc20bae4935",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/259129",
+                  "mime_type": "image/png",
+                  "mtime": "2012-12-26 12:23:46",
+                  "objectid": 62071,
+                  "url": "https://authors.library.caltech.edu/19796/4/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/62071",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "image/png",
+            "placement": 4,
+            "pos": 4,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22632"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22632"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22632"
+               }
+            ],
+            "rev_number": 2,
+            "security": "staffonly"
+         },
+         {
+            "doc_id": 62072,
+            "eprint_id": 19796,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 259133,
+                  "filename": "preview.png",
+                  "filesize": 10198,
+                  "hash": "56e783749791b0418839e2867b8d139e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/259133",
+                  "mime_type": "image/png",
+                  "mtime": "2012-12-26 12:23:47",
+                  "objectid": 62072,
+                  "url": "https://authors.library.caltech.edu/19796/5/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/62072",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "image/png",
+            "placement": 5,
+            "pos": 5,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22633"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22633"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/22633"
+               }
+            ],
+            "rev_number": 2,
+            "security": "staffonly"
+         }
+      ],
+      "eprint_id": 19796,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "NIH"
+            },
+            {
+               "agency": "Yaser Abu-Mostafa Hertz Fellowship"
+            },
+            {
+               "agency": "NSF",
+               "grant_number": "0758343"
+            },
+            {
+               "agency": "Department of Defense Breast Cancer Research Program",
+               "grant_number": "BC083077"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/19796",
+      "id_number": "CaltechAUTHORS:20100907-101147251",
+      "ispublished": "pub",
+      "issn": "0006-3495",
+      "lastmod": "2019-10-03 02:01:45",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2010 Biophysical Society. Published by Elsevier.\n\nReceived 1 March 2010;  accepted 9 June 2010.  Editor: Laura Finzi..  Available online 17 August 2010. \n\n\nThe authors thank the members of the physiology course at the Marine\nBiology Laboratory in Woods Hole, MA (Nicolas Chiaruttini, Paul\nGrayson, Zenan Chang, Alexander Grosberg, Ian Molineux, Michael Rubinstein,\nVirgile Viasnoff, William Gelbart, and Charles Knobler), and\nmembers of the Phillips laboratory.\nD.W. and D.V.V. were supported by a National Institutes of Health (NIH)\nMedical Scientist Training Program Fellowship. D.V.V. was supported by\na Yaser Abu-Mostafa Hertz Fellowship and an NIH Director\u2019s Pioneer\nAward. R.P., D.W., and D.V.V. were supported by National Science Foundation\ngrant No. 0758343 and an NIH Pioneer Award. Q.H. was supported\nby a predoctoral fellowship (BC083077) from the Department of Defense\nBreast Cancer Research Program.",
+      "number": "4",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20100907-101147251",
+      "pagerange": "1101-1109",
+      "pmcid": "PMC2920739",
+      "publication": "Biophysical Journal",
+      "publisher": "Biophysical Society",
+      "refereed": "TRUE",
+      "referencetext": {
+         "items": [
+            "1. Hershey, A. D., and M. M. Chase. 1952. Independent functions of viral\nprotein and nucleic acid in growth of bacteriophage. J. Gen. Physiol.\n36:39\u201356.\n2. Smith, G. P. 1991. Surface presentation of protein epitopes using bacteriophage\nexpression systems. Curr. Opin. Biotechnol. 2:668\u2013673.\n3. Catalano, C. E., D. Cue, and M. Feiss. 1995. Virus DNA packaging: the\nstrategy used by phage l. Mol. Microbiol. 16:1075\u20131086.\n4. Smith, D. E., S. J. Tans, ., C. Bustamante. 2001. The bacteriophage\nstraight f29 portal motor can package DNA against a large internal\nforce. Nature. 413:748\u2013752.\n5. Oppenheim, A. B., O. Kobiler, ., S. Adhya. 2005. Switches in bacteriophage\nl development. Annu. Rev. Genet. 39:409\u2013429.\n6. Arkin, A., J. Ross, and H. H. McAdams. 1998. Stochastic kinetic\nanalysis of developmental pathway bifurcation in phage l-infected\nEscherichia coli cells. Genetics. 149:1633\u20131648.\n7. St-Pierre, F., and D. Endy. 2008. Determination of cell fate selection\nduring phage l infection. Proc. Natl. Acad. Sci. USA. 105:\n20705\u201320710.\n8. Zeng, L., S. O. Skinner, ., I. Golding. 2010. Decision making at\na subcellular level determines the outcome of bacteriophage infection.\nCell. 141:682\u2013691.\n9. Dodd, I. B., K. E. Shearwin, and J. B. Egan. 2005. Revisited gene regulation\nin bacteriophage l. Curr. Opin. Genet. Dev. 15:145\u2013152.\n10. Fuller, D. N., J. P. Rickgauer, ., D. E. Smith. 2007. Ionic effects on\nviral DNA packaging and portal motor function in bacteriophage\nf29. Proc. Natl. Acad. Sci. USA. 104:11245\u201311250.\n11. Novick, S. L., and J. D. Baldeschwieler. 1988. Fluorescence measurement\nof the kinetics of DNA injection by bacteriophage l into liposomes.\nBiochemistry. 27:7919\u20137924.\n12. Mangenot, S., M. Hochrein, ., L. Letellier. 2005. Real-time imaging\nof DNA ejection from single phage particles. Curr. Biol. 15:430\u2013435.\n13. Grayson, P., L. Han, T.Winther, and R. Phillips. 2007. Real-time observations\nof single bacteriophage l DNA ejections in vitro. Proc. Natl.\nAcad. Sci. USA. 104:13652\u201314657.\n14. Chiaruttini, N., M. de Frutos,., V. Viasnoff. 2010. Is the in vitro ejection\nof bacteriophage DNA quasi-static? A bulk to single virus study.\nBiophys. J. 99:447\u2013455.\n15. Evilevitch, A., L. Lavelle, ., W. M. Gelbart. 2003. Osmotic pressure\ninhibition of DNA ejection from phage. Proc. Natl. Acad. Sci. USA.\n100:9292\u20139295.\n16. Evilevitch, A., J.W. Gober,.,W. M. Gelbart. 2005. Measurements of\nDNA lengths remaining in a viral capsid after osmotically suppressed\npartial ejection. Biophys. J. 88:751\u2013756.\n17. Grayson, P., A. Evilevitch, ., R. Phillips. 2006. The effect of genome\nlength on ejection forces in bacteriophage l. Virology. 348:430\u2013436.\n18. Leforestier, A., S. Brasile`s, ., F. Livolant. 2008. Bacteriophage T5\nDNA ejection under pressure. J. Mol. Biol. 384:730\u2013739.\n19. Kindt, J., S. Tzlil, ., W. M. Gelbart. 2001. DNA packaging and ejection\nforces in bacteriophage. Proc. Natl. Acad. Sci. USA. 98:\n13671\u201313674.\n20. Jeembaeva, M., M. Castelnovo,., A. Evilevitch. 2008. Osmotic pressure:\nresisting or promoting DNA ejection from phage? J. Mol. Biol.\n381:310\u2013323.\n21. Stock, J. B., B. Rauch, and S. Roseman. 1977. Periplasmic space in\nSalmonella typhimurium and Escherichia coli. J. Biol. Chem.\n252:7850\u20137861.\n22. Molineux, I. J. 2006. Fifty-three years since Hershey and Chase; much\nado about pressure but which pressure is it? Virology. 344:221\u2013229.\n23. Comolli, L. R., A. J. Spakowitz, ., K. H. Downing. 2008. Threedimensional\narchitecture of the bacteriophage f29 packaged genome\nand elucidation of its packaging process. Virology. 371:267\u2013277.\n24. Leforestier, A., and F. Livolant. 2009. Structure of toroidal DNA\ncollapsed inside the phage capsid. Proc. Natl. Acad. Sci. USA.\n106:9157\u20139162.\n25. Leforestier, A., and F. Livolant. 2010. The bacteriophage genome\nundergoes a succession of intracapsid phase transitions upon DNA\nejection. J. Mol. Biol. 396:384\u2013395.\n26. Evilevitch, A. 2006. Effects of condensing agent and nuclease on the\nextent of ejection from phage l. J. Phys. Chem. B. 110:22261\u201322265.\n27. Hud, N. V., and K. H. Downing. 2001. Cryoelectron microscopy of l\nphage DNA condensates in vitreous ice: the fine structure of DNA\ntoroids. Proc. Natl. Acad. Sci. USA. 98:14925\u201314930.\n28. Fang, P. A., E. T. Wright,.,W. Jiang. 2008. Visualization of bacteriophage\nT3 capsids with DNA incompletely packaged in vivo. J. Mol.\nBiol. 384:1384\u20131399.\n29. Johnson, J. E., and W. Chiu. 2007. DNA packaging and delivery\nmachines in tailed bacteriophages. Curr. Opin. Struct. Biol. 17:\n237\u2013243.\n30. Evilevitch, A., L. T. Fang, ., C. M. Knobler. 2008. Effects of salt\nconcentrations and bending energy on the extent of ejection of phage\ngenomes. Biophys. J. 94:1110\u20131120.\n31. Odijk, T. 1998. Hexagonally packed DNA within bacteriophage T7\nstabilized by curvature stress. Biophys. J. 75:1223\u20131227.\n32. Reference deleted in proof.\n33. Purohit, P. K., J. Kondev, and R. Phillips. 2003. Mechanics of DNA\npackaging in viruses. Proc. Natl. Acad. Sci. USA. 100:3173\u20133178.\n34. Tzlil, S., J. T. Kindt, ., A. Ben-Shaul. 2003. Forces and pressures in\nDNA packaging and release from viral capsids. Biophys. J. 84:\n1616\u20131627.\n35. Purohit, P. K., M. M. Inamdar, ., R. Phillips. 2005. Forces during\nbacteriophage DNA packaging and ejection. Biophys. J. 88:851\u2013866.\n36. Li, Z., J. Wu, and Z. G. Wang. 2008. Osmotic pressure and packaging\nstructure of caged DNA. Biophys. J. 94:737\u2013746.\n37. Petrov, A. S., and S. C. Harvey. 2007. Structural and thermodynamic\nprinciples of viral packaging. Structure. 15:21\u201327.\n38. Petrov, A. S., and S. C. Harvey. 2008. Packaging double-helical DNA\ninto viral capsids: structures, forces, and energetics. Biophys. J.\n95:497\u2013502.\n39. Sambrook, J., and D. W. Russell. 2001. Molecular Cloning: A Laboratory\nManual. Cold Spring Harbor Laboratory Press, Cold Spring\nHarbor, New York.\n40. Keller, T. A., T. Ferenci, ., J. P. Rosenbusch. 1994. Crystallization of\nmonodisperse maltoporin from wild-type and mutant strains of various\nEnterobacteriaceae. Biochem. Biophys. Res. Commun. 199:767\u2013771.\n41. Brewer, L. R., and P. R. Bianco. 2008. Laminar flow cells for singlemolecule\nstudies of DNA-protein interactions. Nat. Methods. 5:\n517\u2013525.\n42. Smith, D. E., T. Perkins, and S. Chu. 1996. Dynamical scaling of DNA\ndiffusion coefficients. Macromolecules. 29:1372\u20131373.\n43. Joly, E. 1996. Purification of DNA fragments from agarose gels using\nglass beads. In Methods in Molecular Biology: Basic DNA and RNA\nprotocols. A. J. Harwood, editor. Humana Press, Totowa, NJ.\n44. Han, L., H. G. Garcia, ., R. Phillips. 2009. Concentration and length\ndependence of DNA looping in transcriptional regulation. PLoS ONE.\n4:e5621.\n45. Reference deleted in proof.\n46. Marko, J. F., and E. D. Siggia. 1995. Stretching DNA. Macromolecules.\n28:8759\u20138770.\n47. Michel, B. E. 1983. Evaluation of the water potentials of solutions of\npolyethylene glycol 8000 both in the absence and presence of other\nsolutes. Plant Physiol. 72:66\u201370.\n48. Sa\u02dco-Jose\u00b4, C., M. de Frutos,., P. Tavares. 2007. Pressure built by DNA\npacking inside virions: enough to drive DNA ejection in vitro, largely\ninsufficient for delivery into the bacterial cytoplasm. J. Mol. Biol.\n374:346\u2013355.\n49. Fuller, D. N., D. M. Raymer, ., D. E. Smith. 2007. Measurements of\nsingle DNA molecule packaging dynamics in bacteriophage l reveal\nhigh forces, high motor processivity, and capsid transformations. J.\nMol. Biol. 373:1113\u20131122.\n50. Rau, D. C., B. Lee, and V. A. Parsegian. 1984. Measurement of the\nrepulsive force between polyelectrolyte molecules in ionic solution:\nhydration forces between parallel DNA double helices. Proc. Natl.\nAcad. Sci. USA. 81:2621\u20132625.\n51. Esquinas-Rychen, M., and B. Erni. 2001. Facilitation of bacteriophage\nl DNA injection by inner membrane proteins of the bacterial phosphoenol-\npyruvate: carbohydrate phosphotransferase system (PTS). J.\nMol. Microbiol. Biotechnol. 3:361\u2013370.\nBiophysical"
+         ]
+      },
+      "related_objects": [
+         {
+            "basename": "mmc1.pdf",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/19796/2/mmc1.pdf"
+         },
+         {
+            "basename": "mmc2.avi",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "video/x-msvideo",
+            "url": "https://authors.library.caltech.edu/19796/3/mmc2.avi"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "http://dx.doi.org/10.1016/j.bpj.2010.06.024 "
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2920739/"
+            },
+            {
+               "description": "Supplementary information - PDF file",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0006349510007368/1-s2.0-S0006349510007368-mmc1.pdf/277708/FULL/S0006349510007368/c2b125fc7d5e8fe96762179140ab29ee/mmc1.pdf"
+            },
+            {
+               "description": "Supplementary information - AVI file",
+               "type": "pub",
+               "url": "http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0006349510007368/1-s2.0-S0006349510007368-mmc2.avi/277708/FULL/S0006349510007368/cdd677f9ad4c0e79b011359ab458c27a/mmc2.avi"
+            }
+         ]
+      },
+      "rev_number": 21,
+      "reviewer": "Joy Painter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2010-09-08 17:08:51",
+      "title": "Ion-Dependent Dynamics of DNA Ejections for Bacteriophage \u03bb",
+      "type": "article",
+      "userid": 18,
+      "volume": "99"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "15307.xml",
+            "size": 18861,
+            "sizes": {
+               "v0.0.1": 18861
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "be175dea0f56c4ea6d39b246783285e4"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/15/30/7/v0.0.1/15307.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/15/30/7/v0.0.1/15307.xml"
+            },
+            "created": "2020-03-27T15:16:04-07:00",
+            "modified": "2020-04-28T12:38:10-07:00"
+         }
+      ],
+      "_Key": "15307",
+      "abstract": "We use statistical mechanics and simple ideas from polymer physics to develop a quantitative model of proteins whose activity is controlled by flexibly tethered ligands and receptors. We predict how the properties of tethers influence the function of these proteins and demonstrate how their tether length dependence can be exploited to construct proteins whose integration of multiple signals can be tuned. One case study to which we apply these ideas is that of the Wiskott-Aldrich Syndrome Proteins as activators of actin polymerization. More generally, tethered ligands competing with those free in solution are common phenomena in biology, making this an important specific example of a widespread biological idea.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Van-Valen-D",
+               "name": {
+                  "family": "Van Valen",
+                  "given": "David"
+               },
+               "orcid": "0000-0001-7534-7621"
+            },
+            {
+               "id": "Haataja-Mikko",
+               "name": {
+                  "family": "Haataja",
+                  "given": "Mikko"
+               }
+            },
+            {
+               "id": "Phillips-R",
+               "name": {
+                  "family": "Phillips",
+                  "given": "Rob"
+               },
+               "orcid": "0000-0003-3082-2809"
+            }
+         ]
+      },
+      "date": "2009-02-18",
+      "date_type": "published",
+      "datestamp": "2009-08-26 21:43:57",
+      "dir": "disk0/00/01/53/07",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 16800,
+            "eprint_id": 15307,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 153844,
+                  "filename": "VanValen2009p4486Biophys_J.pdf",
+                  "filesize": 1477292,
+                  "id": "https://authors.library.caltech.edu/id/file/153844",
+                  "mime_type": "application/pdf",
+                  "mtime": "2012-12-26 11:15:16",
+                  "objectid": 16800,
+                  "url": "https://authors.library.caltech.edu/15307/1/VanValen2009p4486Biophys_J.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/16800",
+            "language": "en",
+            "license": "other",
+            "main": "VanValen2009p4486Biophys_J.pdf",
+            "mime_type": "application/pdf",
+            "pos": 1,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/57780"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/57780"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/57780"
+               }
+            ],
+            "rev_number": 6,
+            "security": "internal"
+         },
+         {
+            "doc_id": 57780,
+            "eprint_id": 15307,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 153842,
+                  "filename": "preview.png",
+                  "filesize": 69587,
+                  "hash": "ecbd51f0b9cde9218980f0f55bdafa46",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/153842",
+                  "mime_type": "image/png",
+                  "mtime": "2012-12-26 11:15:16",
+                  "objectid": 57780,
+                  "url": "https://authors.library.caltech.edu/15307/2/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/57780",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "image/png",
+            "placement": 2,
+            "pos": 2,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/16800"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/16800"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/16800"
+               }
+            ],
+            "rev_number": 2,
+            "security": "staffonly"
+         }
+      ],
+      "eprint_id": 15307,
+      "eprint_status": "archive",
+      "full_text_status": "none",
+      "funders": {
+         "items": [
+            {
+               "agency": "Fannie and John Hertz Foundation"
+            },
+            {
+               "agency": "Yaser Abu-Mustafa Fellowship"
+            },
+            {
+               "agency": "University of California-Los Angeles/Caltech Medical Scientist Training Program Fellowship"
+            },
+            {
+               "agency": "NIH"
+            },
+            {
+               "agency": "NSF",
+               "grant_number": "DMR-0449184"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/15307",
+      "id_number": "CaltechAUTHORS:20090825-145726010",
+      "ispublished": "pub",
+      "issn": "0006-3495",
+      "lastmod": "2019-10-03 00:56:46",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2009 Biophysical Society. \n\nReceived 17 June 2008;  accepted 31 October 2008.  Editor: Arup Chakraborty.  Available online 10 February 2009. \n\nWe thank Lacramioara Bintu, John Dueber, Hernan Garcia, Paul Grayson, Alexander Grosberg, Jane Kondev, Wendell Lim, Tharathorn Rimchala, Boo Tseng, Paul Wiggins, and Brian Yeh for helpful discussions. D.V.V. and R.P. acknowledge the support of a Fannie and John Hertz Foundation Yaser Abu-Mustafa Fellowship, a University of California-Los Angeles/Caltech Medical Scientist Training Program Fellowship, and a National Institutes of Health Pioneer Award. M.H. acknowledges support from the National Science Foundation through NSF-DMR grant No. 0449184.",
+      "number": "4",
+      "official_cit": "Biochemistry on a Leash: The Roles of Tether Length and Geometry in Signal Integration Proteins \n\nDavid Van Valen, Mikko Haataja, Rob Phillips\n\nBiophysical Journal - 18 February 2009 (Vol. 96, Issue 4, pp. 1275-1292)\n",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20090825-145726010",
+      "pagerange": "1275-1292",
+      "publication": "Biophysical Journal",
+      "publisher": "Biophysical Society",
+      "refereed": "TRUE",
+      "referencetext": {
+         "items": [
+            "1. Romero, S., C. Le Clainche, D. Didry, C. Egile, D. Pantaloni, et al.\n2004. Formin is a processive motor that requires profilin to accelerate\nactin assembly and associated ATP hydrolysis. Cell. 119:419\u2013429.\n2. Kovar, D. R., E. S. Harris, R. Mahaffy, H. Higgs, and T. Pollard. 2006.\nControl of the assembly of ATP- and ADP-actin by formins and profilin.\nCell. 124:423\u2013435.\n3. Vavylonis, D., D. Kovar, B. O\u2019Shaughnessy, and T. Pollard. 2006.\nModel of formin-associated actin filament elongation. Mol. Cell.\n21:455\u2013466.\n4. Nguyen, J., and W. Lim. 1997. How Src exercises self-restraint. Nat.\nStruct. Biol. 4:256\u2013260.\n5. Hubbard, S. 1999. Src autoinhibition: let us count the ways. Nat. Struct.\nBiol. 6:711\u2013714.\n6. Gonfloni, S., J. Williams, K. Hattula, A. Weijland, R. K. Wierenga,\net al. 1997. The role of the linker between the SH2 domain and catalytic\ndomain in the regulation and function of Src. EMBO J. 16:7261\u20137271.\n7. Young, M., S. Gonfloni, G. Superti-Furga, B. Roux, and J. Kuriyan.\n2001. Dynamic coupling between the SH2 and SH3 domains of c-Src\nand Hck underlies their inactivation by C-terminal tyrosine phosphorylation.\nCell. 105:115\u2013126.\n8. Krishnamurthy, V., V. Semetey, P. Bracher, N. Shen, and G. Whitesides.\n2007. Dependence of effective molarity on linker length for an intramolecular\nprotein-ligand system. J. Am. Chem. Soc. 129:1312\u20131320.\n9. Windisch, B., D. Bray, and T. Duke. 2006. Balls and chains\u2014a mesoscopic\napproach to tethered protein domains. Biophys. J. 91:2383\u20132392.\n10. Zagotta, W., T. Hoshi, and W. Aldrich. 1989. Gating of single Shaker\npotassium channels in Drosophila muscle and in Xenopus oocytes injected\nwith Shaker mRNA. Proc. Natl. Acad. Sci. USA. 86:7243\u20137247.\n11. Zagotta, W., and R. Aldrich. 1990. Voltage-dependent gating of Shaker\nA-type potassium channels in Drosophila muscle. J. Gen. Physiol.\n95:29\u201360.\n12. Hoshi, T., W. Zagotta, and W. Aldrich. 1990. Biophysical and molecular\nmechanisms of Shaker potassium channel inactivation. Science.\n250:533\u2013538.\n13. Zagotta, W., T. Hoshi, and W. Aldrich. 1990. Restoration of inactivation\nin mutants of Shaker potassium channels by a peptide derived\nfrom ShB. Science. 250:568\u2013571.\n14. Timpe, L., and L. Peller. 1995. A random flight chain model for the\ntether of the Shaker K\u00fe channel inactivation domain. Biophys. J.\n69:2415\u20132418.\n15. Robinson, C., and R. Sauer. 1998. Optimizing the stability of singlechain\nproteins by linker length and composition mutagenesis. Proc.\nNatl. Acad. Sci. USA. 95:5929\u20135934.\n16. Nagi, A., and L. Regan. 1997. An inverse correlation between loop\nlength and stability in a four-helix-bundle protein. Fold. Des. 2:67\u201375.\n17. Dueber, J., B. Yeh, K. Chak, and W. Lim. 2003. Reprogramming\ncontrol of an allosteric signaling switch through modular recombination.\nScience. 30:1904\u20131908.\n18. Higgs, H., L. Blanchoin, and T. Pollard. 1999. Influence of the Cterminus\nof Wiskott-Aldrich Syndrome Protein (WASP) and the Arp2/\n3 complex on actin polymerization. Biochemistry. 38:15212\u201315222.\n19. Machesky, L., and R. Insall. 1998. Scar1 and the related Wiskott-Aldrich\nSyndrome Protein, WASP, regulate the actin cytoskeleton through\nthe Arp2/3 complex. Curr. Biol. 8:1347\u20131356.\n20. Marchand, J. B., D. Kaiser, T. Pollard, and H. Higgs. 2001. Interaction\nof WASP/Scar proteins with actin and vertebrate Arp2/3 complex. Nat.\nCell Biol. 3:76\u201382.\n21. Mullins, R. D., and L.Machesky. 2000.Actin assemblymediated byArp2/\n3 complex and WASP family proteins. Methods Enzymol. 325:214\u2013237.\n22. Prehoda, K., J. Scott, R. D. Mullins, and W. Lim. 2000. Integration of\nmultiple signals through cooperative regulation of the N-WASP-Arp2/3\ncomplex. Science. 290:801\u2013806.\n23. Rohatgi, R., L. Ma, H. Miki, M. Lopez, T. Kirchhausen, et al. 1999. The\ninteraction between N-WASP and the Arp2/3 complex links Cdc42-\ndependent signals to actin assembly. Cell. 97:221\u2013231.\n24. Dayel, M., and R. D. Mullins. 2004. Activation of Arp2/3 complex:\naddition of the first subunit of the new filament by a WASP protein triggers\nrapid ATP hydrolysis on Arp2. PLoS Biol. 2:476\u2013485.\n25. Kim, A., L. Kakalis, N. Abdul-Manan, G. Liu, and M. Rosen. 2000.\nAutoinhibition and activation mechanisms of the Wiskott-Aldrich\nSyndrome Protein. Nature. 404:151\u2013158.\n26. Ptashne, M., and A. Gann. 2004. Genes and Signals. Cold Spring\nHarbor Laboratory Press, Cold Spring Harbor, NY.\n27. Hochschild, A., and M. Ptashne. 1988. Interaction at a distance between\nl repressors disrupts gene activation. Nature. 336:353\u2013357.\n28. Joung, J. K., L. U. Le, and A. Hochschild. 1993. Synergistic activation\nof transcription by Escherichia coli cAMP receptor protein. Proc. Natl.\nAcad. Sci. USA. 90:3083\u20133087.\n29. Joung, J. K., D. M. Koepp, and A. Hochschild. 1994. Synergistic activation\nof transcription by bacteriophage l cI protein and E. coli cAMP\nreceptor protein. Science. 265:1863\u20131866.\n30. Dodd, I. B., K. E. Shearwin, A. J. Perkins, T. Burr, A. Hochschild, et al.\n2004. Cooperativity in the long-range gene regulation by the l cI\nrepressor. Genes Dev. 18:344\u2013354.\n31. Ackers, G., A. Johnson, and M. Shea. 1982. Quantitative model for gene\nregulation by l phage repressor.Proc.Natl. Acad. Sci.USA. 79:1129\u20131133.\n32. Graham, I., and T. Duke. 2005. The logical repertoire of ligand-binding\nproteins. Phys. Biol. 2:159\u2013165.\n33. Buck, M., W. Xu, and M. Rosen. 2004. A two-state allosteric model for\nautoinhibition rationalizes WASP signal integration and targeting. J.\nMol. Biol. 338:271\u2013285.\n34. Zhou, H. X. 2006. Quantitative relation between intermolecular and intramolecular\nbinding of Pro-rich peptides to SH3 domains. Biophys. J.\n91:3170\u20133181.\n35. Gianni, S., A. Engstrom, M. Larsson, N. Calosci, F. Malatesta, et al.\n2005. The kinetics of PDZ domain-ligand interactions and implications\nfor the binding mechanism. J. Biol. Chem. 280:34805\u201334812.\n36. Hudgins, R., F. Huang, G. Gramlich, and W. Nau. 2002. A fluorescence-\nbased method for direct measurement of submicrosecond intramolecular\ncontact formation in biopolymers: an exploratory study\nwith polypeptides. J. Am. Chem. Soc. 124:556\u2013564.\n37. Wang, X., E. Bodunov, and W. Nau. 2003. Fluorescence quenching\nkinetics in short polymer chains: dependence on chain length. Opt.\nSpectrosc. 95:560\u2013570.\n38. Jacobson, H., andW.Stockmayer. 1950. Intramolecular reaction in polycondensations.\nI. The theory of linear systems. J. Chem. Phys. 18:1600\u20131606.\n39. Ito, K., J. Chuang, C. Alvarez-Lorenzo, T. Watanabe, N. Ando, et al.\n2003. Multiple point adsorption in a heteropolymer gel and the Tanaka\napproach to imprinting: experiment and theory. Prog. Polym. Sci.\n28:1490\u20131515.\n40. Rief, M., M. Gautel, F. Oesterhelt, J. Fernandez, and H. Gaug. 1997.\nReversible unfolding of individual titin immunoglobin domains by\nAFM. Science. 276:1109\u20131112.\n41. Rief, M., J. Fernandez, and H. Gaub. 1998. Elastically coupled twolevel\nsystems as a model for biopolymer extensibility. Phys. Rev.\nLett. 81:4764\u20134767.\n42. Lim, R., N. P. Huang, J. Koser, J. Deng, K. H. A. Lau, et al. 2006. Flexible\nphenylalanine-glycine nucleoporins as entropic barriers to nucleocytoplasmic\ntransport. Proc. Natl. Acad. Sci. USA. 103:9512\u20139517.\n43. Zhou, H. X. 2001. Loops in proteins can be modeled as worm-like\nchains. J. Phys. Chem. B. 105:6763\u20136766.\n44. Flory, P. 1969. Statistical Mechanics of Chain Molecules. John Wiley\nand Sons, New York.\n45. Seyed-Allaei, H. 2005. Three-bead rotating chain model shows universality\nin the stretching of proteins. Phys. Rev. E Stat. Nonlin. Soft Matter\nPhys. 72, 041908.\n46. Segall, D., P. Nelson, and R. Phillips. 2006. Excluded-volume effects in\ntethered particle experiments: bead size matters. Phys. Rev. Lett. 96:\n088306.\n47. Chereau, D., F. Kerff, P. Graceffa, Z. Grabarek, K. Langsetmo, et al.\n2005. Actin-bound structures of Wiskott-Aldrich Syndrome Protein\n(WASP)-homology domain 2 and the implications for filament\nassembly. Proc. Natl. Acad. Sci. USA. 102:16644\u201316649.\n48. Bintu, L., N. Buchler, H. Garcia, U. Gerland, T. Hwa, et al. 2005. Transcriptional\nregulation by the numbers: models. Curr. Opin. Genet. Dev.\n15:116\u2013124.\n49. Dueber, J., E. Mirsky, and W. Lim. 2007. Engineering synthetic\nsignaling proteins with ultrasensitive input/output control. Nat. Biotechnol.\n25:660\u2013662.\n50. Posern, G., J. Zheng, B. S. Knudsen, C. Kardinal, K. B. Mu\u00a8 ller, et al.\n1998. Development of highly selective SH3 binding peptides for Crk\nand CRKL which disrupt Crk-complexes with DOCK180, SoS and\nC3G. Oncogene. 16:1903\u20131912.\n51. Knudsen, B., J. Zheng, S. Feller, J. Mayer, S. Burrel, et al. 1995.\nAffinity and specificity requirements for the first Src homology 3\ndomain of the Crk proteins. EMBO J. 14:2191\u20132198.\n52. Nguyen, J., C. Turck, F. Cohen, R. Zuckerman, and W. Lim. 1998. Exploiting\nthe basis of proline recognition by SH3 and WW domains:\nDesign of N-substituted inhibitors. Nature. 282:2088\u20132092.\n53. Ward, M., J. Wu, and Y. Rao. 2004. Visualization of spatially and\ntemporally regulated N-WASP activity during cytoskeletal reorganization\nin living cells. Proc. Natl. Acad. Sci. USA. 101:970\u2013974.\n54. Smoluchowski, M. 1916. Three lectures on diffusion, Brownian motion\nand coagulation of colloidal particles. Phys. Z. 17:557\u2013571.\n55. Zalvsky, J., L. Lempert, H. Kranitz, and R. D. Mullins. 2001. Different\nWASP family proteins stimulate different Arp2/3 complex-dependent\nactin-nucleating activities. Curr. Biol. 11:1903\u20131913.\n56. Szabo, A., K. Schulten, and Z. Schulten. 1980. First passage time\napproach to diffusion controlled reactions. J. Chem. Phys. 72:4350\u2013\n4357.\n57. Jun, S., J. Bechhoefer, and B. Ha. 2003. Diffusion-limited loop\nformation of semiflexible polymers: Kramers theory and the intertwined\ntime scales of chain relaxation and closing. Europhys. Lett. 64:420\u2013426.\n58. Hyeon, C., and D. Thirumalai. 2006. Kinetics of interior loop formation\nin semiflexible chains. J. Chem. Phys. 124:104905\u2013104918.\n59. Robinson, R., K. Turbedsky, D. Kaiser, J. B. Marchand, H. Higgs, et al.\n2001. Crystal structure of Arp2/3 complex. Science. 294:1679\u20131684.\n60. Samuel, J., and S. Sinha. 2002. Elasticity of semiflexible polymers.\nPhys. Rev. E Stat. Nonlin. Soft Matter Phys. 66: 050801.\n61. Wu, X., B. Knudsen, S. Feller, J. Zheng, A. Sali, et al. 1995. Structural\nbasis for the specific interaction of lysine-containing Proline-rich\npeptides with the N-terminal SH3 domain of c-Crk. Structure. 3:215\u2013\n226.\n62. Evers, T., E. van Dongen, A. Faesen, E. Meijer, and M. Merkx. 2006.\nQuantitative understanding of the energy transfer between fluorescent\nproteins connected via flexible peptide linkers. Biochemistry.\n45:13183\u201313192."
+         ]
+      },
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "http://dx.doi.org/10.1016/j.bpj.2008.10.052"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2717227/"
+            }
+         ]
+      },
+      "rev_number": 18,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2009-08-26 21:43:57",
+      "title": "Biochemistry on a Leash: The Roles of Tether Length and Geometry in Signal Integration Proteins",
+      "type": "article",
+      "userid": 18,
+      "volume": "96"
+   }
+]
