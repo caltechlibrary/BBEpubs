@@ -41,3 +41,11 @@ topTitlesByFac <- group_by(facPubs, faculty, publication) %>%
   mutate(total=n()) %>% select(faculty, publication, total) %>%
   unique() %>% filter(total>=2) %>% arrange(faculty, desc(total), publication)
 
+
+
+
+## Publication venues in rows by year in columns with article counts as data (2000-2019)
+titleShift <- group_by(facPubs, publication, pubDate) %>% 
+  filter(date_type=="published", pubDate>=2000, pubDate<2020) %>% mutate(total=n()) %>%
+  select(publication, pubDate, total) %>%
+  unique() %>% spread(pubDate, total)
