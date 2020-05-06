@@ -1,5 +1,12 @@
 ## Caltech BBE faculty publication analysis
-## Kristin A. Briney, 2019-11-08
+## Kristin A. Briney, 2020-05-06
+
+## This code should be run after the BBEpubs_read.R script, as it doesn't reload the facPubs tibble
+## It does some basic bibliographic analysis of journal titles by year and by faculty
+## These summary tables currently only exist in the R environment and are not saved as .csv files
+## This code can be expanded to do different and further analyses as needed
+
+
 
 library(tidyverse)
 library(stringr)
