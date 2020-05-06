@@ -2,21 +2,621 @@
    {
       "_Attachments": [
          {
-            "name": "100308.xml",
-            "size": 16900,
+            "name": "100309.xml",
+            "size": 23067,
             "sizes": {
-               "v0.0.1": 16900
+               "v0.0.1": 23067
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "81f63e8652bc4784455af25fa7a21238"
+               "v0.0.1": "ca982e5df9c96673eaf19cf483d72dc9"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/10/03/09/v0.0.1/100309.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/03/09/v0.0.1/100309.xml"
+            },
+            "created": "2020-03-27T11:48:25-07:00",
+            "modified": "2020-05-06T04:01:45-07:00"
+         }
+      ],
+      "_Key": "100309",
+      "abstract": "Here, we describe a drug-inducible genetic system for insect sex-separation that demonstrates proof-of-principle for positive sex selection in D. melanogaster. The system exploits the toxicity of commonly used broad-spectrum antibiotics geneticin and puromycin to kill the non-rescued sex. Sex-specific rescue is achieved by inserting sex-specific introns into the coding sequences of antibiotic-resistance genes. When raised on geneticin-supplemented food, the sex-sorter line establishes 100% positive selection for female progeny, while the food supplemented with puromycin positively selects 100% male progeny. Since the described system exploits conserved sex-specific splicing mechanisms and reagents, it has the potential to be adaptable to other insect species of medical and agricultural importance.",
+      "alt_title": {
+         "items": [
+            "A novel drug-inducible sex-separation technique for insects"
+         ]
+      },
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Kandul-N-P",
+               "name": {
+                  "family": "Kandul",
+                  "given": "Nikolay P."
+               }
+            },
+            {
+               "id": "Liu-Junru",
+               "name": {
+                  "family": "Liu",
+                  "given": "Junru"
+               }
+            },
+            {
+               "id": "Hsu-Alexander-D",
+               "name": {
+                  "family": "Hsu",
+                  "given": "Alexander D."
+               },
+               "orcid": "0000-0002-5760-9189"
+            },
+            {
+               "id": "Hay-B-A",
+               "name": {
+                  "family": "Hay",
+                  "given": "Bruce A."
+               }
+            },
+            {
+               "id": "Akbari-O-S",
+               "name": {
+                  "family": "Akbari",
+                  "given": "Omar S."
+               },
+               "orcid": "0000-0002-6853-9884"
+            }
+         ]
+      },
+      "date": "2020-04-30",
+      "date_type": "published",
+      "datestamp": "2019-12-16 23:22:39",
+      "dir": "disk0/00/10/03/09",
+      "documents": [
+         {
+            "content": "submitted",
+            "doc_id": 291754,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1708134,
+                  "filename": "2019.12.13.875716v1.full.pdf",
+                  "filesize": 513668,
+                  "hash": "3b24b442659d720414fb342fbad7b763",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1708134",
+                  "mime_type": "application/pdf",
+                  "mtime": "2019-12-16 22:22:55",
+                  "objectid": 291754,
+                  "url": "https://authors.library.caltech.edu/100309/1/2019.12.13.875716v1.full.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/291754",
+            "language": "en",
+            "license": "cc_by_nc_nd",
+            "main": "2019.12.13.875716v1.full.pdf",
+            "mime_type": "application/pdf",
+            "placement": 2,
+            "pos": 1,
+            "rev_number": 5,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 291755,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1708138,
+                  "filename": "media-1.xlsx",
+                  "filesize": 28070,
+                  "hash": "0959755d7f9df038c723bf5d9fe6c894",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1708138",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-12-16 22:24:34",
+                  "objectid": 291755,
+                  "url": "https://authors.library.caltech.edu/100309/2/media-1.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S1 (from bioRxiv)",
+            "id": "https://authors.library.caltech.edu/id/document/291755",
+            "language": "en",
+            "license": "cc_by_nc_nd",
+            "main": "media-1.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 3,
+            "pos": 2,
+            "rev_number": 5,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 291756,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1708140,
+                  "filename": "media-2.xlsx",
+                  "filesize": 16312,
+                  "hash": "1ec744f055f6fd8f8d9b900e4146ade5",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1708140",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-12-16 22:24:37",
+                  "objectid": 291756,
+                  "url": "https://authors.library.caltech.edu/100309/3/media-2.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S2 (from bioRxiv)",
+            "id": "https://authors.library.caltech.edu/id/document/291756",
+            "language": "en",
+            "license": "cc_by_nc_nd",
+            "main": "media-2.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 4,
+            "pos": 3,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 291757,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1708142,
+                  "filename": "media-3.xlsx",
+                  "filesize": 19162,
+                  "hash": "a74a02f03c0b0ee4131f19a6fb2f4aea",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1708142",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-12-16 22:24:39",
+                  "objectid": 291757,
+                  "url": "https://authors.library.caltech.edu/100309/4/media-3.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S3 (from bioRxiv)",
+            "id": "https://authors.library.caltech.edu/id/document/291757",
+            "language": "en",
+            "license": "cc_by_nc_nd",
+            "main": "media-3.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 5,
+            "pos": 4,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 291758,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1708144,
+                  "filename": "media-4.xlsx",
+                  "filesize": 10588,
+                  "hash": "45a0a0ebb5da1e0daae749ac748d892c",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1708144",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2019-12-16 22:24:41",
+                  "objectid": 291758,
+                  "url": "https://authors.library.caltech.edu/100309/5/media-4.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Table S4 (from bioRxiv)",
+            "id": "https://authors.library.caltech.edu/id/document/291758",
+            "language": "en",
+            "license": "cc_by_nc_nd",
+            "main": "media-4.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 6,
+            "pos": 5,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "published",
+            "doc_id": 297443,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755049,
+                  "filename": "s41467-020-16020-2.pdf",
+                  "filesize": 1659072,
+                  "hash": "9becd02696889a4f12e793d7541f8c0c",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755049",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-04 16:18:30",
+                  "objectid": 297443,
+                  "url": "https://authors.library.caltech.edu/100309/6/s41467-020-16020-2.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/297443",
+            "language": "en",
+            "license": "cc_by",
+            "main": "s41467-020-16020-2.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 6,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297444,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755054,
+                  "filename": "41467_2020_16020_MOESM1_ESM.pdf",
+                  "filesize": 204393,
+                  "hash": "c3a7156a8d5383be1d31d32287538f5d",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755054",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-04 16:23:10",
+                  "objectid": 297444,
+                  "url": "https://authors.library.caltech.edu/100309/7/41467_2020_16020_MOESM1_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/297444",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM1_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 7,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297445,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755056,
+                  "filename": "41467_2020_16020_MOESM2_ESM.pdf",
+                  "filesize": 127753,
+                  "hash": "135a6d00e7a1b42e0e5a73e43269282e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755056",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-04 16:23:28",
+                  "objectid": 297445,
+                  "url": "https://authors.library.caltech.edu/100309/8/41467_2020_16020_MOESM2_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Peer Review File",
+            "id": "https://authors.library.caltech.edu/id/document/297445",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM2_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 4,
+            "pos": 8,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297446,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755058,
+                  "filename": "41467_2020_16020_MOESM3_ESM.xlsx",
+                  "filesize": 28077,
+                  "hash": "db3f70ffca184d93ddfc2e7d72513132",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755058",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2020-05-04 16:23:50",
+                  "objectid": 297446,
+                  "url": "https://authors.library.caltech.edu/100309/9/41467_2020_16020_MOESM3_ESM.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Supplementary Data 1",
+            "id": "https://authors.library.caltech.edu/id/document/297446",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM3_ESM.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 5,
+            "pos": 9,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297447,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755060,
+                  "filename": "41467_2020_16020_MOESM4_ESM.xlsx",
+                  "filesize": 21040,
+                  "hash": "0e63349fb66b6d1eb61abf7635aa7801",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755060",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2020-05-04 16:24:14",
+                  "objectid": 297447,
+                  "url": "https://authors.library.caltech.edu/100309/10/41467_2020_16020_MOESM4_ESM.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Supplementary Data 3",
+            "id": "https://authors.library.caltech.edu/id/document/297447",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM4_ESM.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 7,
+            "pos": 10,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297448,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755062,
+                  "filename": "41467_2020_16020_MOESM5_ESM.xlsx",
+                  "filesize": 16266,
+                  "hash": "006f442b86c9a559ad38d7d0c58d45db",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755062",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                  "mtime": "2020-05-04 16:24:41",
+                  "objectid": 297448,
+                  "url": "https://authors.library.caltech.edu/100309/11/41467_2020_16020_MOESM5_ESM.xlsx"
+               }
+            ],
+            "format": "application/vnd.ms-excel",
+            "format_desc": "Supplementary Data 2",
+            "id": "https://authors.library.caltech.edu/id/document/297448",
+            "language": "en",
+            "license": "other",
+            "main": "41467_2020_16020_MOESM5_ESM.xlsx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "placement": 6,
+            "pos": 11,
+            "rev_number": 3,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297449,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755072,
+                  "filename": "41467_2020_16020_MOESM6_ESM.pdf",
+                  "filesize": 207365,
+                  "hash": "914c7115cc5f17ae6722a2c2d0f8e8a6",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755072",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-04 16:25:14",
+                  "objectid": 297449,
+                  "url": "https://authors.library.caltech.edu/100309/12/41467_2020_16020_MOESM6_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Reporting Summary",
+            "id": "https://authors.library.caltech.edu/id/document/297449",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM6_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 12,
+            "pos": 12,
+            "rev_number": 2,
+            "security": "public"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 297450,
+            "eprint_id": 100309,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755074,
+                  "filename": "41467_2020_16020_MOESM7_ESM.pdf",
+                  "filesize": 151259,
+                  "hash": "75ab7aebe6bc177c81ca4f1c6dde171e",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755074",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-04 16:25:36",
+                  "objectid": 297450,
+                  "url": "https://authors.library.caltech.edu/100309/13/41467_2020_16020_MOESM7_ESM.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "Description of Supplementary Data Files",
+            "id": "https://authors.library.caltech.edu/id/document/297450",
+            "language": "en",
+            "license": "cc_by",
+            "main": "41467_2020_16020_MOESM7_ESM.pdf",
+            "mime_type": "application/pdf",
+            "placement": 13,
+            "pos": 13,
+            "rev_number": 2,
+            "security": "public"
+         }
+      ],
+      "eprint_id": 100309,
+      "eprint_status": "archive",
+      "full_text_status": "public",
+      "funders": {
+         "items": [
+            {
+               "agency": "NIH",
+               "grant_number": "5K22AI113060"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "1R21AI123937"
+            },
+            {
+               "agency": "University of California, San Diego"
+            },
+            {
+               "agency": "NIH",
+               "grant_number": "OD003878"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/100309",
+      "id_number": "CaltechAUTHORS:20191216-142248918",
+      "ispublished": "pub",
+      "issn": "2041-1723",
+      "lastmod": "2020-05-04 16:29:13",
+      "metadata_visibility": "show",
+      "monograph_type": "discussion_paper",
+      "note": "\u00a9 The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. \n\nReceived 19 December 2019; Accepted 07 April 2020; Published 30 April 2020. \n\nWe thank Pavel Nagorny for drawing the chemical structures of puromycin and geneticin. This work was supported in part by NIH grants 5K22AI113060, 1R21AI123937, and UCSD startup funds awarded to O.S.A., as well as NIH OD003878 awarded to B.A.H. \n\nData availability: All data underlying Figs. 1, 2, and 3 are represented fully within Supplementary Data 1\u20133. The plasmids constructed in the study (Fig. 1c) were deposited at Addgene.org (#131613 \u2013 #131618). The homozygous sex-sorter lines was deposited at Bloomington Drosophila Stock Center (#79015). The remaining Drosophila lines will be made available upon request. Any other relevant data are available from the authors upon reasonable request. \n\nAuthor Contributions: O.S.A conceived the idea, engineered plasmids, and carried out preliminary experiments. O.S.A and N.P.K designed experiments. N.P.K, A.D.H., and J.L. performed all molecular and genetic experiments. All authors analyzed the data, contributed to the writing of the manuscript, and approved the final manuscript. \n\nCompeting interests: O.S.A and B.A.H filed the US patent application (#20150237838) describing this technology. O.S.A has an equity interest in Agragene, Inc. and serves on the company\u2019s Scientific Advisory Board. All the other authors have no competing interests.",
+      "official_cit": "Kandul, N.P., Liu, J., Hsu, A.D. et al. A drug-inducible sex-separation technique for insects. Nat Commun 11, 2106 (2020). https://doi.org/10.1038/s41467-020-16020-2",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20191216-142248918",
+      "pagerange": "Art. No. 2106",
+      "pages": "16",
+      "primary_object": {
+         "basename": "s41467-020-16020-2.pdf",
+         "content": "published",
+         "license": "cc_by",
+         "mime_type": "application/pdf",
+         "url": "https://authors.library.caltech.edu/100309/6/s41467-020-16020-2.pdf"
+      },
+      "publication": "Nature Communications",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "related_objects": [
+         {
+            "basename": "2019.12.13.875716v1.full.pdf",
+            "content": "submitted",
+            "license": "cc_by_nc_nd",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/100309/1/2019.12.13.875716v1.full.pdf"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM1_ESM.pdf",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/100309/7/41467_2020_16020_MOESM1_ESM.pdf"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM2_ESM.pdf",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/100309/8/41467_2020_16020_MOESM2_ESM.pdf"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM3_ESM.xlsx",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/100309/9/41467_2020_16020_MOESM3_ESM.xlsx"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM4_ESM.xlsx",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/100309/10/41467_2020_16020_MOESM4_ESM.xlsx"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM5_ESM.xlsx",
+            "content": "supplemental",
+            "license": "other",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "url": "https://authors.library.caltech.edu/100309/11/41467_2020_16020_MOESM5_ESM.xlsx"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM6_ESM.pdf",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/100309/12/41467_2020_16020_MOESM6_ESM.pdf"
+         },
+         {
+            "basename": "41467_2020_16020_MOESM7_ESM.pdf",
+            "content": "supplemental",
+            "license": "cc_by",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/100309/13/41467_2020_16020_MOESM7_ESM.pdf"
+         }
+      ],
+      "related_url": {
+         "items": [
+            {
+               "description": "Article",
+               "type": "doi",
+               "url": "https://doi.org/10.1038/s41467-020-16020-2"
+            },
+            {
+               "description": "Discussion Paper",
+               "type": "doi",
+               "url": "https://doi.org/10.1101/2019.12.13.875716"
+            }
+         ]
+      },
+      "rev_number": 42,
+      "reviewer": "George Porter",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2020-05-04 16:29:13",
+      "title": "A drug-inducible sex-separation technique for insects",
+      "type": "article",
+      "userid": 18,
+      "volume": "11"
+   },
+   {
+      "_Attachments": [
+         {
+            "name": "100308.xml",
+            "size": 17026,
+            "sizes": {
+               "v0.0.1": 17026
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "bffc8f888e97e2791c60c283bc6873e3"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/03/08/v0.0.1/100308.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/03/08/v0.0.1/100308.xml"
             },
             "created": "2020-03-27T11:48:25-07:00",
-            "modified": "2020-04-28T09:34:44-07:00"
+            "modified": "2020-05-06T04:01:45-07:00"
          }
       ],
       "_Key": "100308",
@@ -332,7 +932,7 @@
       "ispublished": "pub",
       "issn": "0027-8424",
       "keywords": "gene drive; Cas9; population replacement; selfish genetic element",
-      "lastmod": "2020-04-21 20:07:40",
+      "lastmod": "2020-05-05 15:48:31",
       "metadata_visibility": "show",
       "monograph_type": "discussion_paper",
       "note": "\u00a9 2020 the Author(s). Published by PNAS. This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND). \n\nEdited by Dana Carroll, University of Utah School of Medicine, Salt Lake City, UT, and approved March 2, 2020 (received for review December 13, 2019). PNAS first published April 3, 2020. \n\nStocks obtained from the Bloomington Drosophila Stock Center (NIH Grant P40OD018537) were used in this study. This work was carried out with support from the US Department of Agriculture (USDA), National Institute of Food and Agriculture (NIFA) specialty crop initiative under USDA NIFA Award 2012-51181-20086, California University of Technology, and a Beaufort Visiting Fellow award from St. John\u2019s College, Cambridge, UK (to B.A.H.). G.O. was supported by a Baxter Foundation Endowed Senior Postdoctoral Fellowship. T.I. was supported by NIH Training Grant 5T32GM007616-39.\n\nData Availability:\nAll data are available in the main text and the supplementary materials. ClvR flies are available on request under the conditions outlined in ref. 25. \n\nAuthor contributions: G.O. and B.A.H. designed research; G.O., T.I., and B.A.H. performed research; G.O., T.I., and B.A.H. analyzed data; G.O. and B.A.H. wrote the paper; and T.I. performed computational modeling. \n\nCompeting interest statement: The authors have filed patent applications on ClvR and related technologies (U.S. Application No. 15/970,728). \n\nThis article is a PNAS Direct Submission.",
@@ -341,6 +941,7 @@
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20191216-141643773",
       "pagerange": "9013-9021",
       "pages": "52",
+      "pmcid": "PMC7183144",
       "primary_object": {
          "basename": "9013.full.pdf",
          "content": "published",
@@ -397,13 +998,18 @@
                "description": "Discussion Paper",
                "type": "doi",
                "url": "https://doi.org/10.1101/2019.12.13.876169"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7183144"
             }
          ]
       },
-      "rev_number": 40,
+      "rev_number": 44,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2020-04-21 20:07:40",
+      "status_changed": "2020-05-05 15:48:31",
       "title": "Gene drive and resilience through renewal with next generation Cleave and Rescue selfish genetic elements",
       "type": "article",
       "userid": 18,
@@ -19694,7 +20300,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/28/17/v0.0.1/102817.xml"
             },
             "created": "2020-04-28T09:28:09-07:00",
-            "modified": "2020-04-29T04:01:37-07:00"
+            "modified": "2020-05-01T04:01:52-07:00"
          }
       ],
       "_Key": "102817",
@@ -20413,7 +21019,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/28/29/v0.0.1/102829.xml"
             },
             "created": "2020-04-28T09:28:07-07:00",
-            "modified": "2020-04-29T04:01:36-07:00"
+            "modified": "2020-05-01T04:01:51-07:00"
          }
       ],
       "_Key": "102829",
@@ -21226,7 +21832,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/28/18/v0.0.1/102818.xml"
             },
             "created": "2020-04-28T09:28:09-07:00",
-            "modified": "2020-04-29T04:01:37-07:00"
+            "modified": "2020-05-01T04:01:52-07:00"
          }
       ],
       "_Key": "102818",
@@ -22178,7 +22784,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/28/31/v0.0.1/102831.xml"
             },
             "created": "2020-04-28T09:28:06-07:00",
-            "modified": "2020-04-29T04:01:36-07:00"
+            "modified": "2020-05-01T04:01:51-07:00"
          }
       ],
       "_Key": "102831",

@@ -3,20 +3,20 @@
       "_Attachments": [
          {
             "name": "96000.xml",
-            "size": 23264,
+            "size": 23463,
             "sizes": {
-               "v0.0.1": 23264
+               "v0.0.1": 23463
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "f4c1fe22b32ed29a7f506798543fd1fc"
+               "v0.0.1": "99645e41f34fd9d92acc7c642211665f"
             },
             "href": "CaltechAUTHORS.ds/pairtree/96/00/0/v0.0.1/96000.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/96/00/0/v0.0.1/96000.xml"
             },
             "created": "2020-04-27T18:49:26-07:00",
-            "modified": "2020-04-29T04:01:46-07:00"
+            "modified": "2020-05-06T04:01:53-07:00"
          }
       ],
       "_Key": "96000",
@@ -526,7 +526,7 @@
       "id_number": "CaltechAUTHORS:20190531-091859930",
       "ispublished": "pub",
       "issn": "2041-1723",
-      "lastmod": "2020-04-27 17:45:02",
+      "lastmod": "2020-05-04 16:30:01",
       "metadata_visibility": "show",
       "monograph_type": "discussion_paper",
       "note": "\u00a9 2020 The Author(s). This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. \n\nReceived 13 July 2019; Accepted 23 March 2020; Published 27 April 2020. \n\nThe authors wish to thank Drs. Zhiheng Yu, Jason de la Cruz, Chuan Hong, and Rick Huang for microscopy support at HHMI Janelia Farms; Dr. Mohamed Y. El-Naggar for insights into the culturing of S. oneidensis, Dr. Kristin Wuichet for discussions about the evolutionary interpretation of the bioinformatics data and Dr. Keith Cassidy for discussions on homology model building and for providing the Tar model used in Fig. 5. We also thank Dr. Catherine M. Oikonomou for helpful discussion and suggestions on the paper. This work was supported by the John Templeton Foundation as part of the Boundaries of Life Initiative (grants 51250 and 60973), NIGMS grant R35 GM122588 (to G.J.J.), NIGMS grant R01 GM108655 (to K.J.W.), the Max-Planck-Gesellschaft (to S.R.), the National Science Foundation grant CBET-1605031 (to M.G.K.), the Swiss National Science Foundation (R.K.), and the Air Force Office of Scientific Research Presidential Early Career Award for Scientists and Engineers grant FA955014-1-0294 (S.P.). P. aeruginosa strains were acquired from the transposon mutant collection that was made possible by NIH grant P30 DK089507. \n\nData availability: Tomograms are available in the Electron Tomography Database\u2014Caltech at https://etdb.caltech.edu and their identifiers are listed in the Supplementary Table 6. Phylogenetic trees in Fig. 4, Supplementary Figs. 1, 2, and 4 are available in Supplementary Data 1. The homology models in Fig. 2D are available in Supplementary Data 2. Other data are available from the corresponding authors upon reasonable request. \n\nAuthor Contributions: Conceptualization: D.R.O., A.B., and G.J.J.; Formal analysis: D.R.O.; Funding acquisition: K.J.W., M.G.K., S.R., A.B., and G.J.J.; Investigation: D.R.O., P.S., P.M., A.K., S.C., K.J.W., S.P., S.A.C., R.K., and A.B.; Methodology: D.R.O., W.Y., P.S., P.M., K.J.W., S.P., D.A.C., M.G.K., S.R., and A.B. Project administration: G.J.J.; Software: D.R.O.; Supervision: M.G.K., S.R., A.B., and G.J.J. Validation: D.R.O., W.Y., P.S., P.M., A.K., S.C., K.J.W., S.P., S.A.C., R.K., and A.B.; Visualization: D.R.O., W.Y., P.S., S.P., and A.B.; Writing\u2014original draft: D.R.O., P.S., A.B., and G.J.J. Writing\u2014review and editing: D.R.O., W.Y., P.S., K.J.W., S.P., D.A.C., M.G.K., S.R., A.B., and G.J.J. \n\nThe authors declare no competing interests.",
@@ -534,6 +534,7 @@
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20190531-091859930",
       "pagerange": "Art. No. 2041",
       "pages": "11",
+      "pmcid": "PMC7184735",
       "primary_object": {
          "basename": "s41467-020-15736-5.pdf",
          "content": "published",
@@ -606,10 +607,15 @@
                "description": "Discussion Paper",
                "type": "doi",
                "url": "https://doi.org/10.1101/653600"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7184735/"
             }
          ]
       },
-      "rev_number": 51,
+      "rev_number": 52,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
       "status_changed": "2020-04-27 17:45:02",
@@ -622,20 +628,20 @@
       "_Attachments": [
          {
             "name": "102314.xml",
-            "size": 21007,
+            "size": 21134,
             "sizes": {
-               "v0.0.1": 21007
+               "v0.0.1": 21134
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "5a96a188e08f0dda9d8efdf5bb8e9f37"
+               "v0.0.1": "13f47bbef2d33d81305fa8cd86e8f265"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/23/14/v0.0.1/102314.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/23/14/v0.0.1/102314.xml"
             },
             "created": "2020-04-23T04:01:39-07:00",
-            "modified": "2020-04-28T09:29:57-07:00"
+            "modified": "2020-05-05T04:01:36-07:00"
          }
       ],
       "_Key": "102314",
@@ -1076,7 +1082,7 @@
       "ispublished": "pub",
       "issn": "0027-8424",
       "keywords": "cryo-electron tomography; flagellar motor; evolution",
-      "lastmod": "2020-04-21 20:11:26",
+      "lastmod": "2020-05-01 15:49:11",
       "metadata_visibility": "show",
       "note": "\u00a9 2020 the Author(s). Published by PNAS. This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND). \n\nEdited by Jody W. Deming, University of Washington, Seattle, WA, and approved February 24, 2020 (received for review September 28, 2019). PNAS first published April 2, 2020. \n\nThis work was supported by NIH Grant R35 GM122588 (to G.J.J.). Cryo-ET work was done in the Beckman Institute Resource Center for Transmission Electron Microscopy at the California Institute of Technology. M.K. was supported by a Rubicon postdoctoral fellowship from De Nederlandse Organisatie voor Wetenschappelijk Onderzoek. J.P.G.L.M.R. was supported by NIH Grant R35GM122543. Ariane Briegel kindly helped in collecting part of the data. We thank Catherine M. Oikonomou for reading the manuscript and for the insightful discussions; and Dr. Pat Zambryski from the University of California, Berkeley for providing us with the A. longum strain used in this study. \n\nData Availability: Some of the data used in this study are available in the Electron Tomography Database (ETDB)-Caltech (48). All of the data are available upon request from the corresponding author. \n\nAuthor contributions: M.K. and G.J.J. designed research; M.K., M.J.S., J.P.G.L.M.R., E.I.T., Y.-W.C., D.R.O., and M.B. performed research; M.K. and G.J.J. contributed new reagents/analytic tools; M.K., M.J.S., and G.J.J. analyzed data; and M.K. and G.J.J. wrote the paper. \n\nThe authors declare no competing interest. \n\nThis article is a PNAS Direct Submission. \n\nThis article contains supporting information online at https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1916935117/-/DCSupplemental.",
       "number": "16",
@@ -1084,6 +1090,7 @@
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20200403-104455365",
       "pagerange": "8941-8947",
       "pages": "201916935",
+      "pmcid": "PMC7183148",
       "primary_object": {
          "basename": "8941.full.pdf",
          "content": "published",
@@ -1170,13 +1177,18 @@
                "description": "Supporting Information",
                "type": "pub",
                "url": "https://www.pnas.org/content/suppl/2020/04/01/1916935117.DCSupplemental"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7183148"
             }
          ]
       },
-      "rev_number": 35,
+      "rev_number": 38,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2020-04-21 20:11:26",
+      "status_changed": "2020-05-01 15:49:11",
       "title": "Bacterial flagellar motor PL-ring disassembly subcomplexes are widespread and ancient",
       "type": "article",
       "userid": 18,
@@ -24655,20 +24667,20 @@
       "_Attachments": [
          {
             "name": "58403.xml",
-            "size": 15553,
+            "size": 16559,
             "sizes": {
-               "v0.0.1": 15553
+               "v0.0.1": 16559
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "b2559e31f9d29a79ebed1e19f7ac763d"
+               "v0.0.1": "5c23c2205bea663881f60efd73a2abdd"
             },
             "href": "CaltechAUTHORS.ds/pairtree/58/40/3/v0.0.1/58403.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/58/40/3/v0.0.1/58403.xml"
             },
             "created": "2020-03-27T13:31:46-07:00",
-            "modified": "2020-04-28T11:01:32-07:00"
+            "modified": "2020-05-06T04:01:58-07:00"
          }
       ],
       "_Key": "58403",
@@ -24765,6 +24777,37 @@
             "pos": 2,
             "rev_number": 4,
             "security": "internal"
+         },
+         {
+            "content": "accepted",
+            "doc_id": 297589,
+            "eprint_id": 58403,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1756004,
+                  "filename": "nihms708068.pdf",
+                  "filesize": 829828,
+                  "hash": "0d923834a2ba77f039718cc9d2ff5382",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1756004",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-05 20:50:10",
+                  "objectid": 297589,
+                  "url": "https://authors.library.caltech.edu/58403/3/nihms708068.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "format_desc": "PubMed Central",
+            "id": "https://authors.library.caltech.edu/id/document/297589",
+            "language": "en",
+            "license": "other",
+            "main": "nihms708068.pdf",
+            "mime_type": "application/pdf",
+            "placement": 3,
+            "pos": 3,
+            "rev_number": 2,
+            "security": "public"
          }
       ],
       "eprint_id": 58403,
@@ -24789,7 +24832,7 @@
       "ispublished": "pub",
       "issn": "1047-8477",
       "keywords": "Electron tomography; Structural biology database; Image database; Automatic processing; Caltech Tomography Database",
-      "lastmod": "2019-10-03 08:35:33",
+      "lastmod": "2020-05-05 20:53:02",
       "metadata_visibility": "show",
       "note": "\u00a9 2015 Elsevier B.V. \n\nReceived Date: 20 March 2015; Revised Date: 11 June 2015; Accepted Date: 13 June 2015; Available online 15 June 2015. \n\nWe thank David Mastronarde for assisting with the \u201cGrab with Note\u201d plugin and integrating it into the IMOD software. This work was supported in part by NIH grant 2P50GM082545 to GJJ and the Beckman Institute at Caltech. This project/publication was made possible through the support of a grant from the John Templeton Foundation as part of the Boundaries of Life project. The opinions expressed in this publication are those of the authors and do not necessarily reflect the views of the John Templeton Foundation.",
       "number": "2",
@@ -24812,6 +24855,13 @@
             "license": "other",
             "mime_type": "application/pdf",
             "url": "https://authors.library.caltech.edu/58403/1/1-s2.0-S1047847715300174-main.pdf"
+         },
+         {
+            "basename": "nihms708068.pdf",
+            "content": "accepted",
+            "license": "other",
+            "mime_type": "application/pdf",
+            "url": "https://authors.library.caltech.edu/58403/3/nihms708068.pdf"
          }
       ],
       "related_url": {
@@ -24819,24 +24869,19 @@
             {
                "description": "Article",
                "type": "doi",
-               "url": "http://dx.doi.org/10.1016/j.jsb.2015.06.016"
-            },
-            {
-               "description": "Article",
-               "type": "pub",
-               "url": "http://www.sciencedirect.com/science/article/pii/S1047847715300174"
+               "url": "https://doi.org/10.1016/j.jsb.2015.06.016"
             },
             {
                "description": "Article",
                "type": "pmc",
-               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4633326/"
+               "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4633326"
             }
          ]
       },
-      "rev_number": 19,
+      "rev_number": 24,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2015-12-04 18:14:33",
+      "status_changed": "2020-05-05 20:53:02",
       "title": "The Caltech Tomography Database and Automatic Processing Pipeline",
       "type": "article",
       "userid": 18,
@@ -47937,6 +47982,610 @@
    {
       "_Attachments": [
          {
+            "name": "29830.xml",
+            "size": 29774,
+            "sizes": {
+               "v0.0.1": 29774
+            },
+            "version": "v0.0.1",
+            "checksums": {
+               "v0.0.1": "bf2ac214ee190f4a129d570e85941f43"
+            },
+            "href": "CaltechAUTHORS.ds/pairtree/29/83/0/v0.0.1/29830.xml",
+            "version_hrefs": {
+               "v0.0.1": "CaltechAUTHORS.ds/pairtree/29/83/0/v0.0.1/29830.xml"
+            },
+            "created": "2020-03-27T14:36:38-07:00",
+            "modified": "2020-04-28T12:07:30-07:00"
+         }
+      ],
+      "_Key": "29830",
+      "abstract": "Type VI secretion systems are bacterial virulence-associated nanomachines composed of proteins that are evolutionarily related to components of bacteriophage tails. Here we show that protein secretion by the type VI secretion system of Vibrio cholerae requires the action of a dynamic intracellular tubular structure that is structurally and functionally homologous to contractile phage tail sheath. Time-lapse fluorescence light microscopy reveals that sheaths of the type VI secretion system cycle between assembly, quick contraction, disassembly and re-assembly. Whole-cell electron cryotomography further shows that the sheaths appear as long tubular structures in either extended or contracted conformations that are connected to the inner membrane by a distinct basal structure. These data support a model in which the contraction of the type VI secretion system sheath provides the energy needed to translocate proteins out of effector cells and into adjacent target cells.",
+      "collection": "CaltechAUTHORS",
+      "creators": {
+         "items": [
+            {
+               "id": "Basler-M",
+               "name": {
+                  "family": "Basler",
+                  "given": "M."
+               }
+            },
+            {
+               "id": "Pilhofer-M",
+               "name": {
+                  "family": "Pilhofer",
+                  "given": "M."
+               }
+            },
+            {
+               "id": "Henderson-G-P",
+               "name": {
+                  "family": "Henderson",
+                  "given": "G. P."
+               }
+            },
+            {
+               "id": "Jensen-G-J",
+               "name": {
+                  "family": "Jensen",
+                  "given": "G. J."
+               },
+               "orcid": "0000-0003-1556-4864"
+            },
+            {
+               "id": "Mekalanor-J-J",
+               "name": {
+                  "family": "Mekalanos",
+                  "given": "J. J."
+               }
+            }
+         ]
+      },
+      "date": "2012-03-08",
+      "date_type": "published",
+      "datestamp": "2012-03-26 14:38:08",
+      "dir": "disk0/00/02/98/30",
+      "documents": [
+         {
+            "content": "published",
+            "doc_id": 35820,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144882,
+                  "filename": "Basler2012p17527Nature.pdf",
+                  "filesize": 3353949,
+                  "id": "https://authors.library.caltech.edu/id/file/1144882",
+                  "mime_type": "application/pdf",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35820,
+                  "url": "https://authors.library.caltech.edu/29830/1/Basler2012p17527Nature.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/35820",
+            "language": "en",
+            "license": "other",
+            "main": "Basler2012p17527Nature.pdf",
+            "mime_type": "",
+            "pos": 1,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238020"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238020"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238020"
+               }
+            ],
+            "rev_number": 5,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35821,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144885,
+                  "filename": "nature10846-s1.pdf",
+                  "filesize": 13528888,
+                  "id": "https://authors.library.caltech.edu/id/file/1144885",
+                  "mime_type": "application/pdf",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35821,
+                  "url": "https://authors.library.caltech.edu/29830/2/nature10846-s1.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/35821",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s1.pdf",
+            "mime_type": "",
+            "pos": 2,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/hasVolatileVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238021"
+               },
+               {
+                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238021"
+               },
+               {
+                  "type": "http://eprints.org/relation/hasVersion",
+                  "uri": "https://authors.library.caltech.edu/id/document/238021"
+               }
+            ],
+            "rev_number": 5,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35822,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144886,
+                  "filename": "nature10846-s2.mov",
+                  "filesize": 10098294,
+                  "id": "https://authors.library.caltech.edu/id/file/1144886",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35822,
+                  "url": "https://authors.library.caltech.edu/29830/3/nature10846-s2.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s2.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35822",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s2.mov",
+            "mime_type": "",
+            "pos": 3,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35823,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144887,
+                  "filename": "nature10846-s3.mov",
+                  "filesize": 6428816,
+                  "id": "https://authors.library.caltech.edu/id/file/1144887",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35823,
+                  "url": "https://authors.library.caltech.edu/29830/4/nature10846-s3.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s3.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35823",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s3.mov",
+            "mime_type": "",
+            "pos": 4,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35824,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144888,
+                  "filename": "nature10846-s4.mov",
+                  "filesize": 1840248,
+                  "id": "https://authors.library.caltech.edu/id/file/1144888",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35824,
+                  "url": "https://authors.library.caltech.edu/29830/5/nature10846-s4.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s4.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35824",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s4.mov",
+            "mime_type": "",
+            "pos": 5,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35825,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144889,
+                  "filename": "nature10846-s5.mov",
+                  "filesize": 6261645,
+                  "id": "https://authors.library.caltech.edu/id/file/1144889",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35825,
+                  "url": "https://authors.library.caltech.edu/29830/6/nature10846-s5.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s5.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35825",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s5.mov",
+            "mime_type": "",
+            "pos": 6,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35826,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144890,
+                  "filename": "nature10846-s6.mov",
+                  "filesize": 7782745,
+                  "id": "https://authors.library.caltech.edu/id/file/1144890",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35826,
+                  "url": "https://authors.library.caltech.edu/29830/7/nature10846-s6.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s6.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35826",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s6.mov",
+            "mime_type": "",
+            "pos": 7,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35827,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144891,
+                  "filename": "nature10846-s7.mov",
+                  "filesize": 2704240,
+                  "id": "https://authors.library.caltech.edu/id/file/1144891",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35827,
+                  "url": "https://authors.library.caltech.edu/29830/8/nature10846-s7.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s7.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35827",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s7.mov",
+            "mime_type": "",
+            "pos": 8,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35828,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144892,
+                  "filename": "nature10846-s8.mov",
+                  "filesize": 2102013,
+                  "id": "https://authors.library.caltech.edu/id/file/1144892",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35828,
+                  "url": "https://authors.library.caltech.edu/29830/9/nature10846-s8.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s8.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35828",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s8.mov",
+            "mime_type": "",
+            "pos": 9,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35829,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144893,
+                  "filename": "nature10846-s9.mov",
+                  "filesize": 5320596,
+                  "id": "https://authors.library.caltech.edu/id/file/1144893",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35829,
+                  "url": "https://authors.library.caltech.edu/29830/10/nature10846-s9.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s9.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35829",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s9.mov",
+            "mime_type": "",
+            "pos": 10,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35832,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144894,
+                  "filename": "nature10846-s10.mov",
+                  "filesize": 5443881,
+                  "id": "https://authors.library.caltech.edu/id/file/1144894",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35832,
+                  "url": "https://authors.library.caltech.edu/29830/11/nature10846-s10.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s10.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35832",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s10.mov",
+            "mime_type": "",
+            "pos": 11,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35833,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144895,
+                  "filename": "nature10846-s11.mov",
+                  "filesize": 29302303,
+                  "id": "https://authors.library.caltech.edu/id/file/1144895",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35833,
+                  "url": "https://authors.library.caltech.edu/29830/12/nature10846-s11.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s11.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35833",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s11.mov",
+            "mime_type": "",
+            "pos": 12,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "content": "supplemental",
+            "doc_id": 35834,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144896,
+                  "filename": "nature10846-s12.mov",
+                  "filesize": 27618224,
+                  "id": "https://authors.library.caltech.edu/id/file/1144896",
+                  "mime_type": "video/quicktime",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 35834,
+                  "url": "https://authors.library.caltech.edu/29830/13/nature10846-s12.mov"
+               }
+            ],
+            "format": "video/quicktime",
+            "format_desc": "s12.movie",
+            "id": "https://authors.library.caltech.edu/id/document/35834",
+            "language": "en",
+            "license": "other",
+            "main": "nature10846-s12.mov",
+            "mime_type": "",
+            "pos": 13,
+            "rev_number": 4,
+            "security": "internal"
+         },
+         {
+            "doc_id": 238020,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144881,
+                  "filename": "preview.png",
+                  "filesize": 217551,
+                  "hash": "bea7946a68b95c2ad0d4d26ff9d5e819",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1144881",
+                  "mime_type": "image/png",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 238020,
+                  "url": "https://authors.library.caltech.edu/29830/14/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/238020",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "",
+            "placement": 14,
+            "pos": 14,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35820"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35820"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35820"
+               }
+            ],
+            "rev_number": 2,
+            "security": "internal"
+         },
+         {
+            "doc_id": 238021,
+            "eprint_id": 29830,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1144884,
+                  "filename": "preview.png",
+                  "filesize": 138744,
+                  "hash": "91f9a56d1466b433738abe6d362c6285",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1144884",
+                  "mime_type": "image/png",
+                  "mtime": "2016-08-23 10:10:54",
+                  "objectid": 238021,
+                  "url": "https://authors.library.caltech.edu/29830/15/preview.png"
+               }
+            ],
+            "format": "image/png",
+            "id": "https://authors.library.caltech.edu/id/document/238021",
+            "language": "en",
+            "license": "other",
+            "main": "preview.png",
+            "mime_type": "",
+            "placement": 15,
+            "pos": 15,
+            "relation": [
+               {
+                  "type": "http://eprints.org/relation/isVolatileVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35821"
+               },
+               {
+                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35821"
+               },
+               {
+                  "type": "http://eprints.org/relation/isVersionOf",
+                  "uri": "https://authors.library.caltech.edu/id/document/35821"
+               }
+            ],
+            "rev_number": 2,
+            "security": "internal"
+         }
+      ],
+      "eprint_id": 29830,
+      "eprint_status": "archive",
+      "full_text_status": "none",
+      "funders": {
+         "items": [
+            {
+               "agency": "National Institute of Allergy and Infectious Diseases",
+               "grant_number": "AI 018045"
+            },
+            {
+               "agency": "National Institute of Allergy and Infectious Diseases",
+               "grant_number": "AI 26289"
+            },
+            {
+               "agency": "National Institute of General Medical Sciences",
+               "grant_number": "GM094800B"
+            }
+         ]
+      },
+      "id": "https://authors.library.caltech.edu/id/eprint/29830",
+      "id_number": "CaltechAUTHORS:20120326-070420034",
+      "ispublished": "pub",
+      "issn": "0028-0836",
+      "lastmod": "2019-10-03 03:44:53",
+      "metadata_visibility": "show",
+      "note": "\u00a9 2012 Macmillan Publishers Limited. Received 03 October 2011. Accepted 09 January 2012. Published online 26 February 2012. We thank T. G. Bernhardt and N. T. Peters for assistance with fluorescence microscopy, discussions and for a gift of plasmids carrying sfGFP and mCherry2 genes. We thank the Nikon Imaging Center at Harvard Medical School for help with fluorescence microscopy, and Research Precision Instruments and Hamamatsu for lending an ORCA-Flash2.8 camera. We thank the Harvard Medical School Electron Microscopy Facility for help with and supervision of transmission\nelectron microscopy. We thank M. K. Waldor for a V. cholerae 2740-80 strain and discussions. We thank D. Ewen Cameron for a knockout construct pWM91-flgG. We thank B. Wen and Z. Li for initial cryotomographic studies. This work was supported by National Institute of Allergy and Infectious Diseases grants AI-018045 and AI-26289 to J.J.M. and National Institute of General Medical Sciences grant GM094800B to G.J.J. Author Contributions: All authors helped design and analyse experiments; M.B., M.P. and G.P.H. performed experiments, and M.B., M.P., G.J.J. and J.J.M. wrote the paper.",
+      "number": "7388",
+      "official_cit": "Type VI secretion requires a dynamic contractile phage tail-like structure\n\n    M. Basler,\n    M. Pilhofer,\n    G. P. Henderson,\n    G. J. Jensen &\n    J. J. Mekalanos\n\nMicroscopy reveals the dynamics of the type VI secretion system of Vibrio cholerae and its structural and functional resemblance to the contractile tail sheath of bacteriophages.",
+      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20120326-070420034",
+      "pagerange": "182-187",
+      "publication": "Nature",
+      "publisher": "Nature Publishing Group",
+      "refereed": "TRUE",
+      "referencetext": {
+         "items": [
+            "1. Pukatzki, S. et al. Identification of a conserved bacterial protein secretion systemin\nVibrio cholerae using the Dictyosteliumhostmodel system. Proc.Natl Acad. Sci. USA\n103, 1528\u20131533 (2006).\n2. Ma, A. T., McAuley, S., Pukatzki, S. & Mekalanos, J. J. Translocation of a Vibrio\ncholerae type VI secretion effector requires bacterial endocytosis by host cells. Cell\nHost Microbe 5, 234\u2013243 (2009).\n3. Russell, A. B. et al. Type VI secretion delivers bacteriolytic effectors to target cells.\nNature 475, 343\u2013347 (2011).\n4. MacIntyre, D. L., Miyata, S. T., Kitaoka, M. & Pukatzki, S. The Vibrio cholerae type VI\nsecretion system displays antimicrobial properties. Proc. Natl Acad. Sci. USA 107,\n19520\u201319524 (2010).\n5. Schwarz, S. et al. Burkholderia type VI secretion systems have distinct roles in\neukaryotic and bacterial cell interactions. PLoS Pathog. 6, e1001068 (2010).\n6. Hood, R. D. et al. A type VI secretion system of Pseudomonas aeruginosa targets a\ntoxin to bacteria. Cell Host Microbe 7, 25\u201337 (2010).\n7. Zheng, J., Ho, B. & Mekalanos, J. J. Genetic analysis of anti-amoebae and antibacterial\nactivities of the type VI secretion system in Vibrio cholerae. PLoS ONE 6,\ne23876 (2011).\n8. Ma, A. T.&Mekalanos, J. J. In vivo actin cross-linking induced by Vibrio cholerae type\nVI secretion systemis associated with intestinal inflammation. Proc. Natl Acad. Sci.\nUSA 107, 4365\u20134370 (2010).\n9. Pukatzki, S., Ma, A. T., Revel, A. T., Sturtevant, D.& Mekalanos, J. J. Type VI secretion\nsystemtranslocates a phage tail spike-like protein into target cells where it crosslinks\nactin. Proc. Natl Acad. Sci. USA 104, 15508\u201315513 (2007).\n10. Leiman, P. G. et al. Type VI secretion apparatus and phage tail-associated protein\ncomplexes share a common evolutionary origin. Proc. Natl Acad. Sci. USA 106,\n4154\u20134159 (2009).\n11. Pell, L. G., Kanelis, V., Donaldson, L. W., Howell, P. L. & Davidson, A. R. The phage\nlambda major tail protein structure reveals a common evolution for long-tailed\nphages and the type VI bacterial secretion system. Proc. Natl Acad. Sci. USA 106,\n4160\u20134165 (2009).\n12. Leiman, P. G., Chipman, P. R., Kostyuchenko, V. A., Mesyanzhinov, V. V. &\nRossmann, M. G. Three-dimensional rearrangement of proteins in the tail of\nbacteriophage T4 on infection of its host. Cell 118, 419\u2013429 (2004).\n13. Lossi, N. S., Dajani, R., Freemont, P.& Filloux, A. Structure-function analysis of HsiF,\na gp25-like component of the type VI secretionsystemin Pseudomonas aeruginosa.\nMicrobiology 157, 3292\u20133305 (2011).\n14. Bonemann, G., Pietrosiuk, A., Diemand, A., Zentgraf, H. & Mogk, A. Remodelling of\nVipA/VipB tubules by ClpV-mediated threading is crucial for type VI protein\nsecretion. EMBO J. 28, 315\u2013325 (2009).\n15. Pietrosiuk, A. et al. Molecular basis for the unique role of the AAA1 chaperone ClpV\nin type VI protein secretion. J. Biol. Chem. 286, 30010\u201330021 (2011).\n16. Mougous, J. D. et al. A virulence locus of Pseudomonas aeruginosa encodes a\nprotein secretion apparatus. Science 312, 1526\u20131530 (2006).\n17. Pedelacq, J. D., Cabantous, S., Tran, T., Terwilliger, T. C. & Waldo, G. S. Engineering\nand characterization of a superfolder green fluorescent protein. Nature Biotechnol.\n24, 79\u201388 (2006).\n18. Cho, H., McManus, H. R., Dove, S. L. & Bernhardt, T. G. Nucleoid occlusion factor\nSlmA is a DNA-activated FtsZ polymerization antagonist. Proc. Natl Acad. Sci. USA\n108, 3773\u20133778 (2011).\n19. Pilhofer, M., Ladinsky, M. S., McDowall, A. W. & Jensen, G. J. Bacterial TEM: new\ninsights from cryo-microscopy. Methods Cell Biol. 96, 21\u201345 (2010).\n20. Aschtgen, M. S., Bernard, C. S., De Bentzmann, S., Lloubes, R. & Cascales, E. SciN is\nan outermembrane lipoprotein required for type VI secretion in enteroaggregative\nEscherichia coli. J. Bacteriol. 190, 7523\u20137531 (2008).\n21. Aschtgen, M. S., Thomas, M. S. & Cascales, E. Anchoring the type VI secretion\nsystem to the peptidoglycan: TssL, TagL, TagP.what else? Virulence 1, 535\u2013540\n(2010).\n22. Aschtgen, M. S., Gavioli, M., Dessen, A., Lloubes, R. & Cascales, E. The SciZ protein\nanchors the enteroaggregative Escherichia coli type VI secretion system to the cell\nwall. Mol. Microbiol. 75, 886\u2013899 (2010).\n23. Kostyuchenko, V. A. et al. The tail structure of bacteriophage T4 and itsmechanism\nof contraction. Nature Struct. Mol. Biol. 12, 810\u2013813 (2005).\n24. Ballister, E. R., Lai, A. H., Zuckermann, R. N., Cheng, Y. & Mougous, J. D. In vitro selfassembly\nof tailorable nanotubes from a simple protein building block. Proc. Natl\nAcad. Sci. USA 105, 3733\u20133738 (2008).\n25. Goldberg, S. & Murphy, J. R. Molecular epidemiological studies of United States\nGulf Coast Vibrio cholerae strains: integration site of mutator vibriophage VcA-3.\nInfect. Immun. 42, 224\u2013230 (1983).\n26. Bina, J. E. & Mekalanos, J. J. Vibrio cholerae tolC is required for bile resistance and\ncolonization. Infect. Immun. 69, 4681\u20134685 (2001).\n27. Guzman, L. M., Belin, D., Carson, M. J. & Beckwith, J. Tight regulation, modulation,\nand high-level expression by vectors containing the arabinose PBAD promoter.\nJ. Bacteriol. 177, 4121\u20134130 (1995).\n28. Tivol, W. F., Briegel, A. & Jensen, G. J. An improved cryogen for plunge freezing.\nMicrosc. Microanal. 14, 375\u2013379 (2008).\n29. Suloway, C. et al. Fully automated, sequential tilt-series acquisition with Leginon.\nJ. Struct. Biol. 167, 11\u201318 (2009).\n30. Zheng, S. Q. et al. UCSF tomography: an integrated software suite for real-time\nelectron microscopic tomographic data collection, alignment, and reconstruction.\nJ. Struct. Biol. 157, 138\u2013147 (2007).\n31. Mastronarde, D. N. Correction for non-perpendicularity of beam and tilt axis in\ntomographic reconstructions with the IMOD package. J. Microsc. 230, 212\u2013217\n(2008).\n32. Amat, F. et al. Markov random field based automatic image alignment for electron\ntomography. J. Struct. Biol. 161, 260\u2013275 (2008).\n33. Nicastro, D. et al. Themolecular architecture of axonemesrevealed by cryoelectron\ntomography. Science 313, 944\u2013948 (2006).\n34. Pettersen, E. F. et al.UCSFChimera\u2013a visualization systemfor exploratory research\nand analysis. J. Comput. Chem. 25, 1605\u20131612 (2004).\n35. Metcalf, W. W. et al. Conditionally replicative and conjugative plasmids carrying\nlacZ alpha for cloning, mutagenesis, and allele replacement in bacteria. Plasmid\n35, 1\u201313 (1996).\n36. Iancu, C. V. et al. Electron cryotomography sample preparation using the Vitrobot.\nNature Protocols 1, 2813\u20132819 (2006)."
+         ]
+      },
+      "related_url": {
+         "items": [
+            {
+               "type": "doi",
+               "url": "http://dx.doi.org/10.1038/nature10846"
+            },
+            {
+               "type": "pub",
+               "url": "http://www.nature.com/nature/journal/v483/n7388/full/nature10846.html"
+            }
+         ]
+      },
+      "rev_number": 42,
+      "reviewer": "TD",
+      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
+      "status_changed": "2012-03-26 14:38:07",
+      "title": "Type VI secretion requires a dynamic contractile phage tail-like structure",
+      "type": "article",
+      "userid": 772,
+      "volume": "483"
+   },
+   {
+      "_Attachments": [
+         {
             "name": "102629.xml",
             "size": 29391,
             "sizes": {
@@ -48741,610 +49390,6 @@
       "title": "Type VI secretion requires a dynamic contractile phage tail-like structure",
       "type": "article",
       "userid": 6,
-      "volume": "483"
-   },
-   {
-      "_Attachments": [
-         {
-            "name": "29830.xml",
-            "size": 29774,
-            "sizes": {
-               "v0.0.1": 29774
-            },
-            "version": "v0.0.1",
-            "checksums": {
-               "v0.0.1": "bf2ac214ee190f4a129d570e85941f43"
-            },
-            "href": "CaltechAUTHORS.ds/pairtree/29/83/0/v0.0.1/29830.xml",
-            "version_hrefs": {
-               "v0.0.1": "CaltechAUTHORS.ds/pairtree/29/83/0/v0.0.1/29830.xml"
-            },
-            "created": "2020-03-27T14:36:38-07:00",
-            "modified": "2020-04-28T12:07:30-07:00"
-         }
-      ],
-      "_Key": "29830",
-      "abstract": "Type VI secretion systems are bacterial virulence-associated nanomachines composed of proteins that are evolutionarily related to components of bacteriophage tails. Here we show that protein secretion by the type VI secretion system of Vibrio cholerae requires the action of a dynamic intracellular tubular structure that is structurally and functionally homologous to contractile phage tail sheath. Time-lapse fluorescence light microscopy reveals that sheaths of the type VI secretion system cycle between assembly, quick contraction, disassembly and re-assembly. Whole-cell electron cryotomography further shows that the sheaths appear as long tubular structures in either extended or contracted conformations that are connected to the inner membrane by a distinct basal structure. These data support a model in which the contraction of the type VI secretion system sheath provides the energy needed to translocate proteins out of effector cells and into adjacent target cells.",
-      "collection": "CaltechAUTHORS",
-      "creators": {
-         "items": [
-            {
-               "id": "Basler-M",
-               "name": {
-                  "family": "Basler",
-                  "given": "M."
-               }
-            },
-            {
-               "id": "Pilhofer-M",
-               "name": {
-                  "family": "Pilhofer",
-                  "given": "M."
-               }
-            },
-            {
-               "id": "Henderson-G-P",
-               "name": {
-                  "family": "Henderson",
-                  "given": "G. P."
-               }
-            },
-            {
-               "id": "Jensen-G-J",
-               "name": {
-                  "family": "Jensen",
-                  "given": "G. J."
-               },
-               "orcid": "0000-0003-1556-4864"
-            },
-            {
-               "id": "Mekalanor-J-J",
-               "name": {
-                  "family": "Mekalanos",
-                  "given": "J. J."
-               }
-            }
-         ]
-      },
-      "date": "2012-03-08",
-      "date_type": "published",
-      "datestamp": "2012-03-26 14:38:08",
-      "dir": "disk0/00/02/98/30",
-      "documents": [
-         {
-            "content": "published",
-            "doc_id": 35820,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144882,
-                  "filename": "Basler2012p17527Nature.pdf",
-                  "filesize": 3353949,
-                  "id": "https://authors.library.caltech.edu/id/file/1144882",
-                  "mime_type": "application/pdf",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35820,
-                  "url": "https://authors.library.caltech.edu/29830/1/Basler2012p17527Nature.pdf"
-               }
-            ],
-            "format": "application/pdf",
-            "id": "https://authors.library.caltech.edu/id/document/35820",
-            "language": "en",
-            "license": "other",
-            "main": "Basler2012p17527Nature.pdf",
-            "mime_type": "",
-            "pos": 1,
-            "relation": [
-               {
-                  "type": "http://eprints.org/relation/hasVolatileVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238020"
-               },
-               {
-                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238020"
-               },
-               {
-                  "type": "http://eprints.org/relation/hasVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238020"
-               }
-            ],
-            "rev_number": 5,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35821,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144885,
-                  "filename": "nature10846-s1.pdf",
-                  "filesize": 13528888,
-                  "id": "https://authors.library.caltech.edu/id/file/1144885",
-                  "mime_type": "application/pdf",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35821,
-                  "url": "https://authors.library.caltech.edu/29830/2/nature10846-s1.pdf"
-               }
-            ],
-            "format": "application/pdf",
-            "id": "https://authors.library.caltech.edu/id/document/35821",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s1.pdf",
-            "mime_type": "",
-            "pos": 2,
-            "relation": [
-               {
-                  "type": "http://eprints.org/relation/hasVolatileVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238021"
-               },
-               {
-                  "type": "http://eprints.org/relation/haspreviewThumbnailVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238021"
-               },
-               {
-                  "type": "http://eprints.org/relation/hasVersion",
-                  "uri": "https://authors.library.caltech.edu/id/document/238021"
-               }
-            ],
-            "rev_number": 5,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35822,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144886,
-                  "filename": "nature10846-s2.mov",
-                  "filesize": 10098294,
-                  "id": "https://authors.library.caltech.edu/id/file/1144886",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35822,
-                  "url": "https://authors.library.caltech.edu/29830/3/nature10846-s2.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s2.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35822",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s2.mov",
-            "mime_type": "",
-            "pos": 3,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35823,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144887,
-                  "filename": "nature10846-s3.mov",
-                  "filesize": 6428816,
-                  "id": "https://authors.library.caltech.edu/id/file/1144887",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35823,
-                  "url": "https://authors.library.caltech.edu/29830/4/nature10846-s3.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s3.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35823",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s3.mov",
-            "mime_type": "",
-            "pos": 4,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35824,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144888,
-                  "filename": "nature10846-s4.mov",
-                  "filesize": 1840248,
-                  "id": "https://authors.library.caltech.edu/id/file/1144888",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35824,
-                  "url": "https://authors.library.caltech.edu/29830/5/nature10846-s4.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s4.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35824",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s4.mov",
-            "mime_type": "",
-            "pos": 5,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35825,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144889,
-                  "filename": "nature10846-s5.mov",
-                  "filesize": 6261645,
-                  "id": "https://authors.library.caltech.edu/id/file/1144889",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35825,
-                  "url": "https://authors.library.caltech.edu/29830/6/nature10846-s5.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s5.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35825",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s5.mov",
-            "mime_type": "",
-            "pos": 6,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35826,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144890,
-                  "filename": "nature10846-s6.mov",
-                  "filesize": 7782745,
-                  "id": "https://authors.library.caltech.edu/id/file/1144890",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35826,
-                  "url": "https://authors.library.caltech.edu/29830/7/nature10846-s6.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s6.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35826",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s6.mov",
-            "mime_type": "",
-            "pos": 7,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35827,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144891,
-                  "filename": "nature10846-s7.mov",
-                  "filesize": 2704240,
-                  "id": "https://authors.library.caltech.edu/id/file/1144891",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35827,
-                  "url": "https://authors.library.caltech.edu/29830/8/nature10846-s7.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s7.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35827",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s7.mov",
-            "mime_type": "",
-            "pos": 8,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35828,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144892,
-                  "filename": "nature10846-s8.mov",
-                  "filesize": 2102013,
-                  "id": "https://authors.library.caltech.edu/id/file/1144892",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35828,
-                  "url": "https://authors.library.caltech.edu/29830/9/nature10846-s8.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s8.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35828",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s8.mov",
-            "mime_type": "",
-            "pos": 9,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35829,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144893,
-                  "filename": "nature10846-s9.mov",
-                  "filesize": 5320596,
-                  "id": "https://authors.library.caltech.edu/id/file/1144893",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35829,
-                  "url": "https://authors.library.caltech.edu/29830/10/nature10846-s9.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s9.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35829",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s9.mov",
-            "mime_type": "",
-            "pos": 10,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35832,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144894,
-                  "filename": "nature10846-s10.mov",
-                  "filesize": 5443881,
-                  "id": "https://authors.library.caltech.edu/id/file/1144894",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35832,
-                  "url": "https://authors.library.caltech.edu/29830/11/nature10846-s10.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s10.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35832",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s10.mov",
-            "mime_type": "",
-            "pos": 11,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35833,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144895,
-                  "filename": "nature10846-s11.mov",
-                  "filesize": 29302303,
-                  "id": "https://authors.library.caltech.edu/id/file/1144895",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35833,
-                  "url": "https://authors.library.caltech.edu/29830/12/nature10846-s11.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s11.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35833",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s11.mov",
-            "mime_type": "",
-            "pos": 12,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "content": "supplemental",
-            "doc_id": 35834,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144896,
-                  "filename": "nature10846-s12.mov",
-                  "filesize": 27618224,
-                  "id": "https://authors.library.caltech.edu/id/file/1144896",
-                  "mime_type": "video/quicktime",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 35834,
-                  "url": "https://authors.library.caltech.edu/29830/13/nature10846-s12.mov"
-               }
-            ],
-            "format": "video/quicktime",
-            "format_desc": "s12.movie",
-            "id": "https://authors.library.caltech.edu/id/document/35834",
-            "language": "en",
-            "license": "other",
-            "main": "nature10846-s12.mov",
-            "mime_type": "",
-            "pos": 13,
-            "rev_number": 4,
-            "security": "internal"
-         },
-         {
-            "doc_id": 238020,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144881,
-                  "filename": "preview.png",
-                  "filesize": 217551,
-                  "hash": "bea7946a68b95c2ad0d4d26ff9d5e819",
-                  "hash_type": "MD5",
-                  "id": "https://authors.library.caltech.edu/id/file/1144881",
-                  "mime_type": "image/png",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 238020,
-                  "url": "https://authors.library.caltech.edu/29830/14/preview.png"
-               }
-            ],
-            "format": "image/png",
-            "id": "https://authors.library.caltech.edu/id/document/238020",
-            "language": "en",
-            "license": "other",
-            "main": "preview.png",
-            "mime_type": "",
-            "placement": 14,
-            "pos": 14,
-            "relation": [
-               {
-                  "type": "http://eprints.org/relation/isVolatileVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35820"
-               },
-               {
-                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35820"
-               },
-               {
-                  "type": "http://eprints.org/relation/isVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35820"
-               }
-            ],
-            "rev_number": 2,
-            "security": "internal"
-         },
-         {
-            "doc_id": 238021,
-            "eprint_id": 29830,
-            "files": [
-               {
-                  "datasetid": "document",
-                  "fileid": 1144884,
-                  "filename": "preview.png",
-                  "filesize": 138744,
-                  "hash": "91f9a56d1466b433738abe6d362c6285",
-                  "hash_type": "MD5",
-                  "id": "https://authors.library.caltech.edu/id/file/1144884",
-                  "mime_type": "image/png",
-                  "mtime": "2016-08-23 10:10:54",
-                  "objectid": 238021,
-                  "url": "https://authors.library.caltech.edu/29830/15/preview.png"
-               }
-            ],
-            "format": "image/png",
-            "id": "https://authors.library.caltech.edu/id/document/238021",
-            "language": "en",
-            "license": "other",
-            "main": "preview.png",
-            "mime_type": "",
-            "placement": 15,
-            "pos": 15,
-            "relation": [
-               {
-                  "type": "http://eprints.org/relation/isVolatileVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35821"
-               },
-               {
-                  "type": "http://eprints.org/relation/ispreviewThumbnailVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35821"
-               },
-               {
-                  "type": "http://eprints.org/relation/isVersionOf",
-                  "uri": "https://authors.library.caltech.edu/id/document/35821"
-               }
-            ],
-            "rev_number": 2,
-            "security": "internal"
-         }
-      ],
-      "eprint_id": 29830,
-      "eprint_status": "archive",
-      "full_text_status": "none",
-      "funders": {
-         "items": [
-            {
-               "agency": "National Institute of Allergy and Infectious Diseases",
-               "grant_number": "AI 018045"
-            },
-            {
-               "agency": "National Institute of Allergy and Infectious Diseases",
-               "grant_number": "AI 26289"
-            },
-            {
-               "agency": "National Institute of General Medical Sciences",
-               "grant_number": "GM094800B"
-            }
-         ]
-      },
-      "id": "https://authors.library.caltech.edu/id/eprint/29830",
-      "id_number": "CaltechAUTHORS:20120326-070420034",
-      "ispublished": "pub",
-      "issn": "0028-0836",
-      "lastmod": "2019-10-03 03:44:53",
-      "metadata_visibility": "show",
-      "note": "\u00a9 2012 Macmillan Publishers Limited. Received 03 October 2011. Accepted 09 January 2012. Published online 26 February 2012. We thank T. G. Bernhardt and N. T. Peters for assistance with fluorescence microscopy, discussions and for a gift of plasmids carrying sfGFP and mCherry2 genes. We thank the Nikon Imaging Center at Harvard Medical School for help with fluorescence microscopy, and Research Precision Instruments and Hamamatsu for lending an ORCA-Flash2.8 camera. We thank the Harvard Medical School Electron Microscopy Facility for help with and supervision of transmission\nelectron microscopy. We thank M. K. Waldor for a V. cholerae 2740-80 strain and discussions. We thank D. Ewen Cameron for a knockout construct pWM91-flgG. We thank B. Wen and Z. Li for initial cryotomographic studies. This work was supported by National Institute of Allergy and Infectious Diseases grants AI-018045 and AI-26289 to J.J.M. and National Institute of General Medical Sciences grant GM094800B to G.J.J. Author Contributions: All authors helped design and analyse experiments; M.B., M.P. and G.P.H. performed experiments, and M.B., M.P., G.J.J. and J.J.M. wrote the paper.",
-      "number": "7388",
-      "official_cit": "Type VI secretion requires a dynamic contractile phage tail-like structure\n\n    M. Basler,\n    M. Pilhofer,\n    G. P. Henderson,\n    G. J. Jensen &\n    J. J. Mekalanos\n\nMicroscopy reveals the dynamics of the type VI secretion system of Vibrio cholerae and its structural and functional resemblance to the contractile tail sheath of bacteriophages.",
-      "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20120326-070420034",
-      "pagerange": "182-187",
-      "publication": "Nature",
-      "publisher": "Nature Publishing Group",
-      "refereed": "TRUE",
-      "referencetext": {
-         "items": [
-            "1. Pukatzki, S. et al. Identification of a conserved bacterial protein secretion systemin\nVibrio cholerae using the Dictyosteliumhostmodel system. Proc.Natl Acad. Sci. USA\n103, 1528\u20131533 (2006).\n2. Ma, A. T., McAuley, S., Pukatzki, S. & Mekalanos, J. J. Translocation of a Vibrio\ncholerae type VI secretion effector requires bacterial endocytosis by host cells. Cell\nHost Microbe 5, 234\u2013243 (2009).\n3. Russell, A. B. et al. Type VI secretion delivers bacteriolytic effectors to target cells.\nNature 475, 343\u2013347 (2011).\n4. MacIntyre, D. L., Miyata, S. T., Kitaoka, M. & Pukatzki, S. The Vibrio cholerae type VI\nsecretion system displays antimicrobial properties. Proc. Natl Acad. Sci. USA 107,\n19520\u201319524 (2010).\n5. Schwarz, S. et al. Burkholderia type VI secretion systems have distinct roles in\neukaryotic and bacterial cell interactions. PLoS Pathog. 6, e1001068 (2010).\n6. Hood, R. D. et al. A type VI secretion system of Pseudomonas aeruginosa targets a\ntoxin to bacteria. Cell Host Microbe 7, 25\u201337 (2010).\n7. Zheng, J., Ho, B. & Mekalanos, J. J. Genetic analysis of anti-amoebae and antibacterial\nactivities of the type VI secretion system in Vibrio cholerae. PLoS ONE 6,\ne23876 (2011).\n8. Ma, A. T.&Mekalanos, J. J. In vivo actin cross-linking induced by Vibrio cholerae type\nVI secretion systemis associated with intestinal inflammation. Proc. Natl Acad. Sci.\nUSA 107, 4365\u20134370 (2010).\n9. Pukatzki, S., Ma, A. T., Revel, A. T., Sturtevant, D.& Mekalanos, J. J. Type VI secretion\nsystemtranslocates a phage tail spike-like protein into target cells where it crosslinks\nactin. Proc. Natl Acad. Sci. USA 104, 15508\u201315513 (2007).\n10. Leiman, P. G. et al. Type VI secretion apparatus and phage tail-associated protein\ncomplexes share a common evolutionary origin. Proc. Natl Acad. Sci. USA 106,\n4154\u20134159 (2009).\n11. Pell, L. G., Kanelis, V., Donaldson, L. W., Howell, P. L. & Davidson, A. R. The phage\nlambda major tail protein structure reveals a common evolution for long-tailed\nphages and the type VI bacterial secretion system. Proc. Natl Acad. Sci. USA 106,\n4160\u20134165 (2009).\n12. Leiman, P. G., Chipman, P. R., Kostyuchenko, V. A., Mesyanzhinov, V. V. &\nRossmann, M. G. Three-dimensional rearrangement of proteins in the tail of\nbacteriophage T4 on infection of its host. Cell 118, 419\u2013429 (2004).\n13. Lossi, N. S., Dajani, R., Freemont, P.& Filloux, A. Structure-function analysis of HsiF,\na gp25-like component of the type VI secretionsystemin Pseudomonas aeruginosa.\nMicrobiology 157, 3292\u20133305 (2011).\n14. Bonemann, G., Pietrosiuk, A., Diemand, A., Zentgraf, H. & Mogk, A. Remodelling of\nVipA/VipB tubules by ClpV-mediated threading is crucial for type VI protein\nsecretion. EMBO J. 28, 315\u2013325 (2009).\n15. Pietrosiuk, A. et al. Molecular basis for the unique role of the AAA1 chaperone ClpV\nin type VI protein secretion. J. Biol. Chem. 286, 30010\u201330021 (2011).\n16. Mougous, J. D. et al. A virulence locus of Pseudomonas aeruginosa encodes a\nprotein secretion apparatus. Science 312, 1526\u20131530 (2006).\n17. Pedelacq, J. D., Cabantous, S., Tran, T., Terwilliger, T. C. & Waldo, G. S. Engineering\nand characterization of a superfolder green fluorescent protein. Nature Biotechnol.\n24, 79\u201388 (2006).\n18. Cho, H., McManus, H. R., Dove, S. L. & Bernhardt, T. G. Nucleoid occlusion factor\nSlmA is a DNA-activated FtsZ polymerization antagonist. Proc. Natl Acad. Sci. USA\n108, 3773\u20133778 (2011).\n19. Pilhofer, M., Ladinsky, M. S., McDowall, A. W. & Jensen, G. J. Bacterial TEM: new\ninsights from cryo-microscopy. Methods Cell Biol. 96, 21\u201345 (2010).\n20. Aschtgen, M. S., Bernard, C. S., De Bentzmann, S., Lloubes, R. & Cascales, E. SciN is\nan outermembrane lipoprotein required for type VI secretion in enteroaggregative\nEscherichia coli. J. Bacteriol. 190, 7523\u20137531 (2008).\n21. Aschtgen, M. S., Thomas, M. S. & Cascales, E. Anchoring the type VI secretion\nsystem to the peptidoglycan: TssL, TagL, TagP.what else? Virulence 1, 535\u2013540\n(2010).\n22. Aschtgen, M. S., Gavioli, M., Dessen, A., Lloubes, R. & Cascales, E. The SciZ protein\nanchors the enteroaggregative Escherichia coli type VI secretion system to the cell\nwall. Mol. Microbiol. 75, 886\u2013899 (2010).\n23. Kostyuchenko, V. A. et al. The tail structure of bacteriophage T4 and itsmechanism\nof contraction. Nature Struct. Mol. Biol. 12, 810\u2013813 (2005).\n24. Ballister, E. R., Lai, A. H., Zuckermann, R. N., Cheng, Y. & Mougous, J. D. In vitro selfassembly\nof tailorable nanotubes from a simple protein building block. Proc. Natl\nAcad. Sci. USA 105, 3733\u20133738 (2008).\n25. Goldberg, S. & Murphy, J. R. Molecular epidemiological studies of United States\nGulf Coast Vibrio cholerae strains: integration site of mutator vibriophage VcA-3.\nInfect. Immun. 42, 224\u2013230 (1983).\n26. Bina, J. E. & Mekalanos, J. J. Vibrio cholerae tolC is required for bile resistance and\ncolonization. Infect. Immun. 69, 4681\u20134685 (2001).\n27. Guzman, L. M., Belin, D., Carson, M. J. & Beckwith, J. Tight regulation, modulation,\nand high-level expression by vectors containing the arabinose PBAD promoter.\nJ. Bacteriol. 177, 4121\u20134130 (1995).\n28. Tivol, W. F., Briegel, A. & Jensen, G. J. An improved cryogen for plunge freezing.\nMicrosc. Microanal. 14, 375\u2013379 (2008).\n29. Suloway, C. et al. Fully automated, sequential tilt-series acquisition with Leginon.\nJ. Struct. Biol. 167, 11\u201318 (2009).\n30. Zheng, S. Q. et al. UCSF tomography: an integrated software suite for real-time\nelectron microscopic tomographic data collection, alignment, and reconstruction.\nJ. Struct. Biol. 157, 138\u2013147 (2007).\n31. Mastronarde, D. N. Correction for non-perpendicularity of beam and tilt axis in\ntomographic reconstructions with the IMOD package. J. Microsc. 230, 212\u2013217\n(2008).\n32. Amat, F. et al. Markov random field based automatic image alignment for electron\ntomography. J. Struct. Biol. 161, 260\u2013275 (2008).\n33. Nicastro, D. et al. Themolecular architecture of axonemesrevealed by cryoelectron\ntomography. Science 313, 944\u2013948 (2006).\n34. Pettersen, E. F. et al.UCSFChimera\u2013a visualization systemfor exploratory research\nand analysis. J. Comput. Chem. 25, 1605\u20131612 (2004).\n35. Metcalf, W. W. et al. Conditionally replicative and conjugative plasmids carrying\nlacZ alpha for cloning, mutagenesis, and allele replacement in bacteria. Plasmid\n35, 1\u201313 (1996).\n36. Iancu, C. V. et al. Electron cryotomography sample preparation using the Vitrobot.\nNature Protocols 1, 2813\u20132819 (2006)."
-         ]
-      },
-      "related_url": {
-         "items": [
-            {
-               "type": "doi",
-               "url": "http://dx.doi.org/10.1038/nature10846"
-            },
-            {
-               "type": "pub",
-               "url": "http://www.nature.com/nature/journal/v483/n7388/full/nature10846.html"
-            }
-         ]
-      },
-      "rev_number": 42,
-      "reviewer": "TD",
-      "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2012-03-26 14:38:07",
-      "title": "Type VI secretion requires a dynamic contractile phage tail-like structure",
-      "type": "article",
-      "userid": 772,
       "volume": "483"
    },
    {
@@ -59916,7 +59961,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/15/00/3/v0.0.1/15003.xml"
             },
             "created": "2020-04-27T18:49:48-07:00",
-            "modified": "2020-04-29T04:01:56-07:00"
+            "modified": "2020-05-01T04:02:20-07:00"
          }
       ],
       "_Key": "15003",
@@ -61004,7 +61049,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/14/74/8/v0.0.1/14748.xml"
             },
             "created": "2020-04-27T18:49:49-07:00",
-            "modified": "2020-04-29T04:01:56-07:00"
+            "modified": "2020-05-01T04:02:20-07:00"
          }
       ],
       "_Key": "14748",
@@ -61168,7 +61213,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/12/83/5/v0.0.1/12835.xml"
             },
             "created": "2020-04-27T18:49:49-07:00",
-            "modified": "2020-04-29T04:01:56-07:00"
+            "modified": "2020-05-01T04:02:21-07:00"
          }
       ],
       "_Key": "12835",
@@ -62760,7 +62805,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/12/24/6/v0.0.1/12246.xml"
             },
             "created": "2020-04-27T18:49:49-07:00",
-            "modified": "2020-04-29T04:01:57-07:00"
+            "modified": "2020-05-01T04:02:21-07:00"
          }
       ],
       "_Key": "12246",
@@ -63805,7 +63850,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/14/20/5/v0.0.1/14205.xml"
             },
             "created": "2020-04-27T18:49:49-07:00",
-            "modified": "2020-04-29T04:01:56-07:00"
+            "modified": "2020-05-01T04:02:21-07:00"
          }
       ],
       "_Key": "14205",
@@ -64181,7 +64226,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/13/36/1/v0.0.1/13361.xml"
             },
             "created": "2020-04-27T18:49:49-07:00",
-            "modified": "2020-04-29T04:01:56-07:00"
+            "modified": "2020-05-01T04:02:21-07:00"
          }
       ],
       "_Key": "13361",
@@ -65638,7 +65683,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/6/v0.0.1/24666.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24666",
@@ -66201,7 +66246,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/4/v0.0.1/24664.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24664",
@@ -66485,7 +66530,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/5/v0.0.1/24665.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24665",
@@ -67104,7 +67149,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/2/v0.0.1/24662.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24662",
@@ -67584,7 +67629,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/22/35/9/v0.0.1/22359.xml"
             },
             "created": "2020-04-27T18:49:47-07:00",
-            "modified": "2020-04-29T04:01:55-07:00"
+            "modified": "2020-05-01T04:02:20-07:00"
          }
       ],
       "_Key": "22359",
@@ -67922,7 +67967,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/1/v0.0.1/24661.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24661",
@@ -68265,7 +68310,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/35/29/v0.0.1/3529.xml"
             },
             "created": "2020-04-27T18:49:53-07:00",
-            "modified": "2020-04-29T04:01:58-07:00"
+            "modified": "2020-05-01T04:02:22-07:00"
          }
       ],
       "_Key": "3529",
@@ -68520,7 +68565,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/64/5/v0.0.1/24645.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:54-07:00"
+            "modified": "2020-05-01T04:02:18-07:00"
          }
       ],
       "_Key": "24645",
@@ -68762,7 +68807,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/65/9/v0.0.1/24659.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24659",
@@ -68977,7 +69022,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/66/0/v0.0.1/24660.xml"
             },
             "created": "2020-04-27T18:49:44-07:00",
-            "modified": "2020-04-29T04:01:53-07:00"
+            "modified": "2020-05-01T04:02:17-07:00"
          }
       ],
       "_Key": "24660",
@@ -69192,7 +69237,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/65/8/v0.0.1/24658.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:54-07:00"
+            "modified": "2020-05-01T04:02:18-07:00"
          }
       ],
       "_Key": "24658",
@@ -69659,7 +69704,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/65/3/v0.0.1/24653.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:54-07:00"
+            "modified": "2020-05-01T04:02:18-07:00"
          }
       ],
       "_Key": "24653",
@@ -69858,7 +69903,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/65/2/v0.0.1/24652.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:54-07:00"
+            "modified": "2020-05-01T04:02:18-07:00"
          }
       ],
       "_Key": "24652",
@@ -70529,7 +70574,7 @@
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/24/64/8/v0.0.1/24648.xml"
             },
             "created": "2020-04-27T18:49:45-07:00",
-            "modified": "2020-04-29T04:01:54-07:00"
+            "modified": "2020-05-01T04:02:18-07:00"
          }
       ],
       "_Key": "24648",

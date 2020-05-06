@@ -3,20 +3,20 @@
       "_Attachments": [
          {
             "name": "100342.xml",
-            "size": 4944,
+            "size": 5144,
             "sizes": {
-               "v0.0.1": 4944
+               "v0.0.1": 5144
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "a5cc64cb34e9dd4dc9df94f4e3da166c"
+               "v0.0.1": "ee4acea910eafb4d19bf67b87d4263ca"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/03/42/v0.0.1/100342.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/03/42/v0.0.1/100342.xml"
             },
             "created": "2020-03-27T11:48:20-07:00",
-            "modified": "2020-04-28T09:34:39-07:00"
+            "modified": "2020-05-06T04:01:44-07:00"
          }
       ],
       "_Key": "100342",
@@ -73,7 +73,7 @@
             "mime_type": "application/pdf",
             "placement": 1,
             "pos": 1,
-            "rev_number": 4,
+            "rev_number": 6,
             "security": "internal"
          }
       ],
@@ -84,7 +84,7 @@
       "id_number": "CaltechAUTHORS:20191218-091029384",
       "ispublished": "pub",
       "issn": "1943-0264",
-      "lastmod": "2019-12-18 17:31:51",
+      "lastmod": "2020-05-04 20:21:07",
       "metadata_visibility": "show",
       "note": "\u00a9 2019 Cold Spring Harbor Laboratory Press.  The Authors acknowledge that six months after the full-issue publication date, the Article will be distributed under a Creative Commons CC-BY-NC License (Attribution-NonCommercial 4.0 International License, http://creativecommons.org/licenses/by-nc/4.0/).",
       "number": "12",
@@ -92,6 +92,7 @@
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20191218-091029384",
       "pagerange": "Art. No. a032151",
       "pages": "0",
+      "pmcid": "PMC6886450",
       "publication": "Cold Spring Harbor Perspectives in Biology",
       "publisher": "Cold Spring Harbor Laboratory Press",
       "refereed": "TRUE",
@@ -101,10 +102,15 @@
                "description": "Article",
                "type": "doi",
                "url": "https://doi.org/10.1101/cshperspect.a032151"
+            },
+            {
+               "description": "Article",
+               "type": "pmc",
+               "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6886450/"
             }
          ]
       },
-      "rev_number": 9,
+      "rev_number": 12,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
       "status_changed": "2019-12-18 17:31:51",

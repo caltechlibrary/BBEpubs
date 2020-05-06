@@ -3,20 +3,20 @@
       "_Attachments": [
          {
             "name": "102174.xml",
-            "size": 5188,
+            "size": 5374,
             "sizes": {
-               "v0.0.1": 5188
+               "v0.0.1": 5374
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "aa06056e11db7dda29d6f254a69b3654"
+               "v0.0.1": "7459d1369e92fec9cdf34cde8008bd38"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/21/74/v0.0.1/102174.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/21/74/v0.0.1/102174.xml"
             },
             "created": "2020-04-28T09:30:31-07:00",
-            "modified": "2020-04-28T09:30:31-07:00"
+            "modified": "2020-05-01T04:02:00-07:00"
          }
       ],
       "_Key": "102174",
@@ -51,7 +51,7 @@
                "id": "Liu-Charles-Y",
                "name": {
                   "family": "Liu",
-                  "given": "Charles"
+                  "given": "Charles Y."
                }
             },
             {
@@ -66,7 +66,7 @@
                "id": "Do-An-H",
                "name": {
                   "family": "Do",
-                  "given": "An"
+                  "given": "An H."
                }
             },
             {
@@ -85,8 +85,8 @@
             }
          ]
       },
-      "date": "2020-03-24",
-      "date_type": "inpress",
+      "date": "2020-04",
+      "date_type": "published",
       "datestamp": "2020-03-30 22:24:26",
       "dir": "disk0/00/10/21/74",
       "eprint_id": 102174,
@@ -102,12 +102,15 @@
       },
       "id": "https://authors.library.caltech.edu/id/eprint/102174",
       "id_number": "CaltechAUTHORS:20200330-151432453",
-      "ispublished": "inpress",
+      "ispublished": "pub",
       "issn": "1741-2560",
-      "lastmod": "2020-03-30 22:24:26",
+      "lastmod": "2020-04-29 19:52:37",
       "metadata_visibility": "show",
       "note": "\u00a9 2020 IOP Publishing Ltd. \n\nReceived 26 October 2019; Revised 15 February 2020; Accepted 24 March 2020; Accepted Manuscript online 24 March 2020.",
+      "number": "2",
+      "official_cit": "Haoran Pu et al 2020 J. Neural Eng. 17 026038",
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20200330-151432453",
+      "pagerange": "Art. No. 026038",
       "publication": "Journal of Neural Engineering",
       "publisher": "IOP",
       "refereed": "TRUE",
@@ -120,13 +123,14 @@
             }
          ]
       },
-      "rev_number": 5,
+      "rev_number": 9,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2020-03-30 22:24:26",
+      "status_changed": "2020-04-29 19:52:37",
       "title": "Optimal artifact suppression in simultaneous electrocorticography stimulation and recording for bi-directional brain-computer interface applications",
       "type": "article",
-      "userid": 18
+      "userid": 18,
+      "volume": "17"
    },
    {
       "_Attachments": [

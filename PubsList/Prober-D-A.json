@@ -3,20 +3,20 @@
       "_Attachments": [
          {
             "name": "101909.xml",
-            "size": 7482,
+            "size": 9248,
             "sizes": {
-               "v0.0.1": 7482
+               "v0.0.1": 9248
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "9fd45a572f91623dd4363cd54a8636a5"
+               "v0.0.1": "aa2fb4b769fc4132826c26adfef5abef"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/19/09/v0.0.1/101909.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/19/09/v0.0.1/101909.xml"
             },
             "created": "2020-03-27T11:44:52-07:00",
-            "modified": "2020-04-28T09:31:13-07:00"
+            "modified": "2020-05-06T04:01:39-07:00"
          }
       ],
       "_Key": "101909",
@@ -63,8 +63,8 @@
             }
          ]
       },
-      "date": "2020-03-12",
-      "date_type": "inpress",
+      "date": "2020-05-04",
+      "date_type": "published",
       "datestamp": "2020-03-16 14:10:17",
       "dir": "disk0/00/10/19/09",
       "documents": [
@@ -128,6 +128,36 @@
             "pos": 2,
             "rev_number": 3,
             "security": "public"
+         },
+         {
+            "content": "published",
+            "doc_id": 297583,
+            "eprint_id": 101909,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755941,
+                  "filename": "1-s2.0-S0960982220302037-main.pdf",
+                  "filesize": 3024012,
+                  "hash": "4db7c7bf05e784674dd3be3c9e2f47b4",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755941",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-05 20:24:31",
+                  "objectid": 297583,
+                  "url": "https://authors.library.caltech.edu/101909/3/1-s2.0-S0960982220302037-main.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/297583",
+            "language": "en",
+            "license": "other",
+            "main": "1-s2.0-S0960982220302037-main.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 3,
+            "rev_number": 4,
+            "security": "internal"
          }
       ],
       "eprint_id": 101909,
@@ -143,14 +173,16 @@
       },
       "id": "https://authors.library.caltech.edu/id/eprint/101909",
       "id_number": "CaltechAUTHORS:20200313-142322891",
-      "ispublished": "inpress",
+      "ispublished": "pub",
       "issn": "0960-9822",
       "keywords": "sleep; Drosophila; zebrafish; protein synthesis; protein translation; PERK; proteostasis; unfolded protein response; ER stress",
-      "lastmod": "2020-03-16 14:10:17",
+      "lastmod": "2020-05-05 20:41:57",
       "metadata_visibility": "show",
-      "note": "\u00a9 2020 Elsevier. \n\nReceived 2 August 2019, Revised 16 January 2020, Accepted 12 February 2020, Available online 12 March 2020. \n\nThe authors thank Sarah Hou and Sophie Leon for assistance in data collection. This study was funded by NIGMS (R01GM123783) to N.N. \n\nAuthor Contributions: S.L. and N.N. conceived the project. S.L., D.A.L., D.A.P., and N.N. were responsible for the study design and manuscript writing. S.L., D.A.L., and E.S. performed the experiments and analyzed data. D.A.P. and N.N. provided the resources for the project. \n\nThe authors declare no competing interests.",
-      "official_cit": "Sarah Ly, Daniel A. Lee, Ewa Strus, David A. Prober, Nirinjini Naidoo,\nEvolutionarily Conserved Regulation of Sleep by the Protein Translational Regulator PERK,\nCurrent Biology,\n2020,\n,\nISSN 0960-9822,\nhttps://doi.org/10.1016/j.cub.2020.02.030.",
+      "note": "\u00a9 2020 Elsevier. \n\nReceived 2 August 2019, Revised 16 January 2020, Accepted 12 February 2020, Available online 12 March 2020. \n\nThe authors thank Sarah Hou and Sophie Leon for assistance in data collection. This study was funded by NIGMS (R01GM123783) to N.N.\n\nData and Code Availability: The custom MATLAB and C+ code used to analyze Drosophila sleep data has been described previously [59]. This study did not generate large datasets. Further information and requests for experimental data should be directed to and be fulfilled by the Lead Contact, Nirinjini Naidoo (naidoo@pennmedicine.upenn.edu). \n\nAuthor Contributions: S.L. and N.N. conceived the project. S.L., D.A.L., D.A.P., and N.N. were responsible for the study design and manuscript writing. S.L., D.A.L., and E.S. performed the experiments and analyzed data. D.A.P. and N.N. provided the resources for the project. \n\nThe authors declare no competing interests.",
+      "number": "9",
+      "official_cit": "Sarah Ly, Daniel A. Lee, Ewa Strus, David A. Prober, Nirinjini Naidoo,\nEvolutionarily Conserved Regulation of Sleep by the Protein Translational Regulator PERK,\nCurrent Biology,\nVolume 30, Issue 9,\n2020,\nPages 1639-1648.e3,\nISSN 0960-9822,\nhttps://doi.org/10.1016/j.cub.2020.02.030.\n(http://www.sciencedirect.com/science/article/pii/S0960982220302037)",
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20200313-142322891",
+      "pagerange": "1639-1648",
       "publication": "Current Biology",
       "publisher": "Cell Press",
       "refereed": "TRUE",
@@ -172,13 +204,14 @@
             }
          ]
       },
-      "rev_number": 10,
-      "reviewer": "Tony Diaz",
+      "rev_number": 17,
+      "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2020-03-16 14:10:17",
+      "status_changed": "2020-05-05 20:41:57",
       "title": "Evolutionarily Conserved Regulation of Sleep by the Protein Translational Regulator PERK",
       "type": "article",
-      "userid": 6
+      "userid": 6,
+      "volume": "30"
    },
    {
       "_Attachments": [

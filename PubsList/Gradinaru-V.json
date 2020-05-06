@@ -3,20 +3,20 @@
       "_Attachments": [
          {
             "name": "100820.xml",
-            "size": 29579,
+            "size": 30834,
             "sizes": {
-               "v0.0.1": 29579
+               "v0.0.1": 30834
             },
             "version": "v0.0.1",
             "checksums": {
-               "v0.0.1": "12fa45e24f7d1ef6d5ec1d38cf229387"
+               "v0.0.1": "3fb26592a9f1ec5ce892168b782d6691"
             },
             "href": "CaltechAUTHORS.ds/pairtree/10/08/20/v0.0.1/100820.xml",
             "version_hrefs": {
                "v0.0.1": "CaltechAUTHORS.ds/pairtree/10/08/20/v0.0.1/100820.xml"
             },
             "created": "2020-04-28T09:33:37-07:00",
-            "modified": "2020-04-28T09:33:37-07:00"
+            "modified": "2020-05-06T04:01:43-07:00"
          }
       ],
       "_Key": "100820",
@@ -127,8 +127,8 @@
             }
          ]
       },
-      "date": "2020-04-20",
-      "date_type": "inpress",
+      "date": "2020-05",
+      "date_type": "published",
       "datestamp": "2020-04-20 15:38:45",
       "dir": "disk0/00/10/08/20",
       "documents": [
@@ -219,9 +219,9 @@
             "license": "other",
             "main": "41592_2020_799_MOESM1_ESM.pdf",
             "mime_type": "application/pdf",
-            "placement": 3,
+            "placement": 2,
             "pos": 3,
-            "rev_number": 2,
+            "rev_number": 4,
             "security": "public"
          },
          {
@@ -250,9 +250,9 @@
             "license": "other",
             "main": "41592_2020_799_MOESM2_ESM.pdf",
             "mime_type": "application/pdf",
-            "placement": 4,
+            "placement": 3,
             "pos": 4,
-            "rev_number": 2,
+            "rev_number": 4,
             "security": "public"
          },
          {
@@ -281,9 +281,9 @@
             "license": "other",
             "main": "41592_2020_799_MOESM3_ESM.mp4",
             "mime_type": "video/mp4",
-            "placement": 5,
+            "placement": 4,
             "pos": 5,
-            "rev_number": 3,
+            "rev_number": 5,
             "security": "public"
          },
          {
@@ -312,9 +312,9 @@
             "license": "other",
             "main": "41592_2020_799_MOESM4_ESM.xlsx",
             "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "placement": 6,
+            "placement": 5,
             "pos": 6,
-            "rev_number": 3,
+            "rev_number": 5,
             "security": "public"
          },
          {
@@ -343,9 +343,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig7_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 7,
+            "placement": 6,
             "pos": 7,
-            "rev_number": 2,
+            "rev_number": 4,
             "security": "public"
          },
          {
@@ -374,9 +374,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig8_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 8,
+            "placement": 7,
             "pos": 8,
-            "rev_number": 2,
+            "rev_number": 4,
             "security": "public"
          },
          {
@@ -405,9 +405,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig9_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 9,
+            "placement": 8,
             "pos": 9,
-            "rev_number": 2,
+            "rev_number": 4,
             "security": "public"
          },
          {
@@ -436,9 +436,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig10_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 10,
+            "placement": 9,
             "pos": 10,
-            "rev_number": 2,
+            "rev_number": 3,
             "security": "public"
          },
          {
@@ -467,9 +467,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig11_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 11,
+            "placement": 10,
             "pos": 11,
-            "rev_number": 2,
+            "rev_number": 3,
             "security": "public"
          },
          {
@@ -498,9 +498,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig12_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 12,
+            "placement": 11,
             "pos": 12,
-            "rev_number": 2,
+            "rev_number": 3,
             "security": "public"
          },
          {
@@ -529,9 +529,9 @@
             "license": "other",
             "main": "41592_2020_799_Fig13_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 13,
+            "placement": 12,
             "pos": 13,
-            "rev_number": 2,
+            "rev_number": 3,
             "security": "public"
          },
          {
@@ -560,10 +560,40 @@
             "license": "other",
             "main": "41592_2020_799_Fig14_ESM.jpg",
             "mime_type": "image/jpeg",
-            "placement": 14,
+            "placement": 13,
             "pos": 14,
-            "rev_number": 2,
+            "rev_number": 3,
             "security": "public"
+         },
+         {
+            "content": "published",
+            "doc_id": 297558,
+            "eprint_id": 100820,
+            "files": [
+               {
+                  "datasetid": "document",
+                  "fileid": 1755741,
+                  "filename": "s41592-020-0799-7.pdf",
+                  "filesize": 7654763,
+                  "hash": "dec5403afb31ca9550cda7da29a7c1ac",
+                  "hash_type": "MD5",
+                  "id": "https://authors.library.caltech.edu/id/file/1755741",
+                  "mime_type": "application/pdf",
+                  "mtime": "2020-05-05 17:14:30",
+                  "objectid": 297558,
+                  "url": "https://authors.library.caltech.edu/100820/15/s41592-020-0799-7.pdf"
+               }
+            ],
+            "format": "application/pdf",
+            "id": "https://authors.library.caltech.edu/id/document/297558",
+            "language": "en",
+            "license": "other",
+            "main": "s41592-020-0799-7.pdf",
+            "mime_type": "application/pdf",
+            "placement": 1,
+            "pos": 15,
+            "rev_number": 6,
+            "security": "internal"
          }
       ],
       "eprint_id": 100820,
@@ -613,10 +643,10 @@
       },
       "id": "https://authors.library.caltech.edu/id/eprint/100820",
       "id_number": "CaltechAUTHORS:20200121-141523675",
-      "ispublished": "inpress",
+      "ispublished": "pub",
       "issn": "1548-7091",
       "keywords": "Blood\u2013brain barrier; Molecular engineering; Mouse",
-      "lastmod": "2020-04-20 17:00:04",
+      "lastmod": "2020-05-05 17:18:47",
       "local_group": {
          "items": [
             "Heritage Medical Research Institute"
@@ -624,8 +654,10 @@
       },
       "metadata_visibility": "show",
       "note": "\u00a9 2020 Springer Nature Limited. \n\nReceived 08 April 2019; Accepted 10 March 2020; Published 20 April 2020. \n\nWe thank the following alumni and current members of the Gradinaru group for their assistance in this study: K. Y. Chan and R. Challis for performing mouse injections, R. Hurt for performing preliminary characterization of vectors, Y. Lei for assistance with cloning, K. Beadle for vector production, E. Sullivan for tissue sectioning, E. Mackey for tissue sectioning and mouse colony management, N. Flytzanis and N. Goeden for their contributions towards histology, imaging, data analysis and manuscript preparation, P. Anguiano for administrative assistance, and the entire Gradinaru group for discussions. We thank L. V. Sibener at Stanford University for sharing the Matlab scripts used in amino acid clustering analysis. We thank the Biological Imaging Facility at Caltech (supported by Caltech Beckman Institute and the Arnold and Mabel Beckman Foundation). We also thank the Millard and Muriel Jacobs Genetics and Genomics Laboratory at Caltech; and Integrative Genomics Core at City of Hope for providing sequencing service. This work was primarily supported by grants from the National Institutes of Health (NIH) to V.G.: NIH Director\u2019s New Innovator DP2NS087949 and PECASE, NIH BRAIN R01MH117069, NIH Pioneer DP1OD025535 and SPARC 1OT2OD024899. Additional funding includes the Vallee Foundation (V.G.), the Moore Foundation (V.G.), the CZI Neurodegeneration Challenge Network (V.G.), and the NSF NeuroNex Technology Hub grant 1707316 (V.G.), the Heritage Medical Research Institute (V.G.) and the Beckman Institute for CLARITY, Optogenetics and Vector Engineering Research (CLOVER) for technology development and dissemination (V.G.). \n\nData availability: The NGS datasets using the synthetic pool and PCR pool selection methods that are reported in this article are available under the SRA accession code PRJNA610987. The following vector plasmids are deposited on Addgene for distribution (http://www.addgene.org) AAV-PHP.V1: 127847, AAV-PHP.V2: 127848, AAV-PHP.B4: 127849, and AAV-PHP.N: 127851, and viruses may be available for commonly packaged genomes. Other plasmids or viruses not available at Addgene may be requested from Caltech, CLOVER Center (http://clover.caltech.edu/). GenBank: AAV-PHP.V1: MT162422, AAV-PHP.V2: MT162423, AAV-PHP.N: MT162424, AAV- PHP.C1: MT162425, AAV-PHP.C2: MT162426, AAV-PHP.C3: MT162427, AAV-PHP.B4: MT162428, AAV-PHP.B5: MT162429, AAV-PHP.B6: MT162430, AAV-PHP.B7: MT162431 and AAV-PHP.B8: MT162432. \n\nCode availability: The codes used for M-CREATE data analysis were written in python or MATLAB and are made available on GitHub: https://github.com/GradinaruLab/mCREATE. The custom MATLAB scripts to generate HCR probes is accessible through GitHub on a different repository: https://github.com/GradinaruLab/HCRprobe. \n\nAuthor Contributions: S.R.K., B.E.D., T.F.M. and V.G. designed the experiments. S.R.K., B.E.D., X.C., T.F.M., Y.L., A.G., Q.H. and M.J.J. performed experiments. X.C. assisted with virus production and characterization of AAV-PHP variants in mice. Q.H. assisted with method optimization, cloning, virus production and tissue harvest. Y.L. assisted with method optimization and processed tissues for deep sequencing for 3-mer-s library. T.F.M. performed the clustering analysis, contributed to experiments related to NGS data validation, variant assessment across mice strains and amino acid bias heat map analysis. A.G. processed and imaged cleared brain hemisphere, and compiled the Supplementary Video 1 with input from S.R.K., and V.G. D.B., T.D. and P.H.E. built the software to process the NGS raw data for analysis with input from B.E.D., T.F.M., V.G. and S.R.K. M.J.J. performed the HCR experiments. X.D. produced structural models for AAV9 and contributed to the data analysis pipeline. S.R.K. prepared the figures with input from all authors. S.R.K., T.F.M., B.E.D. and V.G. wrote the manuscript with input from all authors. V.G. supervised all aspects of the work. \n\nCompeting interests: The California Institute of Technology has filed and licensed a patent application for the work described in this manuscript with S.R.K., B.E.D., and V.G. listed as inventors (Caltech disclosure reference no. CIT 8198).",
-      "official_cit": "Ravindra Kumar, S., Miles, T.F., Chen, X. et al. Multiplexed Cre-dependent selection yields systemic AAVs for targeting distinct brain cell types. Nat Methods (2020). https://doi.org/10.1038/s41592-020-0799-7",
+      "number": "5",
+      "official_cit": "Ravindra Kumar, S., Miles, T.F., Chen, X. et al. Multiplexed Cre-dependent selection yields systemic AAVs for targeting distinct brain cell types. Nat Methods 17, 541\u2013550 (2020). https://doi.org/10.1038/s41592-020-0799-7",
       "official_url": "https://resolver.caltech.edu/CaltechAUTHORS:20200121-141523675",
+      "pagerange": "541-550",
       "publication": "Nature Methods",
       "publisher": "Nature Publishing Group",
       "refereed": "TRUE",
@@ -739,13 +771,14 @@
             }
          ]
       },
-      "rev_number": 36,
+      "rev_number": 45,
       "reviewer": "George Porter",
       "rights": "No commercial reproduction, distribution, display or performance rights in this work are provided.",
-      "status_changed": "2020-04-20 17:00:04",
+      "status_changed": "2020-05-05 17:18:47",
       "title": "Multiplexed Cre-dependent selection yields systemic AAVs for targeting distinct brain cell types",
       "type": "article",
-      "userid": 6
+      "userid": 6,
+      "volume": "17"
    },
    {
       "_Attachments": [
